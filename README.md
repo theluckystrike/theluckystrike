@@ -59,6 +59,7 @@ Currently on extension **#21 of 100**. Building in public. No VC, no team, no ex
 
 | Date | Update |
 |------|--------|
+| Feb 17 | **5 extensions open-sourced** on GitHub: [Tab Suspender](https://github.com/theluckystrike/tab-suspender-chrome-extension), [Cookie Manager](https://github.com/theluckystrike/cookie-manager-chrome-extension), [JSON Formatter](https://github.com/theluckystrike/json-formatter-chrome-extension), [Regex Tester](https://github.com/theluckystrike/regex-tester-chrome-extension), [Clipboard History](https://github.com/theluckystrike/clipboard-history-chrome-extension) |
 | Feb 10 | **Regex Tester Pro** launched on [Chrome Web Store](https://chromewebstore.google.com/detail/regex-tester-pro-by-zovo/laljckjnohfcbhmlehjkcppkdfibldad) |
 | Feb 10 | **Web Scraper Lite** launched on [Chrome Web Store](https://chromewebstore.google.com/detail/web-scraper-lite/mephllcmhpkkdbbngfiolhhpdpcogbnb) |
 | Feb 8 | **Tab Suspender Pro** dark mode added |
@@ -128,7 +129,7 @@ Most browser extensions are free bait. They hook you, then sell your data or get
 - **100% privacy-first** - your data never leaves your device
 - **No corporation, no investors** deciding to monetize your habits
 - **One developer** who actually reads your feature requests and ships them
-- **Open source** community editions [on GitHub](https://github.com/theluckystrike?tab=repositories)
+- **Open source** - 5 extensions fully open-sourced with MIT license ([browse repos](https://github.com/theluckystrike?tab=repositories&q=chrome-extension&type=public))
 - **$400K+** in delivered software, proof this model works
 
 If you find something broken or want a feature, [open an issue](https://github.com/theluckystrike). I will see it.
@@ -234,27 +235,38 @@ If you find something broken or want a feature, [open an issue](https://github.c
 
 ---
 
-## Featured Projects
+## Open Source Chrome Extensions
+
+These extensions are fully open source. Audit the code, contribute, or fork them.
 
 <div align="center">
 
-<a href="https://github.com/theluckystrike/web-scraper-lite">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=theluckystrike&repo=web-scraper-lite&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="web-scraper-lite" />
+| Extension | Description | Source | Chrome Web Store |
+|-----------|-------------|--------|-----------------|
+| **Tab Suspender Pro** | Auto-suspend idle tabs, save memory | [![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/theluckystrike/tab-suspender-chrome-extension) | [![CWS](https://img.shields.io/badge/Install-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/tab-suspender-pro-save-me/ofgncemnlblfnocjbojdhamacfffcpnm) |
+| **Cookie Manager Pro** | View, edit, export, and clean cookies | [![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/theluckystrike/cookie-manager-chrome-extension) | [![CWS](https://img.shields.io/badge/Install-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/cookie-manager-pro/oldljecjjmebgjhlhpaphdeobmogjpfh) |
+| **JSON Formatter Pro** | Format, validate, and beautify JSON | [![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/theluckystrike/json-formatter-chrome-extension) | [![CWS](https://img.shields.io/badge/Install-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/json-formatter-pro/gbnadjkeegkhbcoeaeaoedpojlcknnhp) |
+| **Regex Tester Pro** | Test, debug, and generate regex patterns | [![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/theluckystrike/regex-tester-chrome-extension) | [![CWS](https://img.shields.io/badge/Install-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/regex-tester-pro-by-zovo/laljckjnohfcbhmlehjkcppkdfibldad) |
+| **Clipboard History Pro** | 10,000-clip history, never lose a copy | [![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/theluckystrike/clipboard-history-chrome-extension) | [![CWS](https://img.shields.io/badge/Install-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/clipboard-history-pro/ddmidpneacclepjmdjibmcdijedgdidf) |
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/theluckystrike/tab-suspender-chrome-extension">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=theluckystrike&repo=tab-suspender-chrome-extension&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="tab-suspender-chrome-extension" />
 </a>
-<a href="https://github.com/theluckystrike/regex-tester-pro-source">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=theluckystrike&repo=regex-tester-pro-source&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="regex-tester-pro-source" />
+<a href="https://github.com/theluckystrike/cookie-manager-chrome-extension">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=theluckystrike&repo=cookie-manager-chrome-extension&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="cookie-manager-chrome-extension" />
 </a>
-<a href="https://github.com/theluckystrike/json-formatter-lite">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=theluckystrike&repo=json-formatter-lite&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="json-formatter-lite" />
+<a href="https://github.com/theluckystrike/json-formatter-chrome-extension">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=theluckystrike&repo=json-formatter-chrome-extension&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="json-formatter-chrome-extension" />
 </a>
-<a href="https://github.com/theluckystrike/zovo-tab-suspender-public">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=theluckystrike&repo=zovo-tab-suspender-public&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="zovo-tab-suspender-public" />
+<a href="https://github.com/theluckystrike/regex-tester-chrome-extension">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=theluckystrike&repo=regex-tester-chrome-extension&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="regex-tester-chrome-extension" />
 </a>
-<a href="https://github.com/theluckystrike/api-testing-pro-oss">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=theluckystrike&repo=api-testing-pro-oss&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="api-testing-pro-oss" />
-</a>
-<a href="https://github.com/theluckystrike/cookie-manager-pro-oss">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=theluckystrike&repo=cookie-manager-pro-oss&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="cookie-manager-pro-oss" />
+<a href="https://github.com/theluckystrike/clipboard-history-chrome-extension">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=theluckystrike&repo=clipboard-history-chrome-extension&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="clipboard-history-chrome-extension" />
 </a>
 
 </div>
