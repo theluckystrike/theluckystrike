@@ -23,7 +23,7 @@
 
 ---
 
-**Warsaw, Amsterdam, Da Nang** | M.Sc. Jagiellonian University
+**Warsaw, Amsterdam, Da Nang**
 
 I build Chrome extensions, solo. Not as a side project, as a business.
 
@@ -154,7 +154,7 @@ If you find something broken or want a feature, [open an issue](https://github.c
 
 **Languages spoken** English (Native), Polish (Native), Dutch, German
 
-**Education** M.Sc. Computer Science, Jagiellonian University. B.Sc., University of Warsaw
+**Education** B.Sc., University of Warsaw
 
 ---
 
