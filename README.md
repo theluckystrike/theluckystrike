@@ -252,7 +252,7 @@ Full changelog at [**zovo.one**](https://zovo.one).
 | Extension | What it does | Category | Users |
 |-----------|-------------|----------|-------|
 | | **AI & FLAGSHIP** | | |
-| [**BeLikeNative**](https://belikenative.com) | AI writing in 80 languages | <img src="https://img.shields.io/badge/flagship-7c3aed?style=flat-square" /> | ![](https://img.shields.io/chrome-web-store/users/pgjcgdmlhbgfhfaacpmbggioeflgljfk?style=flat-square&label=&color=a78bfa) |
+| [**BeLikeNative**](https://belikenative.com) | AI writing in 80 languages | <img src="https://img.shields.io/badge/flagship-7c3aed?style=flat-square" /> | 3,400+ |
 | [**BoldTake**](https://boldtake.io) | AI growth engine for X.com | <img src="https://img.shields.io/badge/flagship-7c3aed?style=flat-square" /> | — |
 | [**ReplyForge**](https://replyforge.io) | AI reply automation at scale | <img src="https://img.shields.io/badge/flagship-7c3aed?style=flat-square" /> | — |
 | | **DEVELOPER TOOLS** | | |
@@ -263,7 +263,7 @@ Full changelog at [**zovo.one**](https://zovo.one).
 | [**CSS Inspector**](https://zovo.one) | Inspect computed styles | <img src="https://img.shields.io/badge/dev-0D1117?style=flat-square&labelColor=0D1117" /> | — |
 | [**Color Picker Pro**](https://zovo.one) | Eyedropper and palette builder | <img src="https://img.shields.io/badge/dev-0D1117?style=flat-square&labelColor=0D1117" /> | — |
 | [**Color Contrast Checker**](https://zovo.one) | WCAG accessibility checker | <img src="https://img.shields.io/badge/dev-0D1117?style=flat-square&labelColor=0D1117" /> | — |
-| [**Timestamp Converter**](https://chromewebstore.google.com/detail/timestamp-converter-unix/naioglohelijfjeeglmpadgdafjdbfij) | Unix epoch to human time | <img src="https://img.shields.io/badge/dev-0D1117?style=flat-square&labelColor=0D1117" /> | ![](https://img.shields.io/chrome-web-store/users/naioglohelijfjeeglmpadgdafjdbfij?style=flat-square&label=&color=a78bfa) |
+| [**Timestamp Converter**](https://chromewebstore.google.com/detail/timestamp-converter-unix/naioglohelijfjeeglmpadgdafjdbfij) | Unix epoch to human time | <img src="https://img.shields.io/badge/dev-0D1117?style=flat-square&labelColor=0D1117" /> | — |
 | [**Base64 Encoder**](https://zovo.one) | Encode and decode in-tab | <img src="https://img.shields.io/badge/dev-0D1117?style=flat-square&labelColor=0D1117" /> | — |
 | | **PRODUCTIVITY** | | |
 | [**Tab Suspender Pro**](https://chromewebstore.google.com/detail/tab-suspender-pro-save-me/ofgncemnlblfnocjbojdhamacfffcpnm) | Suspend idle tabs, save RAM | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | ![](https://img.shields.io/chrome-web-store/users/ofgncemnlblfnocjbojdhamacfffcpnm?style=flat-square&label=&color=a78bfa) |
@@ -272,9 +272,9 @@ Full changelog at [**zovo.one**](https://zovo.one).
 | [**Form Filler Pro**](https://chromewebstore.google.com/detail/form-filler-pro-by-zovo-o/hmbedfhmeeljkifcnekoidogkplcbkpk) | One-click autofill any form | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | ![](https://img.shields.io/chrome-web-store/users/hmbedfhmeeljkifcnekoidogkplcbkpk?style=flat-square&label=&color=a78bfa) |
 | [**Text Expander Pro**](https://zovo.one) | Shortcuts to full snippets | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | — |
 | [**Focus Mode Pro**](https://zovo.one) | Block distracting sites | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | — |
-| [**Bookmark Search**](https://chromewebstore.google.com/detail/bookmark-search-find-any/dodkbpjmmojljcllcohmkhgpgkoabedn) | Fuzzy-search all bookmarks | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | ![](https://img.shields.io/chrome-web-store/users/dodkbpjmmojljcllcohmkhgpgkoabedn?style=flat-square&label=&color=a78bfa) |
-| [**Cookie Manager Pro**](https://chromewebstore.google.com/detail/cookie-manager-pro/oldljecjjmebgjhlhpaphdeobmogjpfh) | View, edit, clean cookies | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | ![](https://img.shields.io/chrome-web-store/users/oldljecjjmebgjhlhpaphdeobmogjpfh?style=flat-square&label=&color=a78bfa) |
-| [**Quick Notes**](https://chromewebstore.google.com/detail/quick-notes-simple-notepa/lkjjhgmjgmoajnpfimppjamdabecgepf) | Scratchpad in your browser | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | ![](https://img.shields.io/chrome-web-store/users/lkjjhgmjgmoajnpfimppjamdabecgepf?style=flat-square&label=&color=a78bfa) |
+| [**Bookmark Search**](https://chromewebstore.google.com/detail/bookmark-search-find-any/dodkbpjmmojljcllcohmkhgpgkoabedn) | Fuzzy-search all bookmarks | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | — |
+| [**Cookie Manager Pro**](https://chromewebstore.google.com/detail/cookie-manager-pro/oldljecjjmebgjhlhpaphdeobmogjpfh) | View, edit, clean cookies | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | — |
+| [**Quick Notes**](https://chromewebstore.google.com/detail/quick-notes-simple-notepa/lkjjhgmjgmoajnpfimppjamdabecgepf) | Scratchpad in your browser | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | — |
 
 <br/>
 
