@@ -35,19 +35,20 @@ Now I'm building toward 100. Ship beats perfect.
   ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  21 / 100
 ```
 
+**3,500+ users** across all extensions and growing.
+
 Currently shipping extension #21. Every tool respects one rule: your data stays on your machine.
 
 | What I'm working on | Status |
 |---|---|
 | **MetaMask Security PR** - Fixed 11 vulnerabilities in [extension-port-stream](https://github.com/MetaMask/extension-port-stream) (+998/-1,096 lines) | Under review |
-| **Growing BeLikeNative** - AI writing assistant in 80 languages, pushing to 5K users | 3,400+ users |
-| **Extension #21** - next in the privacy-first suite | Building |
+| **Growing BeLikeNative** to 5K users | 3,400+ and climbing |
 
 ---
 
 ## The Suite
 
-Top extensions by traction. Full catalog of 20 at [zovo.one](https://zovo.one).
+Top extensions by traction. Full catalog at [zovo.one](https://zovo.one).
 
 | Extension | What it does | Users |
 |-----------|-------------|-------|
@@ -60,7 +61,7 @@ Top extensions by traction. Full catalog of 20 at [zovo.one](https://zovo.one).
 | [**Form Filler Pro**](https://chromewebstore.google.com/detail/form-filler-pro-by-zovo-o/hmbedfhmeeljkifcnekoidogkplcbkpk) | One-click autofill any form | ![](https://img.shields.io/chrome-web-store/users/hmbedfhmeeljkifcnekoidogkplcbkpk?style=flat-square&label=&color=a78bfa) |
 
 <details>
-<summary><b>See all 20 extensions</b></summary>
+<summary><b>See all extensions</b></summary>
 
 <br/>
 
@@ -110,15 +111,8 @@ Top extensions by traction. Full catalog of 20 at [zovo.one](https://zovo.one).
 | [**Joland51/finance-platform-django**](https://github.com/Joland51/finance-platform-django) | Direct code contributions |
 | + 15 other repos | Bug fixes, security patches, docs |
 
-<details>
-<summary><b>Developer tools I've open-sourced</b></summary>
-
-<br/>
-
 - **[zovo-permissions-scanner](https://github.com/theluckystrike/zovo-permissions-scanner)** - Audit Chrome extension permissions at scale
 - **[extension-insiders](https://github.com/theluckystrike/extension-insiders)** - Intelligence tooling for the extension ecosystem
-
-</details>
 
 ---
 
@@ -127,30 +121,10 @@ Top extensions by traction. Full catalog of 20 at [zovo.one](https://zovo.one).
 
 <br/>
 
-10+ years across DevOps, embedded Linux, Chrome extensions, and AI automation.
+10+ years across DevOps, embedded Linux, Chrome extensions, and AI automation. 7,274 hours delivered across [47 contracts](https://www.upwork.com/freelancers/~01f1265f2b8f42b981).
 
-[47 contracts](https://www.upwork.com/freelancers/~01f1265f2b8f42b981), 7,274 hours, $400K+ earned - all at 100% Job Success. [Upwork Top Rated Plus](https://www.upwork.com/freelancers/~01f1265f2b8f42b981).
-
-<table>
-<tr>
-<td width="50%" align="center">
-<br/>
-<em>"Michael Lip is in the top 1% of architects I have ever worked with."</em>
-<br/><br/>
-<strong>John McConey</strong><br/>
-<sub>Director of Engineering at Powertek</sub>
-<br/><br/>
-</td>
-<td width="50%" align="center">
-<br/>
-<em>"If you are looking for a technical whizz with the heart of a teacher, look no further."</em>
-<br/><br/>
-<strong>Charlotte W.</strong><br/>
-<sub>Proven Administrator</sub>
-<br/><br/>
-</td>
-</tr>
-</table>
+> *"If you are looking for a technical whizz with the heart of a teacher, look no further."*
+> - **Charlotte W.**, Proven Administrator
 
 **Languages** English (Native), Polish (Native), Dutch, German
 
@@ -162,11 +136,6 @@ Top extensions by traction. Full catalog of 20 at [zovo.one](https://zovo.one).
 
 <div align="center">
 
-<img width="60%" src="https://streak-stats.demolab.com/?user=theluckystrike&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-<br/><br/>
-
-<a href="https://zovo.one"><img src="https://img.shields.io/badge/zovo.one-7c3aed?style=flat-square&logo=googlechrome&logoColor=white" alt="Zovo" /></a>&nbsp;
 <a href="https://x.com/_alphashark_"><img src="https://img.shields.io/badge/Follow_the_build-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>&nbsp;
 <a href="https://www.upwork.com/freelancers/~01f1265f2b8f42b981"><img src="https://img.shields.io/badge/Hire_me-6FDA44?style=flat-square&logo=upwork&logoColor=white" alt="Upwork" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/mlip-boldtake/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
