@@ -25,12 +25,12 @@
 
 **Warsaw, Amsterdam, Da Nang**
 
-I build Chrome extensions, solo. Not as a side project — as a business.
+I build Chrome extensions, solo. Not as a side project - as a business.
 
-[**Zovo**](https://zovo.one) is my extension suite — **20 tools live** on the Chrome Web Store.
+[**Zovo**](https://zovo.one) is my extension suite - **20 tools live** on the Chrome Web Store.
 [**BeLikeNative**](https://belikenative.com) is the flagship: an AI writing assistant with **3,400+ users** and a **4.6-star** rating.
 
-Before extensions: **$400K+ earned** as a freelance engineer — [Upwork Top Rated Plus](https://www.upwork.com/freelancers/~01f1265f2b8f42b981), 100% Job Success, 47 contracts.
+Before extensions: **$400K+ earned** as a freelance engineer - [Upwork Top Rated Plus](https://www.upwork.com/freelancers/~01f1265f2b8f42b981), 100% Job Success, 47 contracts.
 Now: **100+ repos**, **550+ contributions**, **23 PRs** across 18 open-source projects.
 
 Currently on extension **#21 of 100**. Building in public. Contributing upstream. No VC, no team, no excuses.
@@ -68,7 +68,7 @@ Currently on extension **#21 of 100**. Building in public. Contributing upstream
 <tr>
 <td align="center">
 
-**Building 100 privacy-first Chrome extensions — in public.**
+**Building 100 privacy-first Chrome extensions - in public.**
 
 Every week, another tool ships. Every extension respects one principle:<br/>
 **your data stays on your machine.**
@@ -94,22 +94,22 @@ Every week, another tool ships. Every extension respects one principle:<br/>
 <table>
 <tr>
 <td align="center" width="180">
-<h3>1 — 10</h3>
+<h3>1 - 10</h3>
 <img src="https://img.shields.io/badge/COMPLETE-2e7d32?style=flat-square" /><br/>
 <sub>Foundation laid.<br/>Core utilities shipped.</sub>
 </td>
 <td align="center" width="180">
-<h3>11 — 21</h3>
+<h3>11 - 21</h3>
 <img src="https://img.shields.io/badge/NOW-7c3aed?style=flat-square" /><br/>
 <sub>Going open source.<br/>Contributing upstream.</sub>
 </td>
 <td align="center" width="180">
-<h3>22 — 50</h3>
+<h3>22 - 50</h3>
 <img src="https://img.shields.io/badge/NEXT-6b7280?style=flat-square" /><br/>
 <sub>Developer tools.<br/>Ecosystem infrastructure.</sub>
 </td>
 <td align="center" width="180">
-<h3>51 — 100</h3>
+<h3>51 - 100</h3>
 <img src="https://img.shields.io/badge/HORIZON-6b7280?style=flat-square" /><br/>
 <sub>Full coverage.<br/>The privacy-first standard.</sub>
 </td>
@@ -141,14 +141,14 @@ Every week, another tool ships. Every extension respects one principle:<br/>
 <td width="50" align="center"><img src="https://img.shields.io/badge/%E2%80%8B-7c3aed?style=flat-square&labelColor=7c3aed" height="12" alt="" /></td>
 <td>
 <strong>Growing BeLikeNative to 5K users</strong><br/>
-<sub>At 3,400+ and climbing — AI writing assistant in 80 languages</sub>
+<sub>At 3,400+ and climbing - AI writing assistant in 80 languages</sub>
 </td>
 </tr>
 <tr>
 <td width="50" align="center"><img src="https://img.shields.io/badge/%E2%80%8B-a78bfa?style=flat-square&labelColor=a78bfa" height="12" alt="" /></td>
 <td>
 <strong>Ecosystem contributions</strong><br/>
-<sub>23 PRs across 18 external repos — fixing bugs, patching vulnerabilities, improving tools</sub>
+<sub>23 PRs across 18 external repos - fixing bugs, patching vulnerabilities, improving tools</sub>
 </td>
 </tr>
 </table>
@@ -171,9 +171,9 @@ Every week, another tool ships. Every extension respects one principle:<br/>
 <tr>
 <td width="100%" align="center">
 
-**I don't just build extensions — I contribute upstream.**<br/>
+**I don't just build extensions - I contribute upstream.**<br/>
 Every dependency I rely on, every tool in the Chrome extension ecosystem<br/>
-that could be better — that's where I show up with a PR, not a complaint.
+that could be better - that's where I show up with a PR, not a complaint.
 
 </td>
 </tr>
@@ -190,9 +190,9 @@ that could be better — that's where I show up with a PR, not a complaint.
 </td>
 <td>
 
-**[MetaMask/extension-port-stream](https://github.com/MetaMask/extension-port-stream)** — Fixed **11 security vulnerabilities**<br/>
+**[MetaMask/extension-port-stream](https://github.com/MetaMask/extension-port-stream)** - Fixed **11 security vulnerabilities**<br/>
 `+998` / `-1,096` lines changed &nbsp;·&nbsp; Dependency audit, upgrades, and lockfile hardening<br/>
-<sub>MetaMask serves **11M+ users** — this fix addresses real supply-chain security at scale.</sub>
+<sub>MetaMask serves **11M+ users** - this fix addresses real supply-chain security at scale.</sub>
 
 </td>
 </tr>
@@ -253,28 +253,28 @@ Full changelog at [**zovo.one**](https://zovo.one).
 |-----------|-------------|----------|-------|
 | | **AI & FLAGSHIP** | | |
 | [**BeLikeNative**](https://belikenative.com) | AI writing in 80 languages | <img src="https://img.shields.io/badge/flagship-7c3aed?style=flat-square" /> | 3,400+ |
-| [**BoldTake**](https://boldtake.io) | AI growth engine for X.com | <img src="https://img.shields.io/badge/flagship-7c3aed?style=flat-square" /> | — |
-| [**ReplyForge**](https://replyforge.io) | AI reply automation at scale | <img src="https://img.shields.io/badge/flagship-7c3aed?style=flat-square" /> | — |
+| [**BoldTake**](https://boldtake.io) | AI growth engine for X.com | <img src="https://img.shields.io/badge/flagship-7c3aed?style=flat-square" /> | - |
+| [**ReplyForge**](https://replyforge.io) | AI reply automation at scale | <img src="https://img.shields.io/badge/flagship-7c3aed?style=flat-square" /> | - |
 | | **DEVELOPER TOOLS** | | |
 | [**API Testing PRO**](https://chromewebstore.google.com/detail/api-testing-pro-by-zovo-r/oelgmpmdeafljelabhkohjiaifomlnla) | REST client in the browser | <img src="https://img.shields.io/badge/dev-0D1117?style=flat-square&labelColor=0D1117" /> | ![](https://img.shields.io/chrome-web-store/users/oelgmpmdeafljelabhkohjiaifomlnla?style=flat-square&label=&color=a78bfa) |
 | [**JSON Formatter Pro**](https://chromewebstore.google.com/detail/json-formatter-pro/gbnadjkeegkhbcoeaeaoedpojlcknnhp) | Format and validate JSON | <img src="https://img.shields.io/badge/dev-0D1117?style=flat-square&labelColor=0D1117" /> | ![](https://img.shields.io/chrome-web-store/users/gbnadjkeegkhbcoeaeaoedpojlcknnhp?style=flat-square&label=&color=a78bfa) |
 | [**Regex Tester Pro**](https://chromewebstore.google.com/detail/regex-tester-pro-by-zovo/laljckjnohfcbhmlehjkcppkdfibldad) | Test and debug regex with AI | <img src="https://img.shields.io/badge/dev-0D1117?style=flat-square&labelColor=0D1117" /> | ![](https://img.shields.io/chrome-web-store/users/laljckjnohfcbhmlehjkcppkdfibldad?style=flat-square&label=&color=a78bfa) |
 | [**Web Scraper Lite**](https://chromewebstore.google.com/detail/web-scraper-lite/mephllcmhpkkdbbngfiolhhpdpcogbnb) | Point-and-click data extraction | <img src="https://img.shields.io/badge/dev-0D1117?style=flat-square&labelColor=0D1117" /> | ![](https://img.shields.io/chrome-web-store/users/mephllcmhpkkdbbngfiolhhpdpcogbnb?style=flat-square&label=&color=a78bfa) |
-| [**CSS Inspector**](https://zovo.one) | Inspect computed styles | <img src="https://img.shields.io/badge/dev-0D1117?style=flat-square&labelColor=0D1117" /> | — |
-| [**Color Picker Pro**](https://zovo.one) | Eyedropper and palette builder | <img src="https://img.shields.io/badge/dev-0D1117?style=flat-square&labelColor=0D1117" /> | — |
-| [**Color Contrast Checker**](https://zovo.one) | WCAG accessibility checker | <img src="https://img.shields.io/badge/dev-0D1117?style=flat-square&labelColor=0D1117" /> | — |
-| [**Timestamp Converter**](https://chromewebstore.google.com/detail/timestamp-converter-unix/naioglohelijfjeeglmpadgdafjdbfij) | Unix epoch to human time | <img src="https://img.shields.io/badge/dev-0D1117?style=flat-square&labelColor=0D1117" /> | — |
-| [**Base64 Encoder**](https://zovo.one) | Encode and decode in-tab | <img src="https://img.shields.io/badge/dev-0D1117?style=flat-square&labelColor=0D1117" /> | — |
+| [**CSS Inspector**](https://zovo.one) | Inspect computed styles | <img src="https://img.shields.io/badge/dev-0D1117?style=flat-square&labelColor=0D1117" /> | - |
+| [**Color Picker Pro**](https://zovo.one) | Eyedropper and palette builder | <img src="https://img.shields.io/badge/dev-0D1117?style=flat-square&labelColor=0D1117" /> | - |
+| [**Color Contrast Checker**](https://zovo.one) | WCAG accessibility checker | <img src="https://img.shields.io/badge/dev-0D1117?style=flat-square&labelColor=0D1117" /> | - |
+| [**Timestamp Converter**](https://chromewebstore.google.com/detail/timestamp-converter-unix/naioglohelijfjeeglmpadgdafjdbfij) | Unix epoch to human time | <img src="https://img.shields.io/badge/dev-0D1117?style=flat-square&labelColor=0D1117" /> | - |
+| [**Base64 Encoder**](https://zovo.one) | Encode and decode in-tab | <img src="https://img.shields.io/badge/dev-0D1117?style=flat-square&labelColor=0D1117" /> | - |
 | | **PRODUCTIVITY** | | |
 | [**Tab Suspender Pro**](https://chromewebstore.google.com/detail/tab-suspender-pro-save-me/ofgncemnlblfnocjbojdhamacfffcpnm) | Suspend idle tabs, save RAM | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | ![](https://img.shields.io/chrome-web-store/users/ofgncemnlblfnocjbojdhamacfffcpnm?style=flat-square&label=&color=a78bfa) |
 | [**Clipboard History Pro**](https://chromewebstore.google.com/detail/clipboard-history-pro/ddmidpneacclepjmdjibmcdijedgdidf) | 10K-clip history, never lose a copy | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | ![](https://img.shields.io/chrome-web-store/users/ddmidpneacclepjmdjibmcdijedgdidf?style=flat-square&label=&color=a78bfa) |
 | [**Session Manager Pro**](https://chromewebstore.google.com/detail/session-manager-pro-by-zo/mhbfbnmokccombamjdflafbakdlnehlh) | Save, restore, crash-recover | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | ![](https://img.shields.io/chrome-web-store/users/mhbfbnmokccombamjdflafbakdlnehlh?style=flat-square&label=&color=a78bfa) |
 | [**Form Filler Pro**](https://chromewebstore.google.com/detail/form-filler-pro-by-zovo-o/hmbedfhmeeljkifcnekoidogkplcbkpk) | One-click autofill any form | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | ![](https://img.shields.io/chrome-web-store/users/hmbedfhmeeljkifcnekoidogkplcbkpk?style=flat-square&label=&color=a78bfa) |
-| [**Text Expander Pro**](https://zovo.one) | Shortcuts to full snippets | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | — |
-| [**Focus Mode Pro**](https://zovo.one) | Block distracting sites | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | — |
-| [**Bookmark Search**](https://chromewebstore.google.com/detail/bookmark-search-find-any/dodkbpjmmojljcllcohmkhgpgkoabedn) | Fuzzy-search all bookmarks | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | — |
-| [**Cookie Manager Pro**](https://chromewebstore.google.com/detail/cookie-manager-pro/oldljecjjmebgjhlhpaphdeobmogjpfh) | View, edit, clean cookies | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | — |
-| [**Quick Notes**](https://chromewebstore.google.com/detail/quick-notes-simple-notepa/lkjjhgmjgmoajnpfimppjamdabecgepf) | Scratchpad in your browser | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | — |
+| [**Text Expander Pro**](https://zovo.one) | Shortcuts to full snippets | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | - |
+| [**Focus Mode Pro**](https://zovo.one) | Block distracting sites | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | - |
+| [**Bookmark Search**](https://chromewebstore.google.com/detail/bookmark-search-find-any/dodkbpjmmojljcllcohmkhgpgkoabedn) | Fuzzy-search all bookmarks | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | - |
+| [**Cookie Manager Pro**](https://chromewebstore.google.com/detail/cookie-manager-pro/oldljecjjmebgjhlhpaphdeobmogjpfh) | View, edit, clean cookies | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | - |
+| [**Quick Notes**](https://chromewebstore.google.com/detail/quick-notes-simple-notepa/lkjjhgmjgmoajnpfimppjamdabecgepf) | Scratchpad in your browser | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | - |
 
 <br/>
 
@@ -290,10 +290,10 @@ Full changelog at [**zovo.one**](https://zovo.one).
 
 [**Zovo**](https://zovo.one) is a solo-built extension suite. No VC, no data harvesting, no bait-and-switch.
 
-- **Privacy-first** — your data never leaves your device
+- **Privacy-first** - your data never leaves your device
 - **One developer** who reads your feature requests and ships them
-- **Open source** — 5 extensions fully open-sourced with MIT license ([browse repos](https://github.com/theluckystrike?tab=repositories&q=chrome-extension&type=public))
-- **Ship beats perfect** — every tool started as something I needed, then I shared it
+- **Open source** - 5 extensions fully open-sourced with MIT license ([browse repos](https://github.com/theluckystrike?tab=repositories&q=chrome-extension&type=public))
+- **Ship beats perfect** - every tool started as something I needed, then I shared it
 
 If something is broken or you want a feature, [open an issue](https://github.com/theluckystrike). I will see it.
 
@@ -313,7 +313,7 @@ If something is broken or you want a feature, [open an issue](https://github.com
 
 <br/>
 
-10+ years across DevOps, embedded Linux, Chrome extensions, and AI automation. [47 contracts](https://www.upwork.com/freelancers/~01f1265f2b8f42b981), 7,274 hours, $400K+ earned — all at **100% Job Success**.
+10+ years across DevOps, embedded Linux, Chrome extensions, and AI automation. [47 contracts](https://www.upwork.com/freelancers/~01f1265f2b8f42b981), 7,274 hours, $400K+ earned - all at **100% Job Success**.
 
 <div align="center">
 
