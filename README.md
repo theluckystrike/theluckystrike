@@ -23,7 +23,7 @@ I build Chrome extensions, solo. Not as a side project - as a business.
 
 After 47 contracts and [$400K+ earned](https://www.upwork.com/freelancers/~01f1265f2b8f42b981) building for others (100% Job Success, Top Rated Plus), I decided to build for myself. [**Zovo**](https://zovo.one) is the result - 20 privacy-first tools on the Chrome Web Store, with [**BeLikeNative**](https://belikenative.com) as the flagship at 3,400+ users and a 4.6-star rating.
 
-Now I'm building toward 100. Ship beats perfect.
+Now I'm building toward 100. Every tool started as something I needed - then I shared it.
 
 > *"Michael Lip is in the top 1% of architects I have ever worked with."* - **John McConey**, Director of Engineering at Powertek
 
@@ -35,7 +35,7 @@ Now I'm building toward 100. Ship beats perfect.
   ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  21 / 100
 ```
 
-**3,500+ users** across all extensions and growing.
+<p align="center"><strong>3,500+ users</strong> across all extensions and growing.</p>
 
 Currently shipping extension #21. Every tool respects one rule: your data stays on your machine.
 
@@ -50,15 +50,15 @@ Currently shipping extension #21. Every tool respects one rule: your data stays 
 
 Top extensions by traction. Full catalog at [zovo.one](https://zovo.one).
 
-| Extension | What it does | Users |
-|-----------|-------------|-------|
-| [**BeLikeNative**](https://belikenative.com) | AI writing in 80 languages | 3,400+ |
-| [**Tab Suspender Pro**](https://chromewebstore.google.com/detail/tab-suspender-pro-save-me/ofgncemnlblfnocjbojdhamacfffcpnm) | Suspend idle tabs, save RAM | ![](https://img.shields.io/chrome-web-store/users/ofgncemnlblfnocjbojdhamacfffcpnm?style=flat-square&label=&color=a78bfa) |
-| [**Clipboard History Pro**](https://chromewebstore.google.com/detail/clipboard-history-pro/ddmidpneacclepjmdjibmcdijedgdidf) | 10K-clip history, never lose a copy | ![](https://img.shields.io/chrome-web-store/users/ddmidpneacclepjmdjibmcdijedgdidf?style=flat-square&label=&color=a78bfa) |
-| [**Session Manager Pro**](https://chromewebstore.google.com/detail/session-manager-pro-by-zo/mhbfbnmokccombamjdflafbakdlnehlh) | Save, restore, crash-recover tabs | ![](https://img.shields.io/chrome-web-store/users/mhbfbnmokccombamjdflafbakdlnehlh?style=flat-square&label=&color=a78bfa) |
-| [**API Testing PRO**](https://chromewebstore.google.com/detail/api-testing-pro-by-zovo-r/oelgmpmdeafljelabhkohjiaifomlnla) | REST client in the browser | ![](https://img.shields.io/chrome-web-store/users/oelgmpmdeafljelabhkohjiaifomlnla?style=flat-square&label=&color=a78bfa) |
-| [**JSON Formatter Pro**](https://chromewebstore.google.com/detail/json-formatter-pro/gbnadjkeegkhbcoeaeaoedpojlcknnhp) | Format and validate JSON | ![](https://img.shields.io/chrome-web-store/users/gbnadjkeegkhbcoeaeaoedpojlcknnhp?style=flat-square&label=&color=a78bfa) |
-| [**Form Filler Pro**](https://chromewebstore.google.com/detail/form-filler-pro-by-zovo-o/hmbedfhmeeljkifcnekoidogkplcbkpk) | One-click autofill any form | ![](https://img.shields.io/chrome-web-store/users/hmbedfhmeeljkifcnekoidogkplcbkpk?style=flat-square&label=&color=a78bfa) |
+| Extension | What it does |
+|-----------|-------------|
+| [**BeLikeNative**](https://belikenative.com) | AI writing in 80 languages |
+| [**Tab Suspender Pro**](https://chromewebstore.google.com/detail/tab-suspender-pro-save-me/ofgncemnlblfnocjbojdhamacfffcpnm) | Suspend idle tabs, save RAM |
+| [**Clipboard History Pro**](https://chromewebstore.google.com/detail/clipboard-history-pro/ddmidpneacclepjmdjibmcdijedgdidf) | 10K-clip history, never lose a copy |
+| [**Session Manager Pro**](https://chromewebstore.google.com/detail/session-manager-pro-by-zo/mhbfbnmokccombamjdflafbakdlnehlh) | Save, restore, crash-recover tabs |
+| [**API Testing PRO**](https://chromewebstore.google.com/detail/api-testing-pro-by-zovo-r/oelgmpmdeafljelabhkohjiaifomlnla) | REST client in the browser |
+| [**JSON Formatter Pro**](https://chromewebstore.google.com/detail/json-formatter-pro/gbnadjkeegkhbcoeaeaoedpojlcknnhp) | Format and validate JSON |
+| [**Form Filler Pro**](https://chromewebstore.google.com/detail/form-filler-pro-by-zovo-o/hmbedfhmeeljkifcnekoidogkplcbkpk) | One-click autofill any form |
 
 <details>
 <summary><b>See all extensions</b></summary>
@@ -88,15 +88,7 @@ Top extensions by traction. Full catalog at [zovo.one](https://zovo.one).
 
 ## Open Source
 
-5 extensions fully open-sourced under MIT. Audit the code, contribute, or fork.
-
-| Extension | Links |
-|-----------|-------|
-| **Tab Suspender Pro** | [Source](https://github.com/theluckystrike/tab-suspender-chrome-extension) / [Install](https://chromewebstore.google.com/detail/tab-suspender-pro-save-me/ofgncemnlblfnocjbojdhamacfffcpnm) |
-| **Cookie Manager Pro** | [Source](https://github.com/theluckystrike/cookie-manager-chrome-extension) / [Install](https://chromewebstore.google.com/detail/cookie-manager-pro/oldljecjjmebgjhlhpaphdeobmogjpfh) |
-| **JSON Formatter Pro** | [Source](https://github.com/theluckystrike/json-formatter-chrome-extension) / [Install](https://chromewebstore.google.com/detail/json-formatter-pro/gbnadjkeegkhbcoeaeaoedpojlcknnhp) |
-| **Regex Tester Pro** | [Source](https://github.com/theluckystrike/regex-tester-chrome-extension) / [Install](https://chromewebstore.google.com/detail/regex-tester-pro-by-zovo/laljckjnohfcbhmlehjkcppkdfibldad) |
-| **Clipboard History Pro** | [Source](https://github.com/theluckystrike/clipboard-history-chrome-extension) / [Install](https://chromewebstore.google.com/detail/clipboard-history-pro/ddmidpneacclepjmdjibmcdijedgdidf) |
+5 extensions fully open-sourced under MIT - [Tab Suspender Pro](https://github.com/theluckystrike/tab-suspender-chrome-extension), [Cookie Manager Pro](https://github.com/theluckystrike/cookie-manager-chrome-extension), [JSON Formatter Pro](https://github.com/theluckystrike/json-formatter-chrome-extension), [Regex Tester Pro](https://github.com/theluckystrike/regex-tester-chrome-extension), [Clipboard History Pro](https://github.com/theluckystrike/clipboard-history-chrome-extension). Audit the code, contribute, or fork.
 
 ---
 
@@ -104,15 +96,9 @@ Top extensions by traction. Full catalog at [zovo.one](https://zovo.one).
 
 23 PRs across 18 repositories. I use open-source tools - I fix what I find.
 
-| Repository | What I did |
-|------------|-----------|
-| [**MetaMask/extension-port-stream**](https://github.com/MetaMask/extension-port-stream) | Fixed 11 security vulnerabilities - dependency audit, upgrades, lockfile hardening |
-| [**RickyMarou/jest-webextension-mock**](https://github.com/RickyMarou/jest-webextension-mock) | Contributions to the standard WebExtension mocking library |
-| [**Joland51/finance-platform-django**](https://github.com/Joland51/finance-platform-django) | Direct code contributions |
-| + 15 other repos | Bug fixes, security patches, docs |
+Biggest: fixed 11 security vulnerabilities in [**MetaMask/extension-port-stream**](https://github.com/MetaMask/extension-port-stream) (+998/-1,096 lines) - MetaMask serves 11M+ users. Also contributed to [jest-webextension-mock](https://github.com/RickyMarou/jest-webextension-mock) (standard WebExtension testing library) and 15 other repos.
 
-- **[zovo-permissions-scanner](https://github.com/theluckystrike/zovo-permissions-scanner)** - Audit Chrome extension permissions at scale
-- **[extension-insiders](https://github.com/theluckystrike/extension-insiders)** - Intelligence tooling for the extension ecosystem
+Built [**zovo-permissions-scanner**](https://github.com/theluckystrike/zovo-permissions-scanner) - audits Chrome extension permissions at scale.
 
 ---
 

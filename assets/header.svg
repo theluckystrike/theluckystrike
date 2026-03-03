@@ -105,10 +105,10 @@
   <!-- Output block -->
   <g class="output">
     <text class="highlight" x="20" y="157" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="13">  ----</text>
-    <text class="cmd-text" x="20" y="175" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="13">  20 extensions shipped  |  3,400+ users  |  privacy-first  |  no VC</text>
+    <text class="cmd-text" x="20" y="175" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="13">  20 extensions shipped  |  3,500+ users  |  privacy-first  |  no VC</text>
     <text class="highlight" x="20" y="193" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace" font-size="13">  ----</text>
   </g>
 
-  <!-- Blinking cursor -->
-  <rect class="cursor highlight" x="20" y="147" width="8" height="2" rx="1"/>
+  <!-- Blinking cursor at end of line 3 -->
+  <rect class="cursor highlight" x="418" y="115" width="8" height="14" rx="1"/>
 </svg>
