@@ -5,38 +5,33 @@
 </a>
 
 <a href="https://zovo.one">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&height=50&lines=20+Chrome+extensions+live+%7C+3%2C400%2B+users;%24400K%2B+earned+building+software+solo;Building+extension+%2321+of+100;23+PRs+contributed+across+18+open-source+repos;You+tell+me+what+to+build.+I+build+it." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&height=50&lines=20+Chrome+extensions+live+%7C+3%2C400%2B+users;Building+extension+%2321+of+100;23+PRs+contributed+across+18+open-source+repos" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<a href="https://zovo.one"><img src="https://img.shields.io/badge/Zovo-Extension%20Suite-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Zovo" /></a>&nbsp;
-<a href="https://michaelip.dev"><img src="https://img.shields.io/badge/michaelip.dev-Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
-<a href="https://x.com/_alphashark_"><img src="https://img.shields.io/badge/@__alphashark__-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;
-<a href="https://www.upwork.com/freelancers/~01f1265f2b8f42b981"><img src="https://img.shields.io/badge/Upwork-Top%20Rated%20Plus-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/100+_Repos-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="100+ Repos" />
-<img src="https://img.shields.io/badge/20_Extensions-0D1117?style=for-the-badge&logo=googlechrome&logoColor=a78bfa" alt="20 Extensions" />
-<img src="https://img.shields.io/badge/3,400+_Users-7c3aed?style=for-the-badge&logo=users&logoColor=white" alt="3,400+ Users" />
-<img src="https://img.shields.io/badge/550+_Contributions-0D1117?style=for-the-badge&logo=git&logoColor=a78bfa" alt="550+ Contributions" />
-<img src="https://img.shields.io/badge/23_External_PRs-7c3aed?style=for-the-badge&logo=gitpullrequest&logoColor=white" alt="23 External PRs" />
-<img src="https://img.shields.io/badge/$400K+_Earned-0D1117?style=for-the-badge&logo=cashapp&logoColor=a78bfa" alt="$400K+ Earned" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=theluckystrike&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views" />
+<a href="https://zovo.one"><img src="https://img.shields.io/badge/Zovo-Extension%20Suite-7c3aed?style=flat&logo=googlechrome&logoColor=white" alt="Zovo" /></a>&nbsp;&nbsp;
+<a href="https://michaelip.dev"><img src="https://img.shields.io/badge/michaelip.dev-Portfolio-0f172a?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;&nbsp;
+<a href="https://x.com/_alphashark_"><img src="https://img.shields.io/badge/@__alphashark__-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>&nbsp;&nbsp;
+<a href="https://www.upwork.com/freelancers/~01f1265f2b8f42b981"><img src="https://img.shields.io/badge/Upwork-Top%20Rated%20Plus-6FDA44?style=flat&logo=upwork&logoColor=white" alt="Upwork" /></a>
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 **Warsaw, Amsterdam, Da Nang**
 
-I build Chrome extensions, solo. Not as a side project, as a business.
+I build Chrome extensions, solo. Not as a side project — as a business.
 
-[**Zovo**](https://zovo.one) is my extension suite. **20 tools live** on the Chrome Web Store. [**BeLikeNative**](https://belikenative.com) is the flagship, an AI writing assistant with **3,400+ users** and a 4.6-star rating. Before extensions, **$400K+ earned** as a freelance engineer ([Upwork Top Rated Plus](https://www.upwork.com/freelancers/~01f1265f2b8f42b981), 100% Job Success, 47 contracts).
+[**Zovo**](https://zovo.one) is my extension suite — **20 tools live** on the Chrome Web Store.
+[**BeLikeNative**](https://belikenative.com) is the flagship: an AI writing assistant with **3,400+ users** and a **4.6-star** rating.
+
+Before extensions: **$400K+ earned** as a freelance engineer — [Upwork Top Rated Plus](https://www.upwork.com/freelancers/~01f1265f2b8f42b981), 100% Job Success, 47 contracts.
+Now: **100+ repos**, **550+ contributions**, **23 PRs** across 18 open-source projects.
 
 Currently on extension **#21 of 100**. Building in public. Contributing upstream. No VC, no team, no excuses.
 
@@ -56,10 +51,10 @@ Currently on extension **#21 of 100**. Building in public. Contributing upstream
 
 ### Extension Development
 
-<img src="https://img.shields.io/badge/Chrome_Extensions_API-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extensions API" />
-<img src="https://img.shields.io/badge/Manifest_V3-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Manifest V3" />
-<img src="https://img.shields.io/badge/Service_Workers-0D1117?style=for-the-badge&logo=webcomponentsdotorg&logoColor=a78bfa" alt="Service Workers" />
-<img src="https://img.shields.io/badge/IndexedDB-0D1117?style=for-the-badge&logo=databricks&logoColor=a78bfa" alt="IndexedDB" />
+<img src="https://img.shields.io/badge/Chrome_Extensions_API-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Extensions API" />
+<img src="https://img.shields.io/badge/Manifest_V3-7c3aed?style=flat-square&logo=googlechrome&logoColor=white" alt="Manifest V3" />
+<img src="https://img.shields.io/badge/Service_Workers-0D1117?style=flat-square&logo=webcomponentsdotorg&logoColor=a78bfa" alt="Service Workers" />
+<img src="https://img.shields.io/badge/IndexedDB-0D1117?style=flat-square&logo=databricks&logoColor=a78bfa" alt="IndexedDB" />
 
 </div>
 
@@ -84,11 +79,11 @@ Every week, another tool ships. Every extension respects one principle:<br/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Progress-21%25-7c3aed?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Progress-21%25-7c3aed?style=flat-square" />
 &nbsp;
-<img src="https://img.shields.io/badge/Shipped-21_Extensions-0D1117?style=for-the-badge&logo=googlechrome&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/Shipped-21_Extensions-0D1117?style=flat-square&logo=googlechrome&logoColor=a78bfa" />
 &nbsp;
-<img src="https://img.shields.io/badge/Cadence-Weekly-7c3aed?style=for-the-badge&logo=clockify&logoColor=white" />
+<img src="https://img.shields.io/badge/Cadence-Weekly-7c3aed?style=flat-square&logo=clockify&logoColor=white" />
 
 </td>
 </tr>
@@ -129,28 +124,28 @@ Every week, another tool ships. Every extension respects one principle:<br/>
 
 <table>
 <tr>
-<td width="50" align="center">🧩</td>
+<td width="50" align="center"><img src="https://img.shields.io/badge/%E2%80%8B-7c3aed?style=flat-square&labelColor=7c3aed" height="12" alt="" /></td>
 <td>
 <strong>Extension #21 of 100</strong><br/>
 <sub>Building the largest privacy-first Chrome extension portfolio on GitHub</sub>
 </td>
 </tr>
 <tr>
-<td width="50" align="center">🦊</td>
+<td width="50" align="center"><img src="https://img.shields.io/badge/%E2%80%8B-a78bfa?style=flat-square&labelColor=a78bfa" height="12" alt="" /></td>
 <td>
 <strong>MetaMask Security PR</strong> &nbsp; <img src="https://img.shields.io/badge/under_review-a78bfa?style=flat-square&labelColor=0D1117" alt="Under Review" /><br/>
 <sub>Fixed 11 security vulnerabilities in extension-port-stream (+998/-1,096 lines)</sub>
 </td>
 </tr>
 <tr>
-<td width="50" align="center">📈</td>
+<td width="50" align="center"><img src="https://img.shields.io/badge/%E2%80%8B-7c3aed?style=flat-square&labelColor=7c3aed" height="12" alt="" /></td>
 <td>
 <strong>Growing BeLikeNative to 5K users</strong><br/>
 <sub>At 3,400+ and climbing — AI writing assistant in 80 languages</sub>
 </td>
 </tr>
 <tr>
-<td width="50" align="center">🌐</td>
+<td width="50" align="center"><img src="https://img.shields.io/badge/%E2%80%8B-a78bfa?style=flat-square&labelColor=a78bfa" height="12" alt="" /></td>
 <td>
 <strong>Ecosystem contributions</strong><br/>
 <sub>23 PRs across 18 external repos — fixing bugs, patching vulnerabilities, improving tools</sub>
@@ -164,9 +159,11 @@ Every week, another tool ships. Every extension respects one principle:<br/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/External_PRs-23_across_18_repos-7c3aed?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Issues_Filed-9_in_5_repos-0D1117?style=for-the-badge&logo=github&logoColor=a78bfa" />
-<img src="https://img.shields.io/badge/Discussions-40_across_5_repos-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/External_PRs-23_across_18_repos-7c3aed?style=flat-square&logo=git&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Issues_Filed-9_in_5_repos-0D1117?style=flat-square&logo=github&logoColor=a78bfa" />
+&nbsp;
+<img src="https://img.shields.io/badge/Discussions-40_across_5_repos-7c3aed?style=flat-square&logo=github&logoColor=white" />
 
 <br/><br/>
 
@@ -189,7 +186,7 @@ that could be better — that's where I show up with a PR, not a complaint.
 <table>
 <tr>
 <td align="center" width="80">
-  <img src="https://img.shields.io/badge/-MetaMask-F6851B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MetaMask-F6851B?style=flat-square&logoColor=white" />
 </td>
 <td>
 
@@ -217,11 +214,11 @@ that could be better — that's where I show up with a PR, not a complaint.
 <table>
 <tr>
 <td align="center" width="260">
-  <img src="https://img.shields.io/badge/zovo--permissions--scanner-New-7c3aed?style=for-the-badge" /><br/>
+  <img src="https://img.shields.io/badge/zovo--permissions--scanner-New-7c3aed?style=flat-square" /><br/>
   <sub>Audit Chrome extension permissions at scale</sub>
 </td>
 <td align="center" width="260">
-  <img src="https://img.shields.io/badge/extension--insiders-New-7c3aed?style=for-the-badge" /><br/>
+  <img src="https://img.shields.io/badge/extension--insiders-New-7c3aed?style=flat-square" /><br/>
   <sub>Intelligence tooling for the extension ecosystem</sub>
 </td>
 </tr>
@@ -241,54 +238,43 @@ that could be better — that's where I show up with a PR, not a complaint.
 | Mar 1 | **New developer tools** open-sourced: Permissions Scanner, Extension Insiders |
 | Feb 17 | **5 extensions open-sourced** on GitHub: [Tab Suspender](https://github.com/theluckystrike/tab-suspender-chrome-extension), [Cookie Manager](https://github.com/theluckystrike/cookie-manager-chrome-extension), [JSON Formatter](https://github.com/theluckystrike/json-formatter-chrome-extension), [Regex Tester](https://github.com/theluckystrike/regex-tester-chrome-extension), [Clipboard History](https://github.com/theluckystrike/clipboard-history-chrome-extension) |
 | Feb 10 | **Regex Tester Pro** launched on [Chrome Web Store](https://chromewebstore.google.com/detail/regex-tester-pro-by-zovo/laljckjnohfcbhmlehjkcppkdfibldad) |
-| Feb 10 | **Web Scraper Lite** launched on [Chrome Web Store](https://chromewebstore.google.com/detail/web-scraper-lite/mephllcmhpkkdbbngfiolhhpdpcogbnb) |
-| Feb 8 | **Tab Suspender Pro** dark mode added |
-| Feb 5 | **BeLikeNative** now supports 80 languages |
-| Feb 1 | **Form Filler Pro** random data generation (Pro) |
-| Jan 28 | **Clipboard History Pro** hit 100 users |
-| Jan 22 | **Session Manager Pro** auto-save on crash |
 
 Full changelog at [**zovo.one**](https://zovo.one).
 
 ---
 
-## Flagship Products
+## The Suite
 
-All available at [zovo.one](https://zovo.one)
-
-- [**BeLikeNative**](https://belikenative.com) - AI writing assistant in 80 languages, 3,400+ users, 4.6 stars - [Chrome Web Store](https://chromewebstore.google.com/detail/belikenative-ai-language/pgjcgdmlhbgfhfaacpmbggioeflgljfk)
-- [**BoldTake**](https://boldtake.io) - AI growth engine for X.com that auto-replies while you sleep
-- [**ReplyForge**](https://replyforge.io) - AI reply automation built for scale
-
----
-
-## Developer Tools
-
-- [**API Testing PRO**](https://chromewebstore.google.com/detail/api-testing-pro-by-zovo-r/oelgmpmdeafljelabhkohjiaifomlnla) - Full REST and HTTP client, right in the browser
-- [**JSON Formatter Pro**](https://chromewebstore.google.com/detail/json-formatter-pro/gbnadjkeegkhbcoeaeaoedpojlcknnhp) - Format, validate, and beautify JSON instantly
-- [**Regex Tester Pro**](https://chromewebstore.google.com/detail/regex-tester-pro-by-zovo/laljckjnohfcbhmlehjkcppkdfibldad) - Test, debug, and generate regex with AI assist
-- [**Web Scraper Lite**](https://chromewebstore.google.com/detail/web-scraper-lite/mephllcmhpkkdbbngfiolhhpdpcogbnb) - Point-and-click data extraction, no code needed
-- [**CSS Inspector**](https://zovo.one) - Inspect computed styles on any element
-- [**Color Picker Pro**](https://zovo.one) - Eyedropper, palette builder, and color codes
-- [**Color Contrast Checker**](https://zovo.one) - WCAG accessibility checker
-- [**Timestamp Converter**](https://chromewebstore.google.com/detail/timestamp-converter-unix/naioglohelijfjeeglmpadgdafjdbfij) - Unix epoch to human time and back
-- [**Base64 Encoder and Decoder**](https://zovo.one) - Encode and decode without leaving the tab
-
----
-
-## Productivity Tools
-
-- [**Tab Suspender Pro**](https://chromewebstore.google.com/detail/tab-suspender-pro-save-me/ofgncemnlblfnocjbojdhamacfffcpnm) - Auto-suspend idle tabs and reclaim your RAM, 5.0 stars
-- [**Clipboard History Pro**](https://chromewebstore.google.com/detail/clipboard-history-pro/ddmidpneacclepjmdjibmcdijedgdidf) - 10,000-clip history so nothing you copy ever disappears
-- [**Session Manager Pro**](https://chromewebstore.google.com/detail/session-manager-pro-by-zo/mhbfbnmokccombamjdflafbakdlnehlh) - Save, restore, and crash-recover your browser sessions
-- [**Form Filler Pro**](https://chromewebstore.google.com/detail/form-filler-pro-by-zovo-o/hmbedfhmeeljkifcnekoidogkplcbkpk) - One-click autofill for any web form, 5.0 stars
-- [**Text Expander Pro**](https://zovo.one) - Define shortcuts that expand into full snippets
-- [**Focus Mode Pro**](https://zovo.one) - Block distracting sites and protect deep work
-- [**Bookmark Search**](https://chromewebstore.google.com/detail/bookmark-search-find-any/dodkbpjmmojljcllcohmkhgpgkoabedn) - Fuzzy-search every bookmark you have ever saved
-- [**Cookie Manager Pro**](https://chromewebstore.google.com/detail/cookie-manager-pro/oldljecjjmebgjhlhpaphdeobmogjpfh) - View, edit, and clean cookies with precision
-- [**Quick Notes**](https://chromewebstore.google.com/detail/quick-notes-simple-notepa/lkjjhgmjgmoajnpfimppjamdabecgepf) - Scratchpad that lives in your browser
+20 privacy-first Chrome extensions. One developer. All at [zovo.one](https://zovo.one).
 
 <div align="center">
+
+| Extension | What it does | Category | Users |
+|-----------|-------------|----------|-------|
+| | **AI & FLAGSHIP** | | |
+| [**BeLikeNative**](https://belikenative.com) | AI writing in 80 languages | <img src="https://img.shields.io/badge/flagship-7c3aed?style=flat-square" /> | ![](https://img.shields.io/chrome-web-store/users/pgjcgdmlhbgfhfaacpmbggioeflgljfk?style=flat-square&label=&color=a78bfa) |
+| [**BoldTake**](https://boldtake.io) | AI growth engine for X.com | <img src="https://img.shields.io/badge/flagship-7c3aed?style=flat-square" /> | — |
+| [**ReplyForge**](https://replyforge.io) | AI reply automation at scale | <img src="https://img.shields.io/badge/flagship-7c3aed?style=flat-square" /> | — |
+| | **DEVELOPER TOOLS** | | |
+| [**API Testing PRO**](https://chromewebstore.google.com/detail/api-testing-pro-by-zovo-r/oelgmpmdeafljelabhkohjiaifomlnla) | REST client in the browser | <img src="https://img.shields.io/badge/dev-0D1117?style=flat-square&labelColor=0D1117" /> | ![](https://img.shields.io/chrome-web-store/users/oelgmpmdeafljelabhkohjiaifomlnla?style=flat-square&label=&color=a78bfa) |
+| [**JSON Formatter Pro**](https://chromewebstore.google.com/detail/json-formatter-pro/gbnadjkeegkhbcoeaeaoedpojlcknnhp) | Format and validate JSON | <img src="https://img.shields.io/badge/dev-0D1117?style=flat-square&labelColor=0D1117" /> | ![](https://img.shields.io/chrome-web-store/users/gbnadjkeegkhbcoeaeaoedpojlcknnhp?style=flat-square&label=&color=a78bfa) |
+| [**Regex Tester Pro**](https://chromewebstore.google.com/detail/regex-tester-pro-by-zovo/laljckjnohfcbhmlehjkcppkdfibldad) | Test and debug regex with AI | <img src="https://img.shields.io/badge/dev-0D1117?style=flat-square&labelColor=0D1117" /> | ![](https://img.shields.io/chrome-web-store/users/laljckjnohfcbhmlehjkcppkdfibldad?style=flat-square&label=&color=a78bfa) |
+| [**Web Scraper Lite**](https://chromewebstore.google.com/detail/web-scraper-lite/mephllcmhpkkdbbngfiolhhpdpcogbnb) | Point-and-click data extraction | <img src="https://img.shields.io/badge/dev-0D1117?style=flat-square&labelColor=0D1117" /> | ![](https://img.shields.io/chrome-web-store/users/mephllcmhpkkdbbngfiolhhpdpcogbnb?style=flat-square&label=&color=a78bfa) |
+| [**CSS Inspector**](https://zovo.one) | Inspect computed styles | <img src="https://img.shields.io/badge/dev-0D1117?style=flat-square&labelColor=0D1117" /> | — |
+| [**Color Picker Pro**](https://zovo.one) | Eyedropper and palette builder | <img src="https://img.shields.io/badge/dev-0D1117?style=flat-square&labelColor=0D1117" /> | — |
+| [**Color Contrast Checker**](https://zovo.one) | WCAG accessibility checker | <img src="https://img.shields.io/badge/dev-0D1117?style=flat-square&labelColor=0D1117" /> | — |
+| [**Timestamp Converter**](https://chromewebstore.google.com/detail/timestamp-converter-unix/naioglohelijfjeeglmpadgdafjdbfij) | Unix epoch to human time | <img src="https://img.shields.io/badge/dev-0D1117?style=flat-square&labelColor=0D1117" /> | ![](https://img.shields.io/chrome-web-store/users/naioglohelijfjeeglmpadgdafjdbfij?style=flat-square&label=&color=a78bfa) |
+| [**Base64 Encoder**](https://zovo.one) | Encode and decode in-tab | <img src="https://img.shields.io/badge/dev-0D1117?style=flat-square&labelColor=0D1117" /> | — |
+| | **PRODUCTIVITY** | | |
+| [**Tab Suspender Pro**](https://chromewebstore.google.com/detail/tab-suspender-pro-save-me/ofgncemnlblfnocjbojdhamacfffcpnm) | Suspend idle tabs, save RAM | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | ![](https://img.shields.io/chrome-web-store/users/ofgncemnlblfnocjbojdhamacfffcpnm?style=flat-square&label=&color=a78bfa) |
+| [**Clipboard History Pro**](https://chromewebstore.google.com/detail/clipboard-history-pro/ddmidpneacclepjmdjibmcdijedgdidf) | 10K-clip history, never lose a copy | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | ![](https://img.shields.io/chrome-web-store/users/ddmidpneacclepjmdjibmcdijedgdidf?style=flat-square&label=&color=a78bfa) |
+| [**Session Manager Pro**](https://chromewebstore.google.com/detail/session-manager-pro-by-zo/mhbfbnmokccombamjdflafbakdlnehlh) | Save, restore, crash-recover | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | ![](https://img.shields.io/chrome-web-store/users/mhbfbnmokccombamjdflafbakdlnehlh?style=flat-square&label=&color=a78bfa) |
+| [**Form Filler Pro**](https://chromewebstore.google.com/detail/form-filler-pro-by-zovo-o/hmbedfhmeeljkifcnekoidogkplcbkpk) | One-click autofill any form | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | ![](https://img.shields.io/chrome-web-store/users/hmbedfhmeeljkifcnekoidogkplcbkpk?style=flat-square&label=&color=a78bfa) |
+| [**Text Expander Pro**](https://zovo.one) | Shortcuts to full snippets | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | — |
+| [**Focus Mode Pro**](https://zovo.one) | Block distracting sites | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | — |
+| [**Bookmark Search**](https://chromewebstore.google.com/detail/bookmark-search-find-any/dodkbpjmmojljcllcohmkhgpgkoabedn) | Fuzzy-search all bookmarks | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | ![](https://img.shields.io/chrome-web-store/users/dodkbpjmmojljcllcohmkhgpgkoabedn?style=flat-square&label=&color=a78bfa) |
+| [**Cookie Manager Pro**](https://chromewebstore.google.com/detail/cookie-manager-pro/oldljecjjmebgjhlhpaphdeobmogjpfh) | View, edit, clean cookies | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | ![](https://img.shields.io/chrome-web-store/users/oldljecjjmebgjhlhpaphdeobmogjpfh?style=flat-square&label=&color=a78bfa) |
+| [**Quick Notes**](https://chromewebstore.google.com/detail/quick-notes-simple-notepa/lkjjhgmjgmoajnpfimppjamdabecgepf) | Scratchpad in your browser | <img src="https://img.shields.io/badge/productivity-a78bfa?style=flat-square" /> | ![](https://img.shields.io/chrome-web-store/users/lkjjhgmjgmoajnpfimppjamdabecgepf?style=flat-square&label=&color=a78bfa) |
 
 <br/>
 
@@ -302,17 +288,14 @@ All available at [zovo.one](https://zovo.one)
 
 ## Why Zovo
 
-Most browser extensions are free bait. They hook you, then sell your data or get acquired and killed.
+[**Zovo**](https://zovo.one) is a solo-built extension suite. No VC, no data harvesting, no bait-and-switch.
 
-[**Zovo**](https://zovo.one) is different.
+- **Privacy-first** — your data never leaves your device
+- **One developer** who reads your feature requests and ships them
+- **Open source** — 5 extensions fully open-sourced with MIT license ([browse repos](https://github.com/theluckystrike?tab=repositories&q=chrome-extension&type=public))
+- **Ship beats perfect** — every tool started as something I needed, then I shared it
 
-- **100% privacy-first** - your data never leaves your device
-- **No corporation, no investors** deciding to monetize your habits
-- **One developer** who actually reads your feature requests and ships them
-- **Open source** - 5 extensions fully open-sourced with MIT license ([browse repos](https://github.com/theluckystrike?tab=repositories&q=chrome-extension&type=public))
-- **$400K+** in delivered software, proof this model works
-
-If you find something broken or want a feature, [open an issue](https://github.com/theluckystrike). I will see it.
+If something is broken or you want a feature, [open an issue](https://github.com/theluckystrike). I will see it.
 
 ---
 
@@ -330,7 +313,7 @@ If you find something broken or want a feature, [open an issue](https://github.c
 
 <br/>
 
-10+ years of contract and product work across DevOps, embedded Linux, Chrome extensions, and AI automation. [47 completed engagements](https://www.upwork.com/freelancers/~01f1265f2b8f42b981), 7,274 hours logged, $400K+ earned, all at a **100% Job Success Score**.
+10+ years across DevOps, embedded Linux, Chrome extensions, and AI automation. [47 contracts](https://www.upwork.com/freelancers/~01f1265f2b8f42b981), 7,274 hours, $400K+ earned — all at **100% Job Success**.
 
 <div align="center">
 
@@ -365,8 +348,6 @@ If you find something broken or want a feature, [open an issue](https://github.c
 
 ## Domain Portfolio
 
-19 active domains across AI tooling, developer tools, fintech, and emerging verticals.
-
 | Domain | Vertical |
 |--------|----------|
 | [**michaelip.dev**](https://michaelip.dev) | Personal portfolio |
@@ -374,77 +355,6 @@ If you find something broken or want a feature, [open an issue](https://github.c
 | [**boldtake.io**](https://boldtake.io) | AI growth engine for X.com |
 | [**belikenative.com**](https://belikenative.com) | AI writing assistant |
 | [**replyforge.io**](https://replyforge.io) | AI reply automation |
-| [**postengine.app**](https://postengine.app) | Content engine |
-| [**guardianmdm.app**](https://guardianmdm.app) | MDM solution |
-| [**keywordplanner.app**](https://keywordplanner.app) | SEO keyword research |
-| [**typeflow.today**](https://typeflow.today) | Typing productivity |
-| [**theledger.vc**](https://theledger.vc) | VC and Finance |
-| [**coindex.pro**](https://coindex.pro) / [**.dev**](https://coindex.dev) / [**.info**](https://coindex.info) | Crypto index |
-| [**signalstream.pro**](https://signalstream.pro) | Signal processing |
-| [**lionheart.farm**](https://lionheart.farm) | Agriculture tech |
-| [**checkrisk.now**](https://checkrisk.now) | Risk assessment |
-| [**artisansquiz.fun**](https://artisansquiz.fun) | Quiz platform |
-| [**ridezero.pro**](https://ridezero.pro) | EV and Mobility |
-| [**cyfrowyagent.info**](https://cyfrowyagent.info) | Digital agent (PL) |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theluckystrike&theme=github_dark" alt="Profile Details" />
-
-<br/>
-
-<table>
-<tr>
-<td>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theluckystrike&theme=github_dark" alt="Repos per Language" />
-</td>
-<td>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theluckystrike&theme=github_dark" alt="Most Commit Language" />
-</td>
-</tr>
-<tr>
-<td>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theluckystrike&theme=github_dark" alt="Stats" />
-</td>
-<td>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theluckystrike&theme=github_dark&utcOffset=1" alt="Productive Time" />
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img width="60%" src="https://streak-stats.demolab.com/?user=theluckystrike&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-</div>
-
----
-
-## Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=theluckystrike&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117)](https://github.com/theluckystrike)
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theluckystrike/theluckystrike/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theluckystrike/theluckystrike/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/theluckystrike/theluckystrike/output/github-snake.svg" />
-</picture>
-
-</div>
 
 ---
 
@@ -466,39 +376,27 @@ These extensions are fully open source. Audit the code, contribute, or fork them
 
 ---
 
-## Philosophy
-
-I build things that work reliably, ship without drama, and respect the people who use them. The tools I find most interesting are the ones that remove friction, the ones you forget are even there because they just work.
-
-Ship beats perfect. Every tool on [Zovo](https://zovo.one) started as something I needed myself. I built it, used it, then shared it.
-
----
-
-## Get Involved
+## GitHub Activity
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theluckystrike&theme=github_dark" alt="Profile Details" />
+
+<br/><br/>
+
+<img width="60%" src="https://streak-stats.demolab.com/?user=theluckystrike&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+<br/><br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=theluckystrike&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117)](https://github.com/theluckystrike)
+
 <br/>
 
-<a href="https://github.com/theluckystrike?tab=repositories&q=chrome-extension&type=public">
-  <img src="https://img.shields.io/badge/Star_the_Repos-Open--source_extensions_need_your_support-7c3aed?style=for-the-badge&labelColor=0D1117" alt="Star the Repos" />
-</a>
-
-<br/><br/>
-
-<a href="https://zovo.one">
-  <img src="https://img.shields.io/badge/Try_the_Extensions-20_free_tools_on_the_Chrome_Web_Store-0D1117?style=for-the-badge&labelColor=7c3aed" alt="Try the Extensions" />
-</a>
-
-<br/><br/>
-
-<a href="https://x.com/_alphashark_">
-  <img src="https://img.shields.io/badge/Follow_the_Journey-Building_100_extensions_in_public-7c3aed?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117" alt="Follow on X" />
-</a>
-
-<br/><br/>
-
-<sub>Every star, install, and PR makes a difference. One developer can build something people actually use.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theluckystrike/theluckystrike/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theluckystrike/theluckystrike/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/theluckystrike/theluckystrike/output/github-snake.svg" />
+</picture>
 
 </div>
 
@@ -514,6 +412,10 @@ Ship beats perfect. Every tool on [Zovo](https://zovo.one) started as something 
 <a href="https://www.upwork.com/freelancers/~01f1265f2b8f42b981"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
 <a href="https://zovo.one"><img src="https://img.shields.io/badge/zovo.one-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Zovo" /></a>
 
+<br/><br/>
+
+<sub>[Star the repos](https://github.com/theluckystrike?tab=repositories&q=chrome-extension&type=public) · [Try the extensions](https://zovo.one) · [Follow the build](https://x.com/_alphashark_)</sub>
+
 </div>
 
 ---
@@ -521,6 +423,10 @@ Ship beats perfect. Every tool on [Zovo](https://zovo.one) started as something 
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0c29,50:302b63,100:24243e&section=footer" alt="footer" />
+
+<img src="https://komarev.com/ghpvc/?username=theluckystrike&style=flat&color=7c3aed&label=profile+views" alt="Profile Views" />
+
+<br/>
 
 <sub>Solo developer. 100+ repos. 20 Chrome extensions. Contributing to the open-source ecosystem. Shipping from everywhere. <a href="https://zovo.one">zovo.one</a></sub>
 
