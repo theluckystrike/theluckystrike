@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>theluckystrike // dino run</title>
+  <title>theluckystrike // lobster run</title>
   <style>
     *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 
@@ -61,6 +61,13 @@
     }
     #welcomeMsg .prompt { color: #7ee787; }
     #welcomeMsg p { margin-bottom: 6px; }
+
+    .cursor {
+      animation: blink 0.7s step-end infinite;
+    }
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
 
     #gameCanvas {
       display: block;
@@ -160,7 +167,7 @@
       <div class="dot red"></div>
       <div class="dot yellow"></div>
       <div class="dot green"></div>
-      <span class="terminal-title">theluckystrike@github ~ /dino-run</span>
+      <span class="terminal-title">theluckystrike@github ~ /lobster-run</span>
     </div>
     <div class="terminal-body">
       <div id="welcomeMsg">
@@ -199,12 +206,247 @@
 
 <script>
 // ============================================================================
+// TYPING ANIMATION
+// ============================================================================
+document.addEventListener("DOMContentLoaded", function () {
+  var CHAR_DELAY = 30;
+  var LINE_PAUSE = 300;
+  var BLINK_COUNT = 3;
+  var BLINK_INTERVAL = 700;
+  var SESSION_KEY = "welcomeAnimationPlayed";
+
+  var container = document.getElementById("welcomeMsg");
+  if (!container) return;
+
+  var paragraphs = container.querySelectorAll("p");
+  if (paragraphs.length < 2) return;
+
+  var lines = Array.from(paragraphs).map(function (p) {
+    var prompt = p.querySelector(".prompt");
+    var fullText = "";
+    for (var i = 0; i < p.childNodes.length; i++) {
+      var node = p.childNodes[i];
+      if (node !== prompt) fullText += node.textContent;
+    }
+    return { el: p, prompt: prompt, text: fullText };
+  });
+
+  if (sessionStorage.getItem(SESSION_KEY)) return;
+
+  lines.forEach(function (line) {
+    line.el.textContent = "";
+    line.el.appendChild(line.prompt);
+    line.textNode = document.createTextNode("");
+    line.el.appendChild(line.textNode);
+  });
+
+  var cursor = document.createElement("span");
+  cursor.className = "cursor";
+  cursor.textContent = "\u2588";
+
+  function typeLine(line, onComplete) {
+    line.el.appendChild(cursor);
+    var index = 0;
+    var text = line.text;
+    function typeNext() {
+      if (index < text.length) {
+        line.textNode.textContent += text.charAt(index);
+        index++;
+        setTimeout(typeNext, CHAR_DELAY);
+      } else {
+        onComplete();
+      }
+    }
+    typeNext();
+  }
+
+  function blinkAndRemoveCursor() {
+    var blinks = 0;
+    var timer = setInterval(function () {
+      blinks++;
+      if (blinks >= BLINK_COUNT) {
+        clearInterval(timer);
+        if (cursor.parentNode) cursor.parentNode.removeChild(cursor);
+      }
+    }, BLINK_INTERVAL);
+  }
+
+  typeLine(lines[0], function () {
+    setTimeout(function () {
+      if (cursor.parentNode) cursor.parentNode.removeChild(cursor);
+      typeLine(lines[1], function () {
+        blinkAndRemoveCursor();
+        sessionStorage.setItem(SESSION_KEY, "1");
+      });
+    }, LINE_PAUSE);
+  });
+});
+
+// ============================================================================
+// LOBSTER SPRITE
+// ============================================================================
+function drawLobster(ctx, x, y, animFrame) {
+  var RED = '#e74c3c';
+  var DARK = '#c0392b';
+  var WHITE = '#ffffff';
+  var CYAN = '#00e5cc';
+
+  var s = 2;
+
+  function px(col, row, color) {
+    ctx.fillStyle = color;
+    ctx.fillRect(x + col * s, y + row * s, s, s);
+  }
+  function run(col, row, len, color) {
+    ctx.fillStyle = color;
+    ctx.fillRect(x + col * s, y + row * s, len * s, s);
+  }
+  function rect(col, row, w, h, color) {
+    ctx.fillStyle = color;
+    ctx.fillRect(x + col * s, y + row * s, w * s, h * s);
+  }
+
+  // ANTENNAE
+  px(13, 0, DARK); px(14, 1, DARK); px(14, 2, DARK); px(13, 3, DARK);
+  px(16, 0, DARK); px(15, 1, DARK); px(15, 2, DARK); px(16, 3, DARK);
+
+  // HEAD
+  run(11, 4, 7, RED); run(10, 5, 9, RED); run(10, 6, 9, RED);
+  run(10, 7, 9, RED); run(11, 8, 7, RED);
+
+  // Eyes
+  px(17, 5, WHITE); px(18, 5, WHITE); px(17, 6, WHITE); px(18, 6, CYAN);
+  px(15, 5, WHITE); px(16, 5, WHITE); px(15, 6, WHITE); px(16, 6, CYAN);
+
+  // BODY SEGMENTS
+  run(9, 9, 9, RED); run(9, 10, 9, DARK);
+  run(7, 11, 12, RED); run(7, 12, 12, RED); run(7, 13, 12, DARK);
+  run(6, 14, 13, RED); run(6, 15, 13, RED); run(6, 16, 13, DARK);
+
+  // ABDOMEN / TAIL
+  run(4, 17, 13, RED); run(4, 18, 13, DARK);
+  run(2, 19, 12, RED); run(2, 20, 12, DARK);
+  run(0, 21, 10, RED); run(0, 22, 10, DARK);
+
+  // Tail fan
+  px(0, 21, DARK); run(0, 22, 2, DARK);
+  px(0, 23, DARK); px(1, 23, RED); px(2, 23, DARK);
+  px(4, 23, DARK); px(5, 23, RED); px(6, 23, DARK);
+  px(8, 23, DARK); px(9, 23, RED);
+
+  // UPPER CLAW
+  run(19, 8, 3, RED); run(19, 9, 3, RED);
+  rect(22, 6, 2, 2, DARK); rect(22, 7, 4, 2, RED); rect(24, 6, 2, 2, RED);
+  px(26, 7, DARK);
+  rect(22, 9, 4, 2, RED); px(26, 9, DARK); rect(22, 10, 2, 1, DARK);
+  px(25, 8, RED); px(26, 8, DARK);
+  px(22, 6, DARK); px(23, 6, DARK); px(24, 5, DARK); px(25, 5, DARK);
+  px(25, 6, RED); px(26, 6, DARK); px(26, 10, DARK);
+  px(25, 11, DARK); px(24, 11, DARK); px(22, 11, DARK); px(23, 11, DARK);
+
+  // LOWER CLAW
+  run(19, 12, 3, RED); run(19, 13, 3, RED);
+  rect(22, 11, 4, 2, RED); px(26, 11, DARK);
+  rect(22, 13, 4, 2, RED); px(26, 14, DARK);
+  px(25, 12, RED);
+  rect(22, 15, 2, 1, DARK); px(24, 15, DARK); px(25, 15, DARK);
+  px(26, 13, DARK); px(22, 10, DARK);
+
+  // LEGS (animated)
+  if (animFrame === 0) {
+    px(15, 17, DARK); px(16, 18, DARK); px(16, 19, DARK);
+    px(12, 17, DARK); px(12, 18, DARK); px(12, 19, DARK);
+    px(9, 17, DARK); px(8, 18, DARK); px(8, 19, DARK);
+    px(6, 17, DARK); px(5, 18, DARK); px(4, 19, DARK);
+  } else {
+    px(15, 17, DARK); px(14, 18, DARK); px(14, 19, DARK);
+    px(12, 17, DARK); px(12, 18, DARK); px(12, 19, DARK);
+    px(9, 17, DARK); px(10, 18, DARK); px(10, 19, DARK);
+    px(6, 17, DARK); px(7, 18, DARK); px(8, 19, DARK);
+  }
+}
+
+function drawLobsterStanding(ctx, x, y) {
+  var RED = '#e74c3c';
+  var DARK = '#c0392b';
+  var WHITE = '#ffffff';
+  var CYAN = '#00e5cc';
+
+  var s = 2;
+
+  function px(col, row, color) {
+    ctx.fillStyle = color;
+    ctx.fillRect(x + col * s, y + row * s, s, s);
+  }
+  function run(col, row, len, color) {
+    ctx.fillStyle = color;
+    ctx.fillRect(x + col * s, y + row * s, len * s, s);
+  }
+  function rect(col, row, w, h, color) {
+    ctx.fillStyle = color;
+    ctx.fillRect(x + col * s, y + row * s, w * s, h * s);
+  }
+
+  // ANTENNAE
+  px(13, 0, DARK); px(14, 1, DARK); px(14, 2, DARK); px(13, 3, DARK);
+  px(16, 0, DARK); px(15, 1, DARK); px(15, 2, DARK); px(16, 3, DARK);
+
+  // HEAD
+  run(11, 4, 7, RED); run(10, 5, 9, RED); run(10, 6, 9, RED);
+  run(10, 7, 9, RED); run(11, 8, 7, RED);
+
+  // Eyes
+  px(17, 5, WHITE); px(18, 5, WHITE); px(17, 6, WHITE); px(18, 6, CYAN);
+  px(15, 5, WHITE); px(16, 5, WHITE); px(15, 6, WHITE); px(16, 6, CYAN);
+
+  // BODY SEGMENTS
+  run(9, 9, 9, RED); run(9, 10, 9, DARK);
+  run(7, 11, 12, RED); run(7, 12, 12, RED); run(7, 13, 12, DARK);
+  run(6, 14, 13, RED); run(6, 15, 13, RED); run(6, 16, 13, DARK);
+
+  // ABDOMEN / TAIL
+  run(4, 17, 13, RED); run(4, 18, 13, DARK);
+  run(2, 19, 12, RED); run(2, 20, 12, DARK);
+  run(0, 21, 10, RED); run(0, 22, 10, DARK);
+
+  // Tail fan
+  px(0, 21, DARK); run(0, 22, 2, DARK);
+  px(0, 23, DARK); px(1, 23, RED); px(2, 23, DARK);
+  px(4, 23, DARK); px(5, 23, RED); px(6, 23, DARK);
+  px(8, 23, DARK); px(9, 23, RED);
+
+  // UPPER CLAW (raised)
+  run(19, 7, 3, RED); run(19, 8, 3, RED);
+  rect(22, 4, 2, 2, DARK); rect(22, 5, 4, 2, RED); rect(24, 4, 2, 2, RED);
+  px(26, 5, DARK);
+  rect(22, 7, 4, 2, RED); px(26, 7, DARK); rect(22, 9, 2, 1, DARK);
+  px(25, 6, RED); px(26, 6, DARK);
+  px(22, 4, DARK); px(23, 4, DARK); px(24, 3, DARK); px(25, 3, DARK);
+  px(25, 4, RED); px(26, 4, DARK); px(26, 8, DARK);
+  px(25, 9, DARK); px(24, 9, DARK); px(22, 9, DARK); px(23, 9, DARK);
+
+  // LOWER CLAW (raised)
+  run(19, 11, 3, RED); run(19, 12, 3, RED);
+  rect(22, 10, 4, 2, RED); px(26, 10, DARK);
+  rect(22, 12, 4, 2, RED); px(26, 13, DARK);
+  px(25, 11, RED);
+  rect(22, 14, 2, 1, DARK); px(24, 14, DARK); px(25, 14, DARK);
+  px(26, 12, DARK); px(22, 9, DARK);
+
+  // LEGS (all straight down)
+  px(15, 17, DARK); px(15, 18, DARK); px(15, 19, DARK);
+  px(12, 17, DARK); px(12, 18, DARK); px(12, 19, DARK);
+  px(9, 17, DARK); px(9, 18, DARK); px(9, 19, DARK);
+  px(6, 17, DARK); px(6, 18, DARK); px(6, 19, DARK);
+}
+
+// ============================================================================
 // GAME ENGINE
 // ============================================================================
 (function(){
   "use strict";
   var W=800,H=250,GY=200,GRAV=0.6,JF=-12,IS=5,MS=14,SI=0.001;
-  var DW=40,DH=44,DX=60;
+  var DW=54,DH=48,DX=60;
 
   function ri(a,b){return Math.floor(Math.random()*(b-a+1))+a}
   function rf(a,b){return Math.random()*(b-a)+a}
@@ -228,30 +470,26 @@
   Bump.prototype.update=function(sp){this.x-=sp;if(this.x<-10){this.x=W+ri(10,60);this.t=ri(0,2)}};
   Bump.prototype.draw=function(c){c.fillStyle="#a0a0a0";var y=GY+4;if(this.t===0)c.fillRect(this.x,y,3,2);else if(this.t===1)c.fillRect(this.x,y,6,1);else{c.fillRect(this.x,y,2,2);c.fillRect(this.x+5,y+2,2,2)}};
 
-  function Dino(){this.x=DX;this.y=GY-DH;this.w=DW;this.h=DH;this.vy=0;this.g=true;this.af=0;this.at=0}
-  Dino.prototype.jump=function(){if(this.g){this.vy=JF;this.g=false}};
-  Dino.prototype.update=function(){if(!this.g){this.vy+=GRAV;this.y+=this.vy;if(this.y>=GY-DH){this.y=GY-DH;this.vy=0;this.g=true}}this.at++;if(this.at>=6){this.at=0;this.af=this.af===0?1:0}};
-  Dino.prototype.draw=function(c,st){
+  function Player(){this.x=DX;this.y=GY-DH;this.w=DW;this.h=DH;this.vy=0;this.g=true;this.af=0;this.at=0}
+  Player.prototype.jump=function(){if(this.g){this.vy=JF;this.g=false}};
+  Player.prototype.update=function(){if(!this.g){this.vy+=GRAV;this.y+=this.vy;if(this.y>=GY-DH){this.y=GY-DH;this.vy=0;this.g=true}}this.at++;if(this.at>=6){this.at=0;this.af=this.af===0?1:0}};
+  Player.prototype.draw=function(c,st){
     var x=this.x,y=this.y;
-    c.fillStyle="#535353";
-    c.fillRect(x+8,y+4,24,26);c.fillRect(x+16,y,24,18);
-    c.fillStyle="#f7f7f7";c.fillRect(x+34,y+10,6,4);c.fillStyle="#535353";
-    c.fillStyle="#fff";c.fillRect(x+30,y+4,5,5);c.fillStyle="#000";c.fillRect(x+32,y+5,3,3);c.fillStyle="#535353";
-    c.fillRect(x,y+10,10,6);c.fillRect(x-2,y+8,4,4);
-    c.fillRect(x+26,y+22,4,8);c.fillRect(x+28,y+28,3,2);
-    if(st!=="playing"||!this.g){c.fillRect(x+10,y+30,8,14);c.fillRect(x+22,y+30,8,14);c.fillRect(x+10,y+42,10,2);c.fillRect(x+22,y+42,10,2)}
-    else if(this.af===0){c.fillRect(x+10,y+30,8,14);c.fillRect(x+10,y+42,10,2);c.fillRect(x+24,y+30,8,8)}
-    else{c.fillRect(x+22,y+30,8,14);c.fillRect(x+22,y+42,10,2);c.fillRect(x+8,y+30,8,8)}
+    if(st==="playing"&&this.g){
+      drawLobster(c,x,y,this.af);
+    } else {
+      drawLobsterStanding(c,x,y);
+    }
   };
-  Dino.prototype.bounds=function(){return{x:this.x+5,y:this.y+5,w:this.w-10,h:this.h-5}};
-  Dino.prototype.reset=function(){this.y=GY-DH;this.vy=0;this.g=true;this.af=0;this.at=0};
+  Player.prototype.bounds=function(){return{x:this.x+5,y:this.y+5,w:this.w-10,h:this.h-5}};
+  Player.prototype.reset=function(){this.y=GY-DH;this.vy=0;this.g=true;this.af=0;this.at=0};
 
-  var G={canvas:null,ctx:null,state:"waiting",dino:null,cacti:[],clouds:[],bumps:[],speed:IS,score:0,st:0,hi:0,fid:null};
+  var G={canvas:null,ctx:null,state:"waiting",player:null,cacti:[],clouds:[],bumps:[],speed:IS,score:0,st:0,hi:0,fid:null};
 
   G.init=function(cv){
     if(typeof cv==="string")cv=document.getElementById(cv);
     this.canvas=cv;this.ctx=cv.getContext("2d");cv.width=W;cv.height=H;
-    this.dino=new Dino();this.clouds=[];this.bumps=[];
+    this.player=new Player();this.clouds=[];this.bumps=[];
     for(var i=0;i<4;i++)this.clouds.push(new Cloud(ri(0,W),ri(30,100),rf(0.6,1.2)));
     for(var j=0;j<30;j++)this.bumps.push(new Bump(ri(0,W)));
     var self=this;
@@ -261,16 +499,16 @@
     this._loop();
   };
 
-  G._act=function(){if(this.state==="waiting")this.start();else if(this.state==="playing")this.dino.jump();else if(this.state==="gameover"){this.reset();this.start()}};
+  G._act=function(){if(this.state==="waiting")this.start();else if(this.state==="playing")this.player.jump();else if(this.state==="gameover"){this.reset();this.start()}};
 
   G.start=function(){
     if(this.state==="playing")return;
-    this.state="playing";this.score=0;this.st=0;this.speed=IS;this.cacti=[];this.dino.reset();
+    this.state="playing";this.score=0;this.st=0;this.speed=IS;this.cacti=[];this.player.reset();
     this.cacti.push(new Cactus(W+ri(200,400),ri(18,30),ri(30,55)));
     if(typeof window.onGameStart==="function")window.onGameStart();
   };
 
-  G.reset=function(){this.state="waiting";this.score=0;this.st=0;this.speed=IS;this.cacti=[];this.dino.reset()};
+  G.reset=function(){this.state="waiting";this.score=0;this.st=0;this.speed=IS;this.cacti=[];this.player.reset()};
 
   G._over=function(){
     this.state="gameover";
@@ -282,13 +520,13 @@
     if(this.state!=="playing")return;
     if(this.speed<MS)this.speed+=SI;
     this.st+=this.speed;if(this.st>=10){this.score+=Math.floor(this.st/10);this.st=this.st%10}
-    this.dino.update();
+    this.player.update();
     for(var i=this.cacti.length-1;i>=0;i--){this.cacti[i].update(this.speed);if(this.cacti[i].x+this.cacti[i].w<-20)this.cacti.splice(i,1)}
     if(this.cacti.length===0)this.cacti.push(new Cactus(W+ri(50,150),ri(18,30),ri(30,55)));
     else{var l=this.cacti[this.cacti.length-1];if(l.x<W-ri(300,600))this.cacti.push(new Cactus(W+ri(50,150),ri(18,30),ri(30,55)))}
     for(var c=0;c<this.clouds.length;c++)this.clouds[c].update(this.speed);
     for(var b=0;b<this.bumps.length;b++)this.bumps[b].update(this.speed);
-    var db=this.dino.bounds();
+    var db=this.player.bounds();
     for(var j=0;j<this.cacti.length;j++){var cb=this.cacti[j].bounds();if(hit(db.x,db.y,db.w,db.h,cb.x,cb.y,cb.w,cb.h)){this._over();return}}
     if(typeof window.onScoreUpdate==="function")window.onScoreUpdate(this.score);
   };
@@ -299,14 +537,14 @@
     c.fillStyle="#535353";c.fillRect(0,GY,W,2);
     for(var b=0;b<this.bumps.length;b++)this.bumps[b].draw(c);
     for(var j=0;j<this.cacti.length;j++)this.cacti[j].draw(c);
-    this.dino.draw(c,this.state);
+    this.player.draw(c,this.state);
     if(this.state==="waiting"){c.font="18px monospace";c.fillStyle="#535353";c.textAlign="center";c.fillText("Press Space or Tap to Start",W/2,H/2-10)}
     else if(this.state==="gameover"){c.font="20px monospace";c.fillStyle="#535353";c.textAlign="center";c.fillText("G A M E   O V E R",W/2,H/2-20);c.font="14px monospace";c.fillText("Press Space or Tap to Restart",W/2,H/2+10)}
   };
 
   G._loop=function(){this._update();this._draw();this.fid=requestAnimationFrame(this._loop.bind(this))};
 
-  window.DinoGame=G;
+  window.LobsterGame=G;
 })();
 
 // ============================================================================
@@ -383,7 +621,7 @@
 
   // Init
   load();renderBoard();updateScore(0);
-  window.DinoGame.init(cv);
+  window.LobsterGame.init(cv);
 })();
 </script>
 </body>
