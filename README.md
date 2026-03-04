@@ -9,8 +9,12 @@
 ║  theluckystrike · Michael Lip · Chrome Extension Engineer    ║
 ║  20 extensions live · 3,400+ users · $400K+ on Upwork        ║
 ║  Building @zovo/webext — the open WebExtensions framework    ║
+║                                                              ║
+║  Take a break. Play the dino game.                           ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
+
+[![Play Dino Game](https://img.shields.io/badge/play-dino%20game-0D1117?style=flat-square&logo=google-chrome&logoColor=white)](https://theluckystrike.github.io/theluckystrike/dino/)
 
 [![Zovo](https://img.shields.io/badge/zovo.one-Extension%20Suite-7c3aed?style=flat-square&logo=googlechrome&logoColor=white)](https://zovo.one)
 [![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated%20Plus-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f1265f2b8f42b981)
