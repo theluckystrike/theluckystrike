@@ -108,8 +108,8 @@ M.Sc. Computer Science, Jagiellonian University · B.Sc., University of Warsaw
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theluckystrike&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theluckystrike&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=theluckystrike&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theluckystrike&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=theluckystrike&theme=tokyonight&hide_border=true&background=0D1117)
 
