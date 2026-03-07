@@ -21,120 +21,90 @@
 
 </div>
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Chrome Extensions](https://img.shields.io/badge/-Chrome%20Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+# Chrome Extension Engineering
 
----
+## The Ecosystem
 
-## What I Build
+I maintain 90+ open-source repositories for Chrome extension development. Starters, libraries, guides, and production extensions. Everything a developer needs to go from zero to published extension.
 
-I build Chrome extensions. Not as a side project. As a business.
+### For Beginners
+Start here if you have never built a Chrome extension.
 
-[Zovo](https://zovo.one) is my extension suite. 20 tools on the Chrome Web Store. [BeLikeNative](https://belikenative.com) is the flagship. AI writing assistant in 80 languages, 3,400+ users, 4.6 stars.
-
-I earned $400K+ as a freelance engineer before this. Upwork Top Rated Plus. 100% Job Success Score. 47 contracts. I know how to ship software that clients pay for and users keep.
-
----
-
-## @zovo/webext. OSS Framework for Chrome Extensions
-
-I'm extracting everything I've learned building 20 extensions into a production-grade open-source toolkit for the WebExtensions ecosystem.
-
-| Package | What it does |
+| Resource | Description |
 |---|---|
-| [`chrome-storage-plus`](https://github.com/theluckystrike/chrome-storage-plus) | Type-safe storage with schema validation, migrations, reactive state |
-| [`form-filler-pro`](https://github.com/theluckystrike/form-filler-pro) | Smart autofill. 40+ field types, rules engine, multi-step sequences |
-| [`ext-options-manager`](https://github.com/theluckystrike/ext-options-manager) | Declarative options page manager for any browser extension |
-| [`webext-reactive-store`](https://github.com/theluckystrike/webext-reactive-store) | Reactive state management across background/content/popup contexts |
-| [`crx-permission-analyzer`](https://github.com/theluckystrike/crx-permission-analyzer) | Static analysis of CRX permissions. Security auditing tool |
+| [Chrome Extension Guide](https://github.com/theluckystrike/chrome-extension-guide) | 200+ articles covering every Chrome API, pattern, and workflow |
+| [MV3 Minimal Starter](https://github.com/theluckystrike/chrome-extension-mv3-minimal) | Zero-dependency Manifest V3 starter. No build tools, no frameworks |
+| [Popup Starter](https://github.com/theluckystrike/chrome-extension-popup-starter) | Popup-only extension with TypeScript and esbuild |
+| [Content Script Starter](https://github.com/theluckystrike/chrome-extension-content-script-starter) | Content script only. Inject into any page |
 
-> 51 merged PRs across the open-source ecosystem. TypeScript type definitions, security fixes, documentation improvements. [See activity](https://github.com/theluckystrike)
+### For Framework Users
+Pick your stack. Each starter includes popup, options page, background script, and content script.
 
----
-
-## Open-Sourced Extensions
-
-Five of my production extensions are fully open source. Audit the code, fork, contribute.
-
-| Extension | Chrome Web Store |
+| Framework | Repo |
 |---|---|
-| [Tab Suspender Pro](https://github.com/theluckystrike/tab-suspender-chrome-extension) | [Install](https://chromewebstore.google.com/detail/tab-suspender-pro-save-me/ofgncemnlblfnocjbojdhamacfffcpnm) |
-| [Cookie Manager Pro](https://github.com/theluckystrike/cookie-manager-chrome-extension) | [Install](https://chromewebstore.google.com/detail/cookie-manager-pro/oldljecjjmebgjhlhpaphdeobmogjpfh) |
-| [JSON Formatter Pro](https://github.com/theluckystrike/json-formatter-chrome-extension) | [Install](https://chromewebstore.google.com/detail/json-formatter-pro/gbnadjkeegkhbcoeaeaoedpojlcknnhp) |
-| [Regex Tester Pro](https://github.com/theluckystrike/regex-tester-chrome-extension) | [Install](https://chromewebstore.google.com/detail/regex-tester-pro-by-zovo/laljckjnohfcbhmlehjkcppkdfibldad) |
-| [Clipboard History Pro](https://github.com/theluckystrike/clipboard-history-chrome-extension) | [Install](https://chromewebstore.google.com/detail/clipboard-history-pro/ddmidpneacclepjmdjibmcdijedgdidf) |
+| React 18 | [chrome-extension-react-starter](https://github.com/theluckystrike/chrome-extension-react-starter) |
+| Svelte 4 | [chrome-extension-svelte-starter](https://github.com/theluckystrike/chrome-extension-svelte-starter) |
+| Vue 3 | [chrome-extension-vue-starter](https://github.com/theluckystrike/chrome-extension-vue-starter) |
+| Vanilla TS | [chrome-extension-vanilla-ts-starter](https://github.com/theluckystrike/chrome-extension-vanilla-ts-starter) |
+| Full Stack (Vite + Svelte + Tailwind) | [chrome-extension-full-stack](https://github.com/theluckystrike/chrome-extension-full-stack) |
+
+### For Advanced Developers
+Production-grade libraries extracted from 20 real Chrome extensions.
+
+| Library | What it solves |
+|---|---|
+| [webext-messaging](https://github.com/theluckystrike/webext-messaging) | Type-safe message passing between contexts |
+| [webext-storage](https://github.com/theluckystrike/webext-storage) | Typed storage with schema validation |
+| [webext-permissions](https://github.com/theluckystrike/webext-permissions) | Runtime permission checking and requesting |
+| [extension-auth-flow](https://github.com/theluckystrike/extension-auth-flow) | OAuth 2.0 with PKCE |
+| [extension-analytics](https://github.com/theluckystrike/extension-analytics) | Privacy-first usage analytics |
+| [extension-license-gate](https://github.com/theluckystrike/extension-license-gate) | License verification for paid extensions |
+| [mv3-migrate](https://github.com/theluckystrike/mv3-migrate) | Automated MV2 to MV3 migration |
+
+See the full toolkit at [chrome-extension-toolkit](https://github.com/theluckystrike/chrome-extension-toolkit).
+
+### For Business
+Turn your extension into revenue.
+
+| Guide | What you learn |
+|---|---|
+| [Extension Monetization Playbook](https://github.com/theluckystrike/extension-monetization-playbook) | 30 articles on pricing, payments, growth, and case studies |
+| [Stripe Integration](https://github.com/theluckystrike/extension-monetization-playbook/blob/main/articles/stripe-in-extensions.md) | Accept payments inside your extension |
+| [Chrome Web Store SEO](https://github.com/theluckystrike/extension-monetization-playbook/blob/main/articles/chrome-web-store-seo.md) | Rank higher in Web Store search |
+| [From Zero to 1,000 Users](https://github.com/theluckystrike/extension-monetization-playbook/blob/main/articles/zero-to-1000-users.md) | Growth strategies that actually work |
+
+### CLI Tools
+Automate your extension workflow.
+
+| Tool | Purpose |
+|---|---|
+| [crx-manifest-validator](https://github.com/theluckystrike/crx-manifest-validator) | Validate manifest.json before submission |
+| [crx-permission-analyzer](https://github.com/theluckystrike/crx-permission-analyzer) | Audit permissions and calculate risk scores |
+| [crx-extension-size-analyzer](https://github.com/theluckystrike/crx-extension-size-analyzer) | Find bundle bloat |
+| [chrome-extension-publisher](https://github.com/theluckystrike/chrome-extension-publisher) | Publish to Chrome Web Store from CI |
 
 ---
 
-## The Full Extension Suite
+## Production Extensions
 
-All available at [zovo.one](https://zovo.one)
+20 extensions on the Chrome Web Store through [zovo.one](https://zovo.one). Five are fully open source.
 
-**Developer Tools**
-[API Testing PRO](https://chromewebstore.google.com/detail/api-testing-pro-by-zovo-r/oelgmpmdeafljelabhkohjiaifomlnla) · [JSON Formatter Pro](https://chromewebstore.google.com/detail/json-formatter-pro/gbnadjkeegkhbcoeaeaoedpojlcknnhp) · [Regex Tester Pro](https://chromewebstore.google.com/detail/regex-tester-pro-by-zovo/laljckjnohfcbhmlehjkcppkdfibldad) · [Web Scraper Lite](https://chromewebstore.google.com/detail/web-scraper-lite/mephllcmhpkkdbbngfiolhhpdpcogbnb)
-
-**Productivity Tools**
-[Tab Suspender Pro](https://chromewebstore.google.com/detail/tab-suspender-pro-save-me/ofgncemnlblfnocjbojdhamacfffcpnm) · [Clipboard History Pro](https://chromewebstore.google.com/detail/clipboard-history-pro/ddmidpneacclepjmdjibmcdijedgdidf) · [Session Manager Pro](https://chromewebstore.google.com/detail/session-manager-pro-by-zo/mhbfbnmokccombamjdflafbakdlnehlh) · [Form Filler Pro](https://chromewebstore.google.com/detail/form-filler-pro-by-zovo-o/hmbedfhmeeljkifcnekoidogkplcbkpk) · [Bookmark Search](https://chromewebstore.google.com/detail/bookmark-search-find-any/dodkbpjmmojljcllcohmkhgpgkoabedn)
-
-**AI Tools**
-[BeLikeNative](https://belikenative.com). AI writing in 80 languages. 3,400+ users. 4.6 stars.
-
----
-
-## Track Record
-
-> *"Michael Lip is in the top 1% of architects I have ever worked with."*
-> **John McConey**, Director of Engineering, Powertek
-
-[![Earnings](https://img.shields.io/badge/Earned-$400K%2B-6fda44?style=flat-square)](https://www.upwork.com/freelancers/~01f1265f2b8f42b981)
-[![Contracts](https://img.shields.io/badge/Contracts-47%20completed-6fda44?style=flat-square)](https://www.upwork.com/freelancers/~01f1265f2b8f42b981)
-[![Hours](https://img.shields.io/badge/Hours-7%2C274%20logged-6fda44?style=flat-square)](https://www.upwork.com/freelancers/~01f1265f2b8f42b981)
-
-10+ years across DevOps, embedded Linux, Chrome extensions, and AI automation.
-
-English (Native) · Polish (Native) · Dutch · German
-
-M.Sc. Computer Science, Jagiellonian University · B.Sc., University of Warsaw
+| Extension | Source | Install |
+|---|---|---|
+| BeLikeNative (AI writing, 3,400+ users) | Private | [Chrome Web Store](https://belikenative.com) |
+| Tab Suspender Pro | [Source](https://github.com/theluckystrike/tab-suspender-chrome-extension) | [Install](https://chromewebstore.google.com/detail/tab-suspender-pro-save-me/ofgncemnlblfnocjbojdhamacfffcpnm) |
+| Cookie Manager Pro | [Source](https://github.com/theluckystrike/cookie-manager-chrome-extension) | [Install](https://chromewebstore.google.com/detail/cookie-manager-pro/oldljecjjmebgjhlhpaphdeobmogjpfh) |
+| JSON Formatter Pro | [Source](https://github.com/theluckystrike/json-formatter-chrome-extension) | [Install](https://chromewebstore.google.com/detail/json-formatter-pro/gbnadjkeegkhbcoeaeaoedpojlcknnhp) |
+| Regex Tester Pro | [Source](https://github.com/theluckystrike/regex-tester-chrome-extension) | [Install](https://chromewebstore.google.com/detail/regex-tester-pro-by-zovo/laljckjnohfcbhmlehjkcppkdfibldad) |
+| Clipboard History Pro | [Source](https://github.com/theluckystrike/clipboard-history-chrome-extension) | [Install](https://chromewebstore.google.com/detail/clipboard-history-pro/ddmidpneacclepjmdjibmcdijedgdidf) |
 
 ---
 
-## GitHub Stats
+## About
 
-<div align="center">
+Michael Lip. Chrome extension engineer. $400K+ earned on Upwork. Top Rated Plus. 100% Job Success Score across 47 contracts.
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=theluckystrike&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theluckystrike&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8)
+All extensions, guides, and tools are part of the [Zovo](https://zovo.one) ecosystem.
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=theluckystrike&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
-
----
-
-## Philosophy
-
-Privacy-first. No data harvesting. Your data never leaves your device.
-
-I build tools that work reliably, ship without drama, and respect the people who use them. The best tools remove friction. You forget they're even there because they just work.
-
-If something's broken or you want a feature, [open an issue](https://github.com/theluckystrike). I'll see it.
-
----
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/michaelip.dev-Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://michaelip.dev)
-[![Zovo](https://img.shields.io/badge/zovo.one-Extensions-7c3aed?style=flat-square&logo=googlechrome&logoColor=white)](https://zovo.one)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f1265f2b8f42b981)
-
-*Solo developer. 100+ repos. 20 Chrome extensions. Shipping from Da Nang.*
-
-</div>
+[![Zovo](https://img.shields.io/badge/zovo.one-Extension%20Suite-7c3aed?style=flat-square&logo=googlechrome&logoColor=white)](https://zovo.one)
+[![Upwork](https://img.shields.io/badge/Upwork-Top%20Rated%20Plus-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f1265f2b8f42b981)
