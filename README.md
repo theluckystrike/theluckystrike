@@ -25,7 +25,7 @@
 
 ## The Ecosystem
 
-I maintain 90+ open-source repositories for Chrome extension development. Starters, libraries, guides, and production extensions. Everything a developer needs to go from zero to published extension.
+I maintain 90+ open-source repositories for Chrome extension development. Starters, libraries, CLI tools, guides, and production extensions. Everything a developer needs to go from zero to published extension.
 
 ### For Beginners
 Start here if you have never built a Chrome extension.
