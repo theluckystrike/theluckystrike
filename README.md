@@ -27,41 +27,44 @@
 
 I maintain 90+ open-source repositories for Chrome extension development. Starters, libraries, CLI tools, guides, and production extensions. Everything a developer needs to go from zero to published extension.
 
-### For Beginners
-Start here if you have never built a Chrome extension.
+### Guides & Knowledge Base
 
-| Resource | Description |
+| Resource | Scale | Description |
+|---|---|---|
+| [Chrome Extension Guide](https://github.com/theluckystrike/chrome-extension-guide) | 1,400+ articles | The largest open-source Chrome extension reference. Every API, pattern, security topic, and workflow |
+| [Extension Monetization Playbook](https://github.com/theluckystrike/extension-monetization-playbook) | 30 articles | Pricing, payments, Stripe integration, CWS SEO, growth strategies, and case studies |
+
+### Starter Templates (10)
+Pick your stack and ship in minutes. Each starter includes popup, options page, background service worker, and content script.
+
+| Starter | Stack |
 |---|---|
-| [Chrome Extension Guide](https://github.com/theluckystrike/chrome-extension-guide) | 200+ articles covering every Chrome API, pattern, and workflow |
-| [MV3 Minimal Starter](https://github.com/theluckystrike/chrome-extension-mv3-minimal) | Zero-dependency Manifest V3 starter. No build tools, no frameworks |
-| [Popup Starter](https://github.com/theluckystrike/chrome-extension-popup-starter) | Popup-only extension with TypeScript and esbuild |
-| [Content Script Starter](https://github.com/theluckystrike/chrome-extension-content-script-starter) | Content script only. Inject into any page |
+| [chrome-extension-mv3-minimal](https://github.com/theluckystrike/chrome-extension-mv3-minimal) | Zero-dependency MV3. No build tools, no frameworks |
+| [chrome-extension-popup-starter](https://github.com/theluckystrike/chrome-extension-popup-starter) | Popup-only with TypeScript and esbuild |
+| [chrome-extension-content-script-starter](https://github.com/theluckystrike/chrome-extension-content-script-starter) | Content script only. Inject into any page |
+| [chrome-extension-devtools-starter](https://github.com/theluckystrike/chrome-extension-devtools-starter) | Custom DevTools panel with TypeScript |
+| [chrome-extension-side-panel-starter](https://github.com/theluckystrike/chrome-extension-side-panel-starter) | Side Panel API starter with Vite |
+| [chrome-extension-react-starter](https://github.com/theluckystrike/chrome-extension-react-starter) | React + Vite + TypeScript |
+| [chrome-extension-svelte-starter](https://github.com/theluckystrike/chrome-extension-svelte-starter) | Svelte + Vite + TypeScript |
+| [chrome-extension-vue-starter](https://github.com/theluckystrike/chrome-extension-vue-starter) | Vue 3 + Vite + TypeScript |
+| [chrome-extension-vanilla-ts-starter](https://github.com/theluckystrike/chrome-extension-vanilla-ts-starter) | Vanilla TypeScript + Vite. No framework |
+| [chrome-extension-full-stack](https://github.com/theluckystrike/chrome-extension-full-stack) | Full Stack: Vite + Svelte + Tailwind + all contexts |
 
-### For Framework Users
-Pick your stack. Each starter includes popup, options page, background script, and content script.
+### @zovo/webext Packages (8)
+Production-grade libraries extracted from 20 real Chrome extensions. Type-safe, tree-shakeable, zero dependencies.
 
-| Framework | Repo |
+| Package | What it solves |
 |---|---|
-| React 18 | [chrome-extension-react-starter](https://github.com/theluckystrike/chrome-extension-react-starter) |
-| Svelte 4 | [chrome-extension-svelte-starter](https://github.com/theluckystrike/chrome-extension-svelte-starter) |
-| Vue 3 | [chrome-extension-vue-starter](https://github.com/theluckystrike/chrome-extension-vue-starter) |
-| Vanilla TS | [chrome-extension-vanilla-ts-starter](https://github.com/theluckystrike/chrome-extension-vanilla-ts-starter) |
-| Full Stack (Vite + Svelte + Tailwind) | [chrome-extension-full-stack](https://github.com/theluckystrike/chrome-extension-full-stack) |
+| [webext-messaging](https://github.com/theluckystrike/webext-messaging) | Type-safe message passing between all extension contexts |
+| [webext-storage](https://github.com/theluckystrike/webext-storage) | Typed storage with schema validation and migrations |
+| [webext-permissions](https://github.com/theluckystrike/webext-permissions) | Runtime permission checking, requesting, and removal |
+| [webext-tabs](https://github.com/theluckystrike/webext-tabs) | Tab querying, grouping, and lifecycle management |
+| [webext-notifications](https://github.com/theluckystrike/webext-notifications) | Typed notification creation with action buttons |
+| [webext-context-menu](https://github.com/theluckystrike/webext-context-menu) | Declarative context menu builder |
+| [webext-downloads](https://github.com/theluckystrike/webext-downloads) | Download management with progress tracking |
+| [webext-scripting](https://github.com/theluckystrike/webext-scripting) | Content script injection and lifecycle control |
 
-### For Advanced Developers
-Production-grade libraries extracted from 20 real Chrome extensions.
-
-| Library | What it solves |
-|---|---|
-| [webext-messaging](https://github.com/theluckystrike/webext-messaging) | Type-safe message passing between contexts |
-| [webext-storage](https://github.com/theluckystrike/webext-storage) | Typed storage with schema validation |
-| [webext-permissions](https://github.com/theluckystrike/webext-permissions) | Runtime permission checking and requesting |
-| [extension-auth-flow](https://github.com/theluckystrike/extension-auth-flow) | OAuth 2.0 with PKCE |
-| [extension-analytics](https://github.com/theluckystrike/extension-analytics) | Privacy-first usage analytics |
-| [extension-license-gate](https://github.com/theluckystrike/extension-license-gate) | License verification for paid extensions |
-| [mv3-migrate](https://github.com/theluckystrike/mv3-migrate) | Automated MV2 to MV3 migration |
-
-See the full toolkit at [chrome-extension-toolkit](https://github.com/theluckystrike/chrome-extension-toolkit).
+See all 80+ API wrappers and utilities at [chrome-extension-toolkit](https://github.com/theluckystrike/chrome-extension-toolkit).
 
 ### For Business
 Turn your extension into revenue.
