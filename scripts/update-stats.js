@@ -29,7 +29,7 @@ async function getExtensionStats(extensionId) {
         // JSON-style: "100,000+ users" or "1,000 users"
         /(\d[\d,]+)\+?\s*users/gi,
         // Structured data patterns
-        /"userCount"[:\s]*"?(\d[\d,]*)/i,
+        /"userCount"[:\s]*"?(\d[\d,]*)/gi,
         // Number followed by "users" in various contexts
         /[\s>"](\d{1,3}(?:,\d{3})*(?:\+)?)\s*users/gi,
       ];
