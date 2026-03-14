@@ -6,40 +6,52 @@ const EXTENSIONS = [
 ];
 
 async function getExtensionStats(extensionId) {
-  try {
-    const res = await fetch(
-      `https://chromewebstore.google.com/detail/${extensionId}`,
-      {
+  // Use the CWS internal API that returns structured data
+  // This endpoint is used by the CWS frontend and returns JSON-ish data
+  const urls = [
+    `https://chrome.google.com/webstore/ajax/detail?hl=en&gl=US&pv=20210820&mce=atf%2Cpii%2Crtr%2Crlb%2Cgtc%2Chcn%2Csvp%2Cwtd%2Chap%2Cnma%2Cdpb%2Car%2Cme%2Cctm%2Cac&id=${extensionId}`,
+    `https://chromewebstore.google.com/detail/${extensionId}`,
+  ];
+
+  for (const url of urls) {
+    try {
+      const res = await fetch(url, {
         headers: {
-          'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
-          'Accept': 'text/html,application/xhtml+xml',
+          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
+          'Accept': '*/*',
           'Accept-Language': 'en-US,en;q=0.9',
         },
-      }
-    );
-    const html = await res.text();
-    // CWS shows user count in various formats
-    const patterns = [
-      /(\d[\d,]+)\s*users/i,
-      /"userCount"\s*:\s*"?(\d[\d,]+)/i,
-      />(\d[\d,]+)\s*users</i,
-    ];
-    for (const pattern of patterns) {
-      const match = html.match(pattern);
-      if (match) {
-        const count = parseInt(match[1].replace(/,/g, ''), 10);
-        if (count > 0) {
-          console.log(`  ${extensionId}: ${count} users`);
-          return count;
+      });
+      const text = await res.text();
+
+      // Try multiple patterns for user count extraction
+      const patterns = [
+        // JSON-style: "100,000+ users" or "1,000 users"
+        /(\d[\d,]+)\+?\s*users/gi,
+        // Structured data patterns
+        /"userCount"[:\s]*"?(\d[\d,]*)/i,
+        // Number followed by "users" in various contexts
+        /[\s>"](\d{1,3}(?:,\d{3})*(?:\+)?)\s*users/gi,
+      ];
+
+      for (const pattern of patterns) {
+        const matches = [...text.matchAll(pattern)];
+        for (const match of matches) {
+          const numStr = match[1].replace(/[,+]/g, '');
+          const count = parseInt(numStr, 10);
+          if (count >= 10) { // filter out noise
+            console.log(`  ${extensionId}: ${count} users (from ${url.includes('ajax') ? 'ajax API' : 'detail page'})`);
+            return count;
+          }
         }
       }
+    } catch (err) {
+      console.log(`  ${extensionId}: fetch error for ${url}: ${err.message}`);
     }
-    console.log(`  ${extensionId}: no user count found in ${html.length} bytes`);
-    return null;
-  } catch (err) {
-    console.log(`  ${extensionId}: fetch error: ${err.message}`);
-    return null;
   }
+
+  console.log(`  ${extensionId}: could not extract user count`);
+  return null;
 }
 
 async function main() {
@@ -55,9 +67,9 @@ async function main() {
     }
   }
 
-  // Don't update if we couldn't fetch any stats
+  // Don't update if we couldn't fetch any stats — preserve existing values
   if (!foundAny) {
-    console.log('Could not fetch any extension stats, skipping update');
+    console.log('Could not fetch any extension stats, preserving existing values');
     return;
   }
 
