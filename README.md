@@ -19,7 +19,7 @@ When The Great Suspender got pulled for malware, 2 million users lost their tab 
 Plus 16 more across productivity, privacy, and developer tools — all solo, all MV3-native.
 
 <!-- STATS:START -->
-**Zovo extensions:** 20 live · 4,200+ total users
+**Zovo extensions:** 20 live · 0+ total users · Updated 2026-03-14
 <!-- STATS:END -->
 
 ---
