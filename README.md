@@ -8,9 +8,9 @@ When The Great Suspender got pulled for malware, 2 million users lost their tab 
 
 ### Extensions
 
-**[Tab Suspender Pro](https://zovo.one)** — The Great Suspender replacement. Auto-suspends inactive tabs to reclaim memory. 200+ organic installs/day.
+[**Tab Suspender Pro**](https://chromewebstore.google.com/detail/tab-suspender-pro-save-me/ofgncemnlblfnocjbojdhamacfffcpnm) — The Great Suspender replacement. Auto-suspends inactive tabs to reclaim memory. 200+ organic installs/day.
 
-**[BeLikeNative](https://www.belikenative.com)** — AI writing assistant for non-native English speakers. 3,400+ users.
+[**BeLikeNative**](https://belikenative.com) — AI writing assistant for non-native English speakers. 3,400+ users.
 
 **Cookie Manager Pro** — EditThisCookie died with Manifest V3. This is its successor. Full cookie CRUD with import/export.
 
@@ -24,22 +24,21 @@ Plus 16 more across productivity, privacy, and developer tools — all solo, all
 
 I built a multi-agent system that orchestrates Claude Code, Gemini CLI, and MiniMax in parallel via tmux — producing hundreds of SEO-optimized articles overnight across multiple distribution sites. Getting there meant solving trust prompt automation, PTY exhaustion on macOS, cross-agent sandbox restrictions, and rate limiting across three different AI providers simultaneously.
 
-The same approach powers an automated open source contribution pipeline: identify repos, fork, fix, submit. 140+ merges across projects in [@GoogleChrome](https://github.com/GoogleChrome), [@microlinkhq](https://github.com/microlinkhq), [@antfu-collective](https://github.com/antfu-collective), and others.
+The same approach powers an automated open source contribution pipeline: identify repos, fork, fix, submit. 140+ merges across projects in [@GoogleChrome](https://github.com/GoogleChrome), [@microlinkHQ](https://github.com/microlinkhq), [@antfu-collective](https://github.com/antfu-collective), and others.
 
-**Packages:**
-[@theluckystrike/webext-storage](https://www.npmjs.com/package/@theluckystrike/webext-storage) · [webext-messaging](https://www.npmjs.com/package/@theluckystrike/webext-messaging) · [webext-permissions](https://www.npmjs.com/package/@theluckystrike/webext-permissions)
+**Packages:** [@theluckystrike/webext-storage](https://www.npmjs.com/package/@theluckystrike/webext-storage) · [webext-messaging](https://www.npmjs.com/package/@theluckystrike/webext-messaging) · [webext-permissions](https://www.npmjs.com/package/@theluckystrike/webext-permissions)
 
-**[Chrome Extension Toolkit](https://github.com/theluckystrike/chrome-extension-toolkit)** — TypeScript-first scaffolding and utilities for modern extension development.
+[**Chrome Extension Toolkit**](https://github.com/theluckystrike/chrome-extension-toolkit) — TypeScript-first scaffolding and utilities for modern extension development.
 
 ---
 
 ### Distribution Sites
 
-**[Claude Skills Guide](https://theluckystrike.github.io/claude-skills-guide/)** — 700+ free tutorials for Claude Code skills, comparisons, and troubleshooting.
+[**Claude Skills Guide**](https://theluckystrike.github.io/claude-skills-guide/) — 700+ free tutorials for Claude Code skills, comparisons, and troubleshooting.
 
-**[Chrome Tips](https://theluckystrike.github.io/chrome-tips/)** — 2,000+ Chrome performance and optimization guides.
+[**Chrome Tips**](https://theluckystrike.github.io/chrome-tips/) — 2,000+ Chrome performance and optimization guides.
 
-**[Chrome Extension Guide](https://theluckystrike.github.io/chrome-extension-guide/)** — 1,500+ guides for Chrome extension development and best practices.
+[**Chrome Extension Guide**](https://theluckystrike.github.io/chrome-extension-guide/) — 1,500+ guides for Chrome extension development and best practices.
 
 ---
 
@@ -51,12 +50,4 @@ The same approach powers an automated open source contribution pipeline: identif
 
 ### What's next
 
-Scaling the Zovo portfolio. Systematically mapping every orphaned, removed, or Manifest V3–broken extension with a large displaced user base — and building the replacement before anyone else does.
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=theluckystrike&style=flat-square&color=blue&label=Profile+Views" alt="Profile views" />
-</p>
-
-<sub>Da Nang, Vietnam · [zovo.one](https://zovo.one) · [@_alphashark_](https://twitter.com/_alphashark_)</sub>
+Scaling the Zovo portfolio. Systematically mapping every orphaned, removed, or Manifest V3-broken extension with a large displaced user base — and building the replacement before anyone else does.
