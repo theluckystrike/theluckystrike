@@ -8,9 +8,9 @@ When The Great Suspender got pulled for malware, 2 million users lost their tab 
 
 ### Extensions
 
-**[Tab Suspender Pro](https://chromewebstore.google.com/detail/tab-suspender-pro/jfabnmepbnaejolcfmhlbihoenambkmm)** — The Great Suspender replacement. Auto-suspends inactive tabs to reclaim memory. 200+ organic installs/day.
+**[Tab Suspender Pro](https://zovo.one)** — The Great Suspender replacement. Auto-suspends inactive tabs to reclaim memory. 200+ organic installs/day.
 
-**[BeLikeNative](https://chromewebstore.google.com/detail/belikenative/fphfgdknbpakeedbaenojjdcdoajihik)** — AI writing assistant for non-native English speakers. 3,400+ users.
+**[BeLikeNative](https://www.belikenative.com)** — AI writing assistant for non-native English speakers. 3,400+ users.
 
 **Cookie Manager Pro** — EditThisCookie died with Manifest V3. This is its successor. Full cookie CRUD with import/export.
 
