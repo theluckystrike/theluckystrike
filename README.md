@@ -55,4 +55,8 @@ Scaling the Zovo portfolio. Systematically mapping every orphaned, removed, or M
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=theluckystrike&style=flat-square&color=blue&label=Profile+Views" alt="Profile views" />
+</p>
+
 <sub>Da Nang, Vietnam · [zovo.one](https://zovo.one) · [@_alphashark_](https://twitter.com/_alphashark_)</sub>
