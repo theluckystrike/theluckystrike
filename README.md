@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Solo+Dev+%C2%B7+Chrome+Extension+Builder+%C2%B7+Indie+Hacker;20+extensions+shipped+solo+%C2%B7+3%2C400%2B+users;140%2B+PRs+merged+in+%40GoogleChrome%2C+%40axios%2C+%40nicehash;Multi-agent+fleet%3A+Claude+Code+%2B+Gemini+CLI+%2B+MiniMax;Top+Rated+Plus+on+Upwork+%C2%B7+100%25+Job+Success;Building+replacements+for+dead+extensions+from+Da+Nang)](https://zovo.one)
 
+[![Profile Views](https://komarev.com/ghpvc/?username=theluckystrike&style=for-the-badge&color=brightgreen&label=Profile+Views)](https://github.com/theluckystrike)
 [![GitHub followers](https://img.shields.io/github/followers/theluckystrike?label=Followers&style=for-the-badge&color=blue)](https://github.com/theluckystrike)
 [![GitHub stars](https://img.shields.io/github/stars/theluckystrike?label=Total%20Stars&style=for-the-badge&color=yellow)](https://github.com/theluckystrike)
 
