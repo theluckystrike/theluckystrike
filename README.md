@@ -70,14 +70,6 @@ git clone https://github.com/theluckystrike/zovo-tab-suspender-public.git
 
 ---
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theluckystrike&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</p>
-
----
-
 ### 🛠️ Tech Stack
 
 **Chrome Extensions & AI Agents**
