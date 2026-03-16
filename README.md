@@ -1,8 +1,8 @@
 <div align="center">
 
-# [![Michael — @theluckystrike](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=100000&color=0E75B6&center=true&vCenter=true&repeat=false&width=500&lines=Michael+%E2%80%94+%40theluckystrike)](https://zovo.one)
+# [![Michael @theluckystrike](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=100000&color=0E75B6&center=true&vCenter=true&repeat=false&width=500&lines=Michael+%40theluckystrike)](https://zovo.one)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Solo+Dev+%C2%B7+Chrome+Extension+Builder+%C2%B7+Indie+Hacker;20+extensions+shipped+solo+%C2%B7+3%2C400%2B+users;140%2B+PRs+merged+in+%40GoogleChrome%2C+%40axios%2C+%40nicehash;Multi-agent+fleet%3A+Claude+Code+%2B+Gemini+CLI+%2B+MiniMax;Top+Rated+Plus+on+Upwork+%C2%B7+100%25+Job+Success;Building+replacements+for+dead+extensions+from+Da+Nang)](https://zovo.one)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Solo+Dev+%C2%B7+Chrome+Extension+Builder+%C2%B7+Indie+Hacker;20+extensions+shipped+solo+%C2%B7+3%2C400%2B+users;140%2B+PRs+merged+in+%40GoogleChrome%2C+%40axios%2C+%40nicehash;Multi-agent+fleet+Claude+Code+%2B+Gemini+CLI+%2B+MiniMax;Top+Rated+Plus+on+Upwork+%C2%B7+100%25+Job+Success;Building+replacements+for+dead+extensions+from+Da+Nang)](https://zovo.one)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=theluckystrike&style=for-the-badge&color=brightgreen&label=Profile+Views)](https://github.com/theluckystrike)
 [![GitHub followers](https://img.shields.io/github/followers/theluckystrike?label=Followers&style=for-the-badge&color=blue)](https://github.com/theluckystrike)
@@ -12,7 +12,7 @@
 
 ---
 
-CTO-turned-solo-dev and AI engineer with 10+ years building software, leading infrastructure projects, and shipping products across Chrome extensions, DevOps, and AI automation. When The Great Suspender got pulled for malware, 2 million users lost their tab manager overnight — I had [Tab Suspender Pro](https://chromewebstore.google.com/detail/tab-suspender-pro-save-me/ofgncemnlblfnocjbojdhamacfffcpnm) live within weeks. That's what I do — find Chrome extensions with massive displaced user bases and build what comes next.
+CTO-turned-solo-dev and AI engineer with 10+ years building software, leading infrastructure projects, and shipping products across Chrome extensions, DevOps, and AI automation. When The Great Suspender got pulled for malware, 2 million users lost their tab manager overnight, I had [Tab Suspender Pro](https://chromewebstore.google.com/detail/tab-suspender-pro-save-me/ofgncemnlblfnocjbojdhamacfffcpnm) live within weeks. That's what I do. Find Chrome extensions with massive displaced user bases and build what comes next.
 
 20 extensions shipped solo. 140+ PRs merged upstream. Operating from Da Nang, Vietnam through [Zovo](https://zovo.one).
 
@@ -20,15 +20,15 @@ My open source work focuses on Chrome extension tooling, MV3 migration utilities
 
 ---
 
-### 🚀 Featured: Tab Suspender Pro — The Great Suspender Replacement
+### Featured Tab Suspender Pro, The Great Suspender Replacement
 
-> Auto-suspends inactive tabs to reclaim memory. 200+ organic installs/day. Privacy-first — your data never leaves your device. The community edition is fully open source.
+> Auto-suspends inactive tabs to reclaim memory. 200+ organic installs/day. Privacy-first, your data never leaves your device. The community edition is fully open source.
 
 [![Stars](https://img.shields.io/github/stars/theluckystrike/zovo-tab-suspender-public?style=for-the-badge&label=Stars&color=FFD700)](https://github.com/theluckystrike/zovo-tab-suspender-public)
 [![Forks](https://img.shields.io/github/forks/theluckystrike/zovo-tab-suspender-public?style=for-the-badge&label=Forks&color=blue)](https://github.com/theluckystrike/zovo-tab-suspender-public/fork)
 
 ```bash
-# Open source community edition — audit the code, contribute, or fork
+# Open source community edition, audit the code, contribute, or fork
 git clone https://github.com/theluckystrike/zovo-tab-suspender-public.git
 ```
 
@@ -46,7 +46,7 @@ git clone https://github.com/theluckystrike/zovo-tab-suspender-public.git
 
 ---
 
-### 📦 More Repos
+### More Repos
 
 <p align="center">
   <a href="https://github.com/theluckystrike/chrome-extension-toolkit">
@@ -71,7 +71,7 @@ git clone https://github.com/theluckystrike/zovo-tab-suspender-public.git
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Chrome Extensions & AI Agents**
 
@@ -103,7 +103,7 @@ git clone https://github.com/theluckystrike/zovo-tab-suspender-public.git
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theluckystrike&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
@@ -124,14 +124,14 @@ git clone https://github.com/theluckystrike/zovo-tab-suspender-public.git
 
 ---
 
-### ✍️ Latest Posts
+### Latest Posts
 <!-- BLOG-POST-LIST:START -->
-- Coming soon — follow [@_alphashark_](https://x.com/_alphashark_) for build-in-public updates
+- Coming soon, follow [@_alphashark_](https://x.com/_alphashark_) for build-in-public updates
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-### 🔗 Connect
+### Connect
 
 <p align="center">
   <a href="https://zovo.one">
