@@ -17,5 +17,4 @@ jobs:
         with:
           feed_list: "https://theluckystrike.github.io/claude-skills-guide/feed.xml,https://theluckystrike.github.io/chrome-extension-guide/feed.xml,https://theluckystrike.github.io/privacy-tools-guide/feed.xml,https://theluckystrike.github.io/remote-work-tools/feed.xml,https://theluckystrike.github.io/ai-tools-compared/feed.xml,https://theluckystrike.github.io/chrome-tips/feed.xml"
           max_post_count: 5
-          template: "- [$title]($url) — $date"
-          date_format: "MMM D, YYYY"
+          template: "- [$title]($url)"
