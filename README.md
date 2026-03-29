@@ -125,7 +125,7 @@ git clone https://github.com/theluckystrike/zovo-tab-suspender-public.git
 ---
 
 ### Latest Posts
-<!-- BLOG-POST-LIST:START -->- [Chrome Extension Keyboard Shortcuts: Complete Implementation Guide](https://bestchromeextensions.com/2026/03/10/chrome-extension-keyboard-shortcuts-complete-implementation-guide/) — 000 D, YYYY- [Web Components in Chrome Extensions: Complete Guide with TypeScript](https://bestchromeextensions.com/2026/03/09/web-components-chrome-extensions-guide/) — 000 D, YYYY- [Chrome Storage API Overview](https://bestchromeextensions.com/2025/06/05/chrome-storage-api-overview/) — 000 D, YYYY- [Content Scripts in Chrome Extensions](https://bestchromeextensions.com/2025/06/04/chrome-extension-content-scripts/) — 000 D, YYYY- [Chrome Extension Popup Basics](https://bestchromeextensions.com/2025/06/03/chrome-extension-popup-basics/) — 000 D, YYYY<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Chrome Extension Keyboard Shortcuts: Complete Implementation Guide](https://bestchromeextensions.com/2026/03/10/chrome-extension-keyboard-shortcuts-complete-implementation-guide/)- [Web Components in Chrome Extensions: Complete Guide with TypeScript](https://bestchromeextensions.com/2026/03/09/web-components-chrome-extensions-guide/)- [Chrome Storage API Overview](https://bestchromeextensions.com/2025/06/05/chrome-storage-api-overview/)- [Content Scripts in Chrome Extensions](https://bestchromeextensions.com/2025/06/04/chrome-extension-content-scripts/)- [Chrome Extension Popup Basics](https://bestchromeextensions.com/2025/06/03/chrome-extension-popup-basics/)<!-- BLOG-POST-LIST:END -->
 
 ---
 
