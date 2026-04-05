@@ -125,7 +125,7 @@ git clone https://github.com/theluckystrike/zovo-tab-suspender-public.git
 ---
 
 ### Latest Posts
-<!-- BLOG-POST-LIST:START -->- [Chrome Extension Keyboard Shortcuts: Complete Implementation Guide](https://bestchromeextensions.com/2026/03/10/chrome-extension-keyboard-shortcuts-complete-implementation-guide/)- [Web Components in Chrome Extensions: Complete Guide with TypeScript](https://bestchromeextensions.com/2026/03/09/web-components-chrome-extensions-guide/)- [Chrome Storage API Overview](https://bestchromeextensions.com/2025/06/05/chrome-storage-api-overview/)- [Content Scripts in Chrome Extensions](https://bestchromeextensions.com/2025/06/04/chrome-extension-content-scripts/)- [Chrome Extension Popup Basics](https://bestchromeextensions.com/2025/06/03/chrome-extension-popup-basics/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Claude Code MCP Timeout: How to Configure Settings](https://claudecodeguides.com/claude-code-mcp-timeout-settings-configuration-guide/)- [Claude API Timeout Errors: Handling and Retry Guide](https://claudecodeguides.com/claude-api-timeout-error-handling-retry-guide/)- [How to Create Cornell Notes with Claude AI](https://claudecodeguides.com/claude-ai-cornell-notes-how-to-create-guide/)- [Claude Code GitHub Codespaces vs Gitpod Workflow Guide](https://claudecodeguides.com/claude-code-for-github-codespaces-vs-gitpod-workflow-guide/)- [Supervisor-Agent Worker-Agent Pattern with Claude Code](https://claudecodeguides.com/supervisor-agent-worker-agent-pattern-claude-code/)<!-- BLOG-POST-LIST:END -->
 
 ---
 
