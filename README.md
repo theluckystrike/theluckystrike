@@ -125,7 +125,7 @@ git clone https://github.com/theluckystrike/zovo-tab-suspender-public.git
 ---
 
 ### Latest Posts
-<!-- BLOG-POST-LIST:START -->- [Free CLAUDE.md Template for Production Projects](https://claudecodeguides.com/free-template/)- [Claude Code Mastery](https://claudecodeguides.com/mastery/)- [How to Set ANTHROPIC_API_KEY for Claude](https://claudecodeguides.com/how-to-set-anthropicapikey-for-claude/)- [Claude TypeScript SDK Installation Guide](https://claudecodeguides.com/claude-typescript-sdk-installation-guide/)- [Claude Tool Use Not Working Fix](https://claudecodeguides.com/claude-tool-use-not-working/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Claude Code Supabase MCP Setup Guide](https://claudecodeguides.com/claude-code-supabase-mcp-setup/)- [Fix Claude Code Not Working in VS Code](https://claudecodeguides.com/claude-code-not-working-in-vscode/)- [Fix GitHub MCP Auth Server Registration Error](https://claudecodeguides.com/claude-code-github-mcp-error-incompatible-auth-server-does-not-support-dynamic-client-registration/)- [Claude Code GitHub Actions MCP Setup](https://claudecodeguides.com/claude-code-github-actions-mcp/)- [Claude Code GitHub Actions Integration](https://claudecodeguides.com/claude-code-github-actions-integration/)<!-- BLOG-POST-LIST:END -->
 
 ---
 
