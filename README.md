@@ -125,7 +125,7 @@ git clone https://github.com/theluckystrike/zovo-tab-suspender-public.git
 ---
 
 ### Latest Posts
-<!-- BLOG-POST-LIST:START -->- [Claude Code Research Reports 2026](https://claudecodeguides.com/reports/)- [Data &amp; Methodology: Claude Code Research](https://claudecodeguides.com/data/)- [Zero-Click Crisis: 26,619 Wasted Impressions](https://claudecodeguides.com/claude-code-zero-click-crisis-2026-study/)- [The US CTR Problem: Why Americans Skip Results](https://claudecodeguides.com/claude-code-us-ctr-gap-analysis-2026/)- [What 1,024 Queries Reveal About Claude Code Users](https://claudecodeguides.com/claude-code-search-query-analysis-2026/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [When to Use Claude Haiku Instead of Opus](https://claudecodeguides.com/when-to-use-claude-haiku-instead-of-opus/)- [How to Save 50% on Every Claude API Call](https://claudecodeguides.com/save-50-percent-every-claude-api-call/)- [Claude Cost Reduction Guide 2026](https://claudecodeguides.com/cost/)- [Claude XML Tags vs JSON for Token Efficiency](https://claudecodeguides.com/claude-xml-tags-vs-json-token-efficiency/)- [Claude Sonnet 4.6 Cost Analysis for Developers](https://claudecodeguides.com/claude-sonnet-46-cost-analysis-developers/)<!-- BLOG-POST-LIST:END -->
 
 ---
 
