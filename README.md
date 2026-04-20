@@ -125,7 +125,7 @@ git clone https://github.com/theluckystrike/zovo-tab-suspender-public.git
 ---
 
 ### Latest Posts
-<!-- BLOG-POST-LIST:START -->- [When to Use Claude Haiku Instead of Opus](https://claudecodeguides.com/when-to-use-claude-haiku-instead-of-opus/)- [CLAUDE.md Templates Library: Ready-to-Use Configurations](https://claudecodeguides.com/templates-library/)- [Claude Code Skills Reference: Complete Directory](https://claudecodeguides.com/skills-reference/)- [How to Save 50% on Every Claude API Call](https://claudecodeguides.com/save-50-percent-every-claude-api-call/)- [Claude Code Errors Atlas: Every Error Message Explained](https://claudecodeguides.com/errors-atlas/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [When to Use Claude Haiku Instead of Opus](https://claudecodeguides.com/when-to-use-claude-haiku-instead-of-opus/)- [The Claude Code Playbook — 200 Battle-Tested Patterns for Claude Code](https://claudecodeguides.com/playbook/)- [CLAUDE.md Templates Library: Ready-to-Use Configurations](https://claudecodeguides.com/templates-library/)- [Claude Code Skills Reference: Complete Directory](https://claudecodeguides.com/skills-reference/)- [How to Save 50% on Every Claude API Call](https://claudecodeguides.com/save-50-percent-every-claude-api-call/)<!-- BLOG-POST-LIST:END -->
 
 ---
 
