@@ -125,7 +125,7 @@ git clone https://github.com/theluckystrike/zovo-tab-suspender-public.git
 ---
 
 ### Latest Posts
-<!-- BLOG-POST-LIST:START -->- [When to Use Claude Haiku Instead of Opus](https://claudecodeguides.com/when-to-use-claude-haiku-instead-of-opus/)- [The Claude Code Playbook — 200 Battle-Tested Patterns for Claude Code](https://claudecodeguides.com/playbook/)- [CLAUDE.md Templates Library: Ready-to-Use Configurations](https://claudecodeguides.com/templates-library/)- [Claude Code Skills Reference: Complete Directory](https://claudecodeguides.com/skills-reference/)- [How to Save 50% on Every Claude API Call](https://claudecodeguides.com/save-50-percent-every-claude-api-call/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Claude Code Workflows &amp; Integrations &lpar;2026&rpar;](https://claudecodeguides.com/workflows/)- [Claude Code vs ChatGPT for Coding &lpar;2026&rpar;](https://claudecodeguides.com/when-to-use-claude-code-vs-chatgpt-for-coding-tasks/)- [Learn Programming Languages with Claude Code 2026](https://claudecodeguides.com/learn-programming-languages-claude-code-2026/)- [Claude Code vs Everything: AI Coding Tool Comparisons &lpar;2026&rpar;](https://claudecodeguides.com/compare/)- [How to Distribute Claude Skills Across Teams 2026](https://claudecodeguides.com/distribute-claude-skills-across-teams-2026/)<!-- BLOG-POST-LIST:END -->
 
 ---
 
