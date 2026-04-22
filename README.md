@@ -125,7 +125,7 @@ git clone https://github.com/theluckystrike/zovo-tab-suspender-public.git
 ---
 
 ### Latest Posts
-<!-- BLOG-POST-LIST:START -->- [Claude Code Workflows &amp; Integrations &lpar;2026&rpar;](https://claudecodeguides.com/workflows/)- [Claude Code vs ChatGPT for Coding &lpar;2026&rpar;](https://claudecodeguides.com/when-to-use-claude-code-vs-chatgpt-for-coding-tasks/)- [Learn Programming Languages with Claude Code 2026](https://claudecodeguides.com/learn-programming-languages-claude-code-2026/)- [Claude Code vs Everything: AI Coding Tool Comparisons &lpar;2026&rpar;](https://claudecodeguides.com/compare/)- [How to Distribute Claude Skills Across Teams 2026](https://claudecodeguides.com/distribute-claude-skills-across-teams-2026/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [How to Write Token-Efficient Claude Code Skills](https://claudecodeguides.com/write-token-efficient-claude-code-skills/)- [Why Claude Code Gets Expensive on Large Projects &lpar;Fix&rpar;](https://claudecodeguides.com/why-claude-code-expensive-large-projects-fix/)- [Why did Claude Code cost $20 for one session? &lpar;Debugging guide&rpar;](https://claudecodeguides.com/why-claude-code-cost-20-one-session-debugging/)- [Why Claude Code 4.6 uses more tokens than 4.5 &lpar;and what to do&rpar;](https://claudecodeguides.com/why-claude-code-46-uses-more-tokens-than-45/)- [What Is Context Engineering? Karpathy + Claude Code](https://claudecodeguides.com/what-is-context-engineering-karpathy-claude-code/)<!-- BLOG-POST-LIST:END -->
 
 ---
 
