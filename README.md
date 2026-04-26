@@ -125,7 +125,7 @@ git clone https://github.com/theluckystrike/zovo-tab-suspender-public.git
 ---
 
 ### Latest Posts
-<!-- BLOG-POST-LIST:START -->- [How to Write Token-Efficient Claude &lpar;2026&rpar;](https://claudecodeguides.com/write-token-efficient-claude-code-skills/)- [Why Claude Code Gets Expensive on Large &lpar;2026&rpar;](https://claudecodeguides.com/why-claude-code-expensive-large-projects-fix/)- [Why did Claude Code cost $20 for one &lpar;2026&rpar;](https://claudecodeguides.com/why-claude-code-cost-20-one-session-debugging/)- [Why Claude Code 4.6 uses more tokens &lpar;2026&rpar;](https://claudecodeguides.com/why-claude-code-46-uses-more-tokens-than-45/)- [What Is Context Engineering? Karpathy + &lpar;2026&rpar;](https://claudecodeguides.com/what-is-context-engineering-karpathy-claude-code/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Claude Code Error Handling Hub &lpar;2026&rpar;](https://claudecodeguides.com/error-handling-hub/)- [Claude Code Configuration Hub &lpar;2026&rpar;](https://claudecodeguides.com/configuration-hub/)- [Claude Code Best Practices Hub &lpar;2026&rpar;](https://claudecodeguides.com/best-practices-hub/)- [How to Write Token-Efficient Claude &lpar;2026&rpar;](https://claudecodeguides.com/write-token-efficient-claude-code-skills/)- [Why Claude Code Gets Expensive on Large &lpar;2026&rpar;](https://claudecodeguides.com/why-claude-code-expensive-large-projects-fix/)<!-- BLOG-POST-LIST:END -->
 
 ---
 
