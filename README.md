@@ -46,6 +46,39 @@ git clone https://github.com/theluckystrike/zovo-tab-suspender-public.git
 
 ---
 
+### BeLikeNative -- Developer Tools for Better English
+
+Open-source tools that help developers write better English -- grammar checking, writing quality analysis, i18n detection, and commit linting. Built with L1-aware insights for non-native English speakers.
+
+| Tool | Type | What It Does |
+|------|------|-------------|
+| [Grammar Check](https://github.com/theluckystrike/belikenative-grammar-check) | GitHub Action | PR grammar checker -- 60 rules, 18 L1-aware |
+| [Writing Assistant](https://github.com/theluckystrike/bln-writing-assistant) | GitHub Action | Readability, structure, clarity, inclusivity, L1 patterns |
+| [i18n Checker](https://github.com/theluckystrike/bln-i18n-checker) | GitHub Action | Find hardcoded strings that need internationalization |
+| [Commit Lint](https://github.com/theluckystrike/bln-commit-lint) | GitHub Action | Commit message grammar, format & clarity |
+| [MCP Grammar Server](https://github.com/theluckystrike/bln-mcp-grammar-server) | MCP Server | 70 grammar rules for Claude Desktop & Cursor |
+| [Website Grader](https://theluckystrike.github.io/bln-website-grader/) | Web Tool | Free website performance/SEO/accessibility grader |
+| [Developer Tools Hub](https://theluckystrike.github.io/bln-developer-tools/) | Landing Page | All tools in one place |
+
+**Quick Start** -- Add grammar checking to any repo:
+
+```yaml
+name: Grammar Check
+on: [pull_request]
+jobs:
+  grammar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: theluckystrike/belikenative-grammar-check@main
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+```
+
+[BeLikeNative](https://belikenative.com) is an AI writing assistant for non-native English speakers. Available as a [Chrome Extension](https://chromewebstore.google.com/detail/belikenative-ai-writing-a/gchojmpfpbpmpfgdppfdkpchikbcgabp) with 10,000+ users, 4.6-star rating, 100+ languages, 15 tones, 15 styles. All tools are open source (MIT) and free to use.
+
+---
+
 ### More Repos
 
 <p align="center">
