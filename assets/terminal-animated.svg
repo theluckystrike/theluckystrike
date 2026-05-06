@@ -1,0 +1,46 @@
+<svg fill="none" viewBox="0 0 840 360" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .t{background:#0c0c0c;border:1px solid #2a241d;border-radius:8px;font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace;overflow:hidden;width:838px}
+        .tb{background:#1a1a1a;padding:10px 14px;display:flex;align-items:center;gap:8px}
+        .dots{display:flex;gap:6px}
+        .dot{width:12px;height:12px;border-radius:50%}
+        .dr{background:#ff5f57}.dy{background:#febc2e}.dg{background:#28c840}
+        .tt{color:#5c5349;font-size:13px;margin-left:auto;margin-right:auto}
+        .body{padding:12px 16px;font-size:13.5px;line-height:1.65}
+        .ln{opacity:0;animation:fi .5s ease forwards}
+        .p{color:#d97757}.c{color:#7cb87c}.a{color:#5c5349}.o{color:#a89b8a}
+        .cur{animation:bk 1s steps(1) infinite}
+        @keyframes fi{to{opacity:1}}
+        @keyframes bk{0%,50%{opacity:1}51%,100%{opacity:0}}
+        .l1{animation-delay:.3s}.l2{animation-delay:.7s}.l3{animation-delay:1.1s}
+        .l4{animation-delay:1.5s}.l5{animation-delay:1.9s}.l6{animation-delay:2.3s}
+        .l7{animation-delay:2.7s}.l8{animation-delay:3.1s}.l9{animation-delay:3.5s}
+        .l10{animation-delay:3.9s}.l11{animation-delay:4.3s}.l12{animation-delay:4.7s}
+        .l13{animation-delay:5.1s}
+      </style>
+      <div class="t">
+        <div class="tb">
+          <div class="dots"><div class="dot dr"></div><div class="dot dy"></div><div class="dot dg"></div></div>
+          <span class="tt">~ agentic-terminal — zsh — 80x24</span>
+        </div>
+        <div class="body">
+          <div class="ln l1"><span class="p">$ </span><span class="c">michael@autom8 ~ &gt; session_stats --lifetime</span></div>
+          <div class="ln l2"><span class="a">→ </span><span class="o">total tokens processed:     103,847,291</span></div>
+          <div class="ln l3"><span class="a">→ </span><span class="o">agents spawned:             4,892</span></div>
+          <div class="ln l4"><span class="a">→ </span><span class="o">files generated:            324,870</span></div>
+          <div class="ln l5"><span class="a">→ </span><span class="o">production deploys:         847</span></div>
+          <div class="ln l6"><span class="a">→ </span><span class="o">uptime:                     99.9%</span></div>
+          <div class="ln l7"><span class="p">$ </span><span class="c">michael@autom8 ~ &gt; whoami</span></div>
+          <div class="ln l8"><span class="a">→ </span><span class="o">fractional ai engineer</span></div>
+          <div class="ln l9"><span class="a">→ </span><span class="o">20 chrome extensions shipped</span></div>
+          <div class="ln l10"><span class="a">→ </span><span class="o">140 PRs merged upstream</span></div>
+          <div class="ln l11"><span class="a">→ </span><span class="o">currently: 1 retainer slot open Q3</span></div>
+          <div class="ln l12"><span class="p">$ </span><span class="c">michael@autom8 ~ &gt; echo "..."</span></div>
+          <div class="ln l13"><span class="a">→ </span><span class="o">while you're reading this, my agents are shipping code. </span><span class="o cur">█</span></div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

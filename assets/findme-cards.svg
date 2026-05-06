@@ -1,0 +1,36 @@
+<svg fill="none" viewBox="0 0 840 160" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .grid{display:flex;gap:16px;height:160px;box-sizing:border-box;padding:8px 0}
+        .card{flex:1;background:#13100c;border-radius:8px;padding:24px 20px;text-align:center;box-sizing:border-box;display:flex;flex-direction:column;justify-content:center;align-items:center;gap:6px}
+        .card-email{border:1px solid #d97757}
+        .card-zovo{border:1px solid #7cb87c}
+        .card-bln{border:1px solid #4493f8}
+        .icon{font-size:28px;font-weight:700;font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace;line-height:1}
+        .icon-email{color:#d97757}
+        .icon-zovo{color:#7cb87c}
+        .icon-bln{color:#4493f8}
+        .name{font-size:15px;font-weight:600;font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace;color:#f5f1eb;margin:0;line-height:1.3}
+        .desc{font-size:12px;font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace;color:#a89b8a;margin:0;line-height:1.3}
+      </style>
+      <div class="grid">
+        <div class="card card-email">
+          <div class="icon icon-email">@</div>
+          <p class="name">lipmichal@gmail.com</p>
+          <p class="desc">reply within 1 business day</p>
+        </div>
+        <div class="card card-zovo">
+          <div class="icon icon-zovo">&gt;_</div>
+          <p class="name">zovo.one</p>
+          <p class="desc">20 Chrome extensions · 10K+ users</p>
+        </div>
+        <div class="card card-bln">
+          <div class="icon icon-bln">Aa</div>
+          <p class="name">belikenative.com</p>
+          <p class="desc">Grammar tools for devs · MIT open source</p>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

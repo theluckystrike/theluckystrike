@@ -1,11 +1,13 @@
 <!--
-  theluckystrike/README.md  v5
+  theluckystrike/README.md  v6
   paste into:  github.com/theluckystrike/theluckystrike
 -->
 
 <a href="mailto:lipmichal@gmail.com?subject=retainer%20inquiry"><img src="./assets/hero-final.svg" alt="michael lip — fractional ai engineer · 10,000+ users in production · 20 extensions shipped · 47,886 commits · 140 prs upstream · 99.9% uptime · 4.6/5 avg rating · 1 slot open q3 · lipmichal@gmail.com" width="100%" /></a>
 
-<br />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=theluckystrike&color=d97757&style=flat-square&label=profile+views" alt="profile views" />
+</p>
 
 > **the pitch in one line.**
 > i embed with seed/series-a saas teams as their first ai engineer —
@@ -13,81 +15,15 @@
 > then hand off a repo your team can actually maintain.
 > typed everywhere. tested everywhere. claude code drives the keyboard. i drive claude.
 
+<img src="./assets/terminal-animated.svg" alt="agentic terminal — session stats: 103M tokens, 4,892 agents, 324,870 files, 847 deploys, 99.9% uptime" width="100%" />
+
 <br />
 
 ## § 01 · proof of work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="./assets/proof-cards.svg" alt="proof of work — tab-suspender-pro 200+/day 4.6 rating · belikenative 70 rules 10k+ users · chrome-extension-toolkit typescript mv3 · content engine 4,200+ articles" width="100%" />
 
-### tab-suspender-pro
-the great suspender replacement. 2m users stranded — live in 14 days. open source under bsl-1.1.
-
-```
-  installs/day  200+
-  rating        4.6 / 5
-  data.sent     0 bytes
-  license       bsl-1.1 · public
-```
-
-[source](https://github.com/theluckystrike/zovo-tab-suspender-public) · [chrome web store](https://zovo.one)
-
-</td>
-<td width="50%" valign="top">
-
-### belikenative · mcp grammar server
-70 rules · 18 l1-aware. claude desktop & cursor. plus 4 github actions.
-
-| tool | type | status |
-|------|------|--------|
-| grammar-check action | github action | live · 70 rules |
-| mcp server | claude desktop / cursor | live · 18 l1-aware |
-| chrome extension | browser tool | live · 10k+ users |
-| vscode extension | editor plugin | live |
-
-```
-  rules         70 · 18 l1-aware
-  ext.users     10k+
-  rating        4.6 / 5
-  license       mit · free forever
-```
-
-[action](https://github.com/theluckystrike/belikenative-grammar-check) · [extension](https://belikenative.com)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### chrome-extension-toolkit
-ts-first mv3 scaffolding. side panels, service workers, content scripts — typed and tested. the starter i use on every client build.
-
-```
-  language      typescript
-  manifest      v3
-  used.in       12+ shipped extensions
-```
-
-[repo](https://github.com/theluckystrike/chrome-extension-toolkit)
-
-</td>
-<td width="50%" valign="top">
-
-### content engine · the funnel
-chrome-tips · claude-skills-guide · ai-tools-compared.
-
-```
-  articles      4,200+
-  cadence       daily
-  views         1,700+ / mo on profile alone
-```
-
-[claudecodeguides.com](https://claudecodeguides.com) · [zovo.one](https://zovo.one)
-
-</td>
-</tr>
-</table>
+[tab-suspender source](https://github.com/theluckystrike/zovo-tab-suspender-public) · [belikenative action](https://github.com/theluckystrike/belikenative-grammar-check) · [extension-toolkit](https://github.com/theluckystrike/chrome-extension-toolkit) · [claudecodeguides.com](https://claudecodeguides.com)
 
 ---
 
@@ -128,6 +64,10 @@ $6k. one week. written report + diagram. credits to retainer if you sign.
 
 ---
 
+<img src="./assets/findme-cards.svg" alt="where to find me — lipmichal@gmail.com · zovo.one · belikenative.com" width="100%" />
+
+---
+
 ## § 04 · apply
 
 <a href="mailto:lipmichal@gmail.com?subject=retainer%20application&body=company%3A%0Astage%3A%20seed%20%2F%20series%20a%20%2F%20series%20b%0Ateam.size%3A%0Aai.problem%3A%20%28one%20paragraph%29%0Abudget%3A%20retainer%20%2F%20one-shot%20%2F%20review%0Arepo.access%3A%20yes%20%2F%20no%0A"><img src="./assets/cta-final.svg" alt="apply for a q3 retainer slot — lipmichal@gmail.com — reply within one business day" width="100%" /></a>
@@ -143,6 +83,25 @@ $6k. one week. written report + diagram. credits to retainer if you sign.
 ```
 
 ---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=theluckystrike&theme=github-dark-blue&hide_border=true&background=0d1117&ring=d97757&fire=d97757&currStreakLabel=d97757&sideNums=f5f1eb&sideLabels=7a6f62&currStreakNum=f5f1eb&dates=5c5349" alt="streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/26a641/theluckystrike" alt="contribution graph" width="100%" />
+</p>
+
+> **47,886 contributions in the last year.** Contributed to [chrome-tips](https://github.com/theluckystrike/chrome-tips), [claude-skills-guide](https://github.com/theluckystrike/claude-skills-guide), [ai-tools-compared](https://github.com/theluckystrike/ai-tools-compared) and 752 other repositories.
+
+---
+
+<p align="center">
+  <a href="https://zovo.one"><img src="https://img.shields.io/badge/ZOVO.ONE-34A853?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://x.com/_alphashark_"><img src="https://img.shields.io/badge/@__alphashark__-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/theluckystrike"><img src="https://img.shields.io/badge/Upwork_Top_Rated_Plus-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lipmichal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 <details>
 <summary>§ 05 · who this is for</summary>
@@ -238,22 +197,7 @@ $ git log --oneline --author=theluckystrike --since="12 months ago" | head
 </details>
 
 <details>
-<summary>§ 10 · github stats</summary>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=theluckystrike&theme=github-dark-blue&hide_border=true&background=0d1117&ring=d97757&fire=d97757&currStreakLabel=d97757&sideNums=f5f1eb&sideLabels=7a6f62&currStreakNum=f5f1eb&dates=5c5349" alt="streak" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/26a641/theluckystrike" alt="contribution graph" width="100%" />
-</p>
-
-> **47,886 contributions in the last year.** Contributed to [chrome-tips](https://github.com/theluckystrike/chrome-tips), [claude-skills-guide](https://github.com/theluckystrike/claude-skills-guide), [ai-tools-compared](https://github.com/theluckystrike/ai-tools-compared) and 752 other repositories.
-
-</details>
-
-<details>
-<summary>§ 11 · latest posts</summary>
+<summary>§ 10 · latest posts</summary>
 
 - [Building a Custom MCP Server for Claude Code](https://claudecodeguides.com/building-custom-mcp-server-claude-code/)
 - [Best MCP Servers for Claude Code (2026)](https://claudecodeguides.com/best-mcp-servers-claude-code-2026/)
@@ -278,12 +222,5 @@ cto-turned-solo-dev. 10+ years building software, leading infra, shipping produc
 ```
 
 </details>
-
-<p align="center">
-  <a href="https://zovo.one"><img src="https://img.shields.io/badge/ZOVO.ONE-34A853?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://x.com/_alphashark_"><img src="https://img.shields.io/badge/@__alphashark__-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.upwork.com/freelancers/theluckystrike"><img src="https://img.shields.io/badge/Upwork_Top_Rated_Plus-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/lipmichal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
 
 <p align="center"><sub><code>built solo · shipped tested · <a href="mailto:lipmichal@gmail.com">lipmichal@gmail.com</a></code></sub></p>
