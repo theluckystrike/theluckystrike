@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 840 320" width="840" height="320">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        .editor {
+          background: radial-gradient(ellipse at top right, #1a1611, #13100c);
+          border: 1px solid #2a241d;
+          border-radius: 12px;
+          overflow: hidden;
+          font-family: 'SF Mono', 'Fira Code', 'JetBrains Mono', 'Cascadia Code', monospace;
+        }
+
+        .tb {
+          background: #1a1611;
+          padding: 10px 16px;
+          display: flex;
+          align-items: center;
+          gap: 8px;
+          border-bottom: 1px solid #2a241d;
+        }
+
+        .d { width: 12px; height: 12px; border-radius: 50%; }
+        .dr { background: #ff5f57; box-shadow: 0 0 4px rgba(255,95,87,0.25); }
+        .dy { background: #febc2e; box-shadow: 0 0 4px rgba(254,188,46,0.25); }
+        .dg { background: #28c840; box-shadow: 0 0 4px rgba(40,200,64,0.25); }
+
+        .fn { color: #a89b8a; font-size: 12px; margin-left: 12px; flex: 1; }
+
+        .lv {
+          display: flex;
+          align-items: center;
+          gap: 5px;
+          font-size: 10px;
+          color: #7cb87c;
+          letter-spacing: 1.5px;
+          text-transform: uppercase;
+          font-weight: 600;
+        }
+
+        .ld {
+          width: 6px; height: 6px; border-radius: 50%;
+          background: #7cb87c;
+          box-shadow: 0 0 6px rgba(124,184,124,0.4);
+          animation: pulse 2s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+          0%, 100% { opacity: 1; box-shadow: 0 0 6px rgba(124,184,124,0.4); }
+          50% { opacity: 0.3; box-shadow: 0 0 2px rgba(124,184,124,0.1); }
+        }
+
+        .code {
+          padding: 14px 20px;
+          font-size: 13px;
+          line-height: 1.65;
+          color: #f5f1eb;
+        }
+
+        .ln {
+          white-space: pre;
+          overflow: hidden;
+          max-width: 0;
+          opacity: 0;
+          animation: type 0.5s steps(45, end) forwards;
+        }
+
+        @keyframes type {
+          0%   { max-width: 0;     opacity: 1; }
+          100% { max-width: 800px; opacity: 1; }
+        }
+
+        .l1  { animation-delay: 0.3s; }
+        .l2  { animation-delay: 0.65s; }
+        .l3  { animation-delay: 1.0s; }
+        .l4  { animation-delay: 1.35s; }
+        .l5  { animation-delay: 1.7s; }
+        .l6  { animation-delay: 2.05s; }
+        .l7  { animation-delay: 2.4s; }
+        .l8  { animation-delay: 2.7s; }
+        .l9  { animation-delay: 3.0s; }
+        .l10 { animation-delay: 3.4s; }
+        .l11 { animation-delay: 3.75s; }
+        .l12 { animation-delay: 4.1s; }
+
+        .kw  { color: #d97757; }
+        .s   { color: #7cb87c; }
+        .cm  { color: #5c5349; }
+        .fc  { color: #e8c47c; }
+        .n   { color: #d97757; }
+        .p   { color: #a89b8a; }
+
+        .cur {
+          display: inline-block;
+          width: 8px;
+          height: 14px;
+          background: #d97757;
+          vertical-align: text-bottom;
+          opacity: 0;
+          animation: blink 1s steps(1, end) infinite;
+          animation-delay: 4.6s;
+        }
+
+        @keyframes blink {
+          0%, 100% { opacity: 1; }
+          50% { opacity: 0; }
+        }
+      </style>
+
+      <div class="editor">
+        <div class="tb">
+          <div class="d dr">&#160;</div>
+          <div class="d dy">&#160;</div>
+          <div class="d dg">&#160;</div>
+          <span class="fn">ship.ts</span>
+          <span class="lv"><span class="ld">&#160;</span> live</span>
+        </div>
+        <div class="code">
+          <div class="ln l1"><span class="cm">// what a 14-day cycle ships</span></div>
+          <div class="ln l2"><span class="kw">const</span> cycle <span class="p">=</span> <span class="kw">await</span> <span class="fc">pipeline</span><span class="p">({</span></div>
+          <div class="ln l3">  spec<span class="p">:</span>    <span class="fc">writeSpec</span><span class="p">(</span>client<span class="p">.</span>brief<span class="p">),</span></div>
+          <div class="ln l4">  tests<span class="p">:</span>   <span class="fc">generateEvals</span><span class="p">(</span>spec<span class="p">,</span> <span class="p">{</span> framework<span class="p">:</span> <span class="s">'vitest'</span> <span class="p">}),</span></div>
+          <div class="ln l5">  agent<span class="p">:</span>   <span class="fc">deployAgent</span><span class="p">(</span>spec<span class="p">,</span> <span class="p">{</span> model<span class="p">:</span> <span class="s">'claude'</span><span class="p">,</span> mcp<span class="p">:</span> <span class="kw">true</span> <span class="p">}),</span></div>
+          <div class="ln l6">  review<span class="p">:</span>  <span class="fc">pairSession</span><span class="p">(</span>client<span class="p">.</span>engineer<span class="p">),</span></div>
+          <div class="ln l7">  ship<span class="p">:</span>    <span class="fc">deploy</span><span class="p">({</span> target<span class="p">:</span> <span class="s">'cloudflare'</span><span class="p">,</span> rollback<span class="p">:</span> <span class="s">'&lt;60s'</span> <span class="p">}),</span></div>
+          <div class="ln l8"><span class="p">});</span></div>
+          <div class="ln l9">&#160;</div>
+          <div class="ln l10"><span class="fc">assert</span><span class="p">(</span>cycle<span class="p">.</span>evals<span class="p">.</span>pass<span class="p">);</span></div>
+          <div class="ln l11"><span class="fc">assert</span><span class="p">(</span>cycle<span class="p">.</span>uptime <span class="p">&gt;=</span> <span class="n">0.999</span><span class="p">);</span></div>
+          <div class="ln l12"><span class="cm">// handoff.md written. your team maintains.</span><span class="cur">&#160;</span></div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

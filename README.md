@@ -1,5 +1,5 @@
 <!--
-  theluckystrike/README.md  v7
+  theluckystrike/README.md  v8
   paste into:  github.com/theluckystrike/theluckystrike
 -->
 
@@ -11,8 +11,8 @@
   <img src="https://komarev.com/ghpvc/?username=theluckystrike&color=d97757&style=flat-square&label=profile+views" alt="profile view counter" />
 </p>
 
-<!-- 3. TERMINAL SVG -->
-<img src="./assets/terminal-animated.svg" alt="agentic terminal — session stats: 103M tokens processed, 4,892 agents spawned, 324,870 files generated, 847 production deploys, 99.9% uptime — while you are reading this, my agents are shipping code" width="100%" />
+<!-- 3. CODE TYPEWRITER — the pitch as TypeScript -->
+<img src="./assets/code-typewriter.svg" alt="ship.ts — const cycle = await pipeline({ spec: writeSpec(client.brief), tests: generateEvals(spec, { framework: 'vitest' }), agent: deployAgent(spec, { model: 'claude', mcp: true }), review: pairSession(client.engineer), ship: deploy({ target: 'cloudflare', rollback: '<60s' }) }); assert(cycle.evals.pass); assert(cycle.uptime >= 0.999); // handoff.md written. your team maintains." width="100%" />
 
 <!-- 4. PITCH BLOCKQUOTE -->
 > **the pitch in one line.**
