@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 175" width="100%">
+  <foreignObject x="0" y="0" width="840" height="175">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .stack-box {
+          background: #13100c;
+          border: 1px solid #2a241d;
+          border-radius: 6px;
+          padding: 18px 20px;
+          font: 13px/1.65 monospace;
+          white-space: pre;
+          box-sizing: border-box;
+        }
+        .cat {
+          color: #5c5349;
+        }
+        .tech {
+          color: #a89b8a;
+        }
+      </style>
+      <div class="stack-box"><span class="cat">agentic     </span><span class="tech">claude code · mcp · gemini cli · minimax · langgraph · vercel ai sdk</span>
+<span class="cat">frontend    </span><span class="tech">typescript · react · next · vite · tailwind · shadcn</span>
+<span class="cat">backend     </span><span class="tech">node · python · django · supabase · postgres · trpc</span>
+<span class="cat">extensions  </span><span class="tech">mv3 · service workers · dnr · wxt · plasmo</span>
+<span class="cat">infra       </span><span class="tech">cloudflare workers · aws · docker · github actions</span>
+<span class="cat">testing     </span><span class="tech">vitest · playwright · msw · zod · eval harnesses</span></div>
+    </div>
+  </foreignObject>
+</svg>

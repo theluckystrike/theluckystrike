@@ -1,0 +1,31 @@
+<svg fill="none" viewBox="0 0 840 140" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .block {
+          background: #13100c;
+          border: 1px solid #2a241d;
+          border-radius: 6px;
+          padding: 18px 20px;
+          font: 13px/1.65 monospace;
+          color: #a89b8a;
+          box-sizing: border-box;
+        }
+        .dim { color: #5c5349; }
+        .arrow { color: #d97757; }
+        .muted { color: #a89b8a; }
+        .white { color: #f5f1eb; }
+        .green { color: #7cb87c; }
+        .row { white-space: pre; }
+        .blank { height: 1.65em; }
+      </style>
+      <div class="block">
+        <div class="row"><span class="muted">  </span><span class="arrow">-&gt;</span><span class="muted">  reply within </span><span class="white">1 business day</span><span class="muted"> &#183; </span><span class="green">yes</span><span class="muted"> / no / scoped proposal.</span></div>
+        <div class="row"><span class="muted">  </span><span class="arrow">-&gt;</span><span class="muted">  no discovery call until we both agree it's worth one.</span></div>
+        <div class="row"><span class="muted">  </span><span class="arrow">-&gt;</span><span class="muted">  if the fit is wrong, i'll refer you to someone better.</span></div>
+        <div class="blank"></div>
+        <div class="row"><span class="dim">  // gmt+7  &#183;  da nang vn  &#183;  zovo.one  &#183;  @_alphashark_</span></div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
