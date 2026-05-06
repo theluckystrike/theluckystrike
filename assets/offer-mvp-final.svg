@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 230" fill="none">
+  <rect width="840" height="230" rx="8" fill="#13100c"/>
+  <rect x="0.5" y="0.5" width="839" height="229" rx="7.5" stroke="#2a241d" stroke-width="1" fill="none"/>
+  <rect x="1" y="1" width="838" height="4" rx="2" fill="#d97757"/>
+
+  <text x="40" y="52" font-family="monospace" font-size="18" fill="#f5f1eb">
+    fractional ai lead
+    <tspan fill="#7a6f62"> · </tspan>
+    <tspan fill="#d97757">the retainer</tspan>
+  </text>
+
+  <text x="40" y="92" font-family="monospace" font-size="24" font-weight="bold" fill="#d97757">
+    $10&#x2013;12k / month
+  </text>
+
+  <line x1="40" y1="112" x2="800" y2="112" stroke="#2a241d" stroke-width="1"/>
+
+  <text x="40" y="140" font-family="monospace" font-size="14" fill="#7a6f62">
+    6-month minimum · 30-day pilot with full refund · 1 slot Q3
+  </text>
+
+  <text x="40" y="170" font-family="monospace" font-size="14" fill="#7a6f62">
+    capacity: 3 clients max · 2 active · 1 slot open
+  </text>
+
+  <text x="40" y="200" font-family="monospace" font-size="14" fill="#7a6f62">
+    you own the repo, the evals, the runbooks. i'm replaceable by month 6.
+  </text>
+</svg>
