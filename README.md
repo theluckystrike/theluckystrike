@@ -1,5 +1,5 @@
 <!--
-  theluckystrike/README.md  v8
+  theluckystrike/README.md  v9
   paste into:  github.com/theluckystrike/theluckystrike
 -->
 
@@ -21,6 +21,7 @@
 > then hand off a repo your team can actually maintain.
 > typed everywhere. tested everywhere.
 > claude code drives the keyboard. i drive claude.
+> security researcher. 1 cve assigned. 55+ advisories filed across ai/ml infrastructure.
 
 ---
 
@@ -30,6 +31,27 @@
 <img src="./assets/proof-cards.svg" alt="proof of work — tab-suspender-pro 200+ installs/day 4.6 rating BSL-1.1 · belikenative mcp grammar server 70 rules 10k+ users 4.6 rating MIT · chrome-extension-toolkit typescript-first mv3 scaffolding 12+ shipped extensions · content engine 4,200+ articles daily cadence 1,700+ views/mo" width="100%" />
 
 [tab-suspender source](https://github.com/theluckystrike/zovo-tab-suspender-public) · [belikenative action](https://github.com/theluckystrike/belikenative-grammar-check) · [extension-toolkit](https://github.com/theluckystrike/chrome-extension-toolkit) · [claudecodeguides.com](https://claudecodeguides.com)
+
+---
+
+<!-- 5b. SECURITY RESEARCH -->
+## § 01b · security research
+
+```
+  CVE-2026-45426    apache airflow 3.x · jwt lstrip() authorization bypass
+                    log-server auth bypass via crafted jwt tokens
+                    fix shipped in apache-airflow 3.2.2 (2026-05-29)
+                    credited: "Michael Lip (theluckystrike)"
+                    GHSA-qrqv-2669-78cv · pypi.org/project/apache-airflow/3.2.2
+
+  advisories        55+ security advisories filed across ai/ml infrastructure
+                    mlflow · keras · sglang · nltk · gradio · feast
+
+  upstream fixes    prefecthq/prefect · mlflow/mlflow · nltk/nltk
+
+  methodology       static analysis · source code review · automated pipeline scanning
+                    solidity smart contract auditing · defi protocol analysis
+```
 
 ---
 
