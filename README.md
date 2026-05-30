@@ -37,21 +37,7 @@
 <!-- 5b. SECURITY RESEARCH -->
 ## § 01b · security research
 
-```
-  CVE-2026-45426    apache airflow 3.x · jwt lstrip() authorization bypass
-                    log-server auth bypass via crafted jwt tokens
-                    fix shipped in apache-airflow 3.2.2 (2026-05-29)
-                    credited: "Michael Lip (theluckystrike)"
-                    GHSA-qrqv-2669-78cv · pypi.org/project/apache-airflow/3.2.2
-
-  advisories        55+ security advisories filed across ai/ml infrastructure
-                    mlflow · keras · sglang · nltk · gradio · feast
-
-  upstream fixes    prefecthq/prefect · mlflow/mlflow · nltk/nltk
-
-  methodology       static analysis · source code review · automated pipeline scanning
-                    solidity smart contract auditing · defi protocol analysis
-```
+<img src="./assets/security-research.svg" alt="security research — CVE-2026-45426 apache airflow jwt lstrip authorization bypass fix shipped 3.2.2 credited Michael Lip theluckystrike · 55+ security advisories mlflow keras sglang nltk gradio feast · methodology static analysis source code review solidity smart contract auditing defi protocol analysis · platforms github security advisories immunefi sherlock cantina" width="100%" />
 
 ---
 
