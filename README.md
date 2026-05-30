@@ -37,7 +37,7 @@
 <!-- 5b. SECURITY RESEARCH -->
 ## § 01b · security research
 
-<img src="./assets/security-research.svg" alt="security research — CVE-2026-45426 apache airflow jwt lstrip authorization bypass fix shipped 3.2.2 credited Michael Lip theluckystrike · 55+ security advisories mlflow keras sglang nltk gradio feast · methodology static analysis source code review solidity smart contract auditing defi protocol analysis · platforms github security advisories immunefi sherlock cantina" width="100%" />
+<img src="./assets/security-research.png" alt="security research — CVE-2026-45426 apache airflow jwt lstrip authorization bypass fix shipped 3.2.2 credited Michael Lip theluckystrike · 55+ security advisories mlflow keras sglang nltk gradio feast · methodology static analysis source code review solidity smart contract auditing defi protocol analysis · platforms github security advisories immunefi sherlock cantina" width="100%" />
 
 ---
 
