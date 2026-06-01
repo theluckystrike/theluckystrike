@@ -4,7 +4,7 @@
 -->
 
 <!-- 1. HERO BANNER -->
-<a href="mailto:lipmichal@gmail.com?subject=retainer%20inquiry"><img src="./assets/hero-final.svg" alt="michael lip — fractional ai engineer · 10,000+ users in production · 20 extensions shipped · 47,886 commits · 140 prs upstream · 99.9% uptime · 4.6/5 avg rating · 1 slot open q3 · lipmichal@gmail.com" width="100%" /></a>
+<a href="mailto:lipmichal@gmail.com?subject=retainer%20inquiry"><img src="./assets/hero-final.svg" alt="michael lip — fractional ai engineer · 10,000+ users in production · 20 extensions shipped · 70+ prs merged upstream · 55+ vuln reports · 99.9% uptime · 4.6/5 avg rating · 1 slot open q3 · lipmichal@gmail.com" width="100%" /></a>
 
 <!-- 2. VIEW COUNTER -->
 <p align="center">
@@ -21,7 +21,7 @@
 > then hand off a repo your team can actually maintain.
 > typed everywhere. tested everywhere.
 > claude code drives the keyboard. i drive claude.
-> security researcher. 1 cve assigned. 55+ advisories filed across ai/ml infrastructure.
+> security researcher. 55+ vulnerability reports filed across ai/ml infrastructure (mlflow, keras, sglang, feast).
 
 ---
 
@@ -37,7 +37,7 @@
 <!-- 5b. SECURITY RESEARCH -->
 ## § 01b · security research
 
-<img src="./assets/security-research.png" alt="security research — CVE-2026-45426 apache airflow jwt lstrip authorization bypass fix shipped 3.2.2 credited Michael Lip theluckystrike · 55+ security advisories mlflow keras sglang nltk gradio feast · methodology static analysis source code review solidity smart contract auditing defi protocol analysis · platforms github security advisories immunefi sherlock cantina" width="100%" />
+<img src="./assets/security-research.svg" alt="security research — 55+ vulnerability reports filed via github pvr across mlflow keras sglang nltk gradio feast · focus pickle deserialization sql injection model loading · methodology static analysis source code review solidity smart contract auditing defi protocol analysis · platforms github pvr huntr immunefi sherlock cantina" width="100%" />
 
 ---
 
@@ -137,17 +137,15 @@ what you get that's different:
 $ git log --oneline --author=theluckystrike --since="12 months ago" | head
 
   a3f8c12   feat(tab-suspender): mv3 service-worker rewrite · ship v2.1
-  91d2e44   merge:  axios#6291 · keepAlive defaults restored
   b7e019a   merge:  google-chrome/chrome.dev#142 · ext-page typings
   4f1c8b3   feat(belikenative): mcp server · 70 rules · 18 l1-aware
-  ce6a201   merge:  nicehash/nh-monorepo#88 · worker memory leak
   8dbf17f   feat(zovo-toolkit): wxt + plasmo dual scaffold
   2a4e9c1   merge:  microlinkhq/preview#56 · cls regression patch
   efd03b8   chore:  gh-actions · grammar-check · 60->70 rules
   19b6f72   merge:  scriptscat/scriptcat#214 · cookie-store typings
   c7b1f0d   feat:  mv2->mv3 migration #12 · zero rank loss
   ...
-  total 12mo:  47,886 commits · 140 prs merged upstream · 0 regressions reverted
+  total 12mo:  70+ prs merged upstream · 20 extensions shipped · 10k+ users
 ```
 
 > **why open-source receipts matter at this stage.** i'm transparent: most of my deployed work is mine — 20 extensions, 10k+ users, 4.6 avg. i'm building a paid client portfolio now, and the trade is honest: hire me before the testimonial wall fills up, get senior shipping speed at a junior-consultant price. month-1 pilot is refundable for a reason.
@@ -171,10 +169,10 @@ $ git log --oneline --author=theluckystrike --since="12 months ago" | head
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/26a641/theluckystrike" alt="47,886 contributions in the last year — theluckystrike contribution graph" width="100%" />
+  <img src="https://ghchart.rshah.org/26a641/theluckystrike" alt="theluckystrike contribution graph" width="100%" />
 </p>
 
-<img src="./assets/activity-summary.svg" alt="47,886 contributions in the last year — organizations: @microlinkhq @BeLikeNative @scriptscat and more — contributed to chrome-tips, claude-skills-guide, ai-tools-compared and 752 other repositories" width="100%" />
+<img src="./assets/activity-summary.svg" alt="contributions in the last year — organizations: @microlinkhq @BeLikeNative @scriptscat and more — contributed to chrome-tips, claude-skills-guide, ai-tools-compared and more" width="100%" />
 
 ---
 
@@ -220,9 +218,10 @@ $ git log --oneline --author=theluckystrike --since="12 months ago" | head
 cto-turned-solo-dev. 10+ years building software, leading infra, shipping product. founder of [zovo](https://zovo.one) and [belikenative](https://belikenative.com). three content sites, 4,200+ articles. da nang since 2022.
 
 ```
-  contributions.last_year   47,886
+  extensions.shipped        20
+  users.production          10,000+
+  prs.merged.upstream       70+
   current.streak            64 days
-  followers                 16
   organizations             trustwrx · belikenative
 ```
 

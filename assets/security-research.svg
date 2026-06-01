@@ -18,24 +18,23 @@
       </style>
       <div class="grid">
         <div class="card featured">
-          <p class="title">CVE-2026-45426<span class="badge">CVE</span></p>
-          <p class="desc">Apache Airflow 3.x · JWT lstrip() auth bypass</p>
-          <ul class="stats">
-            <li><span class="k">vector</span> <span class="v">log-server auth bypass via crafted jwt</span></li>
-            <li><span class="k">fix</span> <span class="v">apache-airflow 3.2.2 (2026-05-29)</span></li>
-            <li><span class="k">credit</span> <span class="v">Michael Lip (theluckystrike)</span></li>
-            <li><span class="k">ghsa</span> <span class="v">GHSA-qrqv-2669-78cv</span></li>
-          </ul>
-          <div class="links"><a href="#">pypi</a><span class="sep"> · </span><a href="#">advisory</a><span class="sep"> · </span><a href="#">nvd</a></div>
-        </div>
-        <div class="card">
-          <p class="title">security advisories</p>
-          <p class="desc">55+ advisories across AI/ML infrastructure</p>
+          <p class="title">vulnerability research<span class="badge">ACTIVE</span></p>
+          <p class="desc">55+ reports filed via GitHub Private Vulnerability Reporting</p>
           <ul class="stats">
             <li><span class="k">scope</span> <span class="v">mlflow · keras · sglang</span></li>
             <li><span class="k"></span> <span class="v">nltk · gradio · feast</span></li>
-            <li><span class="k">fixes merged</span> <span class="v">prefect · mlflow · nltk</span></li>
-            <li><span class="k">count</span> <span class="v">55+ filed · upstream patches</span></li>
+            <li><span class="k">focus</span> <span class="v">pickle deserialization · sql injection</span></li>
+            <li><span class="k">method</span> <span class="v">static analysis · source code review</span></li>
+          </ul>
+        </div>
+        <div class="card">
+          <p class="title">research areas</p>
+          <p class="desc">AI/ML infrastructure security</p>
+          <ul class="stats">
+            <li><span class="k">sglang</span> <span class="v">36 pickle.loads instances audited</span></li>
+            <li><span class="k">feast</span> <span class="v">f-string sqli across 12 backends</span></li>
+            <li><span class="k">mlflow</span> <span class="v">model deserialization vectors</span></li>
+            <li><span class="k">keras</span> <span class="v">model loading attack surface</span></li>
           </ul>
         </div>
         <div class="card">
@@ -51,7 +50,7 @@
           <p class="title">platforms</p>
           <p class="desc">Active vulnerability disclosure programs</p>
           <ul class="stats">
-            <li><span class="k">web/ml</span> <span class="v">github security advisories</span></li>
+            <li><span class="k">web/ml</span> <span class="v">github pvr · huntr</span></li>
             <li><span class="k">blockchain</span> <span class="v">immunefi · sherlock · cantina</span></li>
             <li><span class="k">status</span> <span class="v">active researcher</span></li>
           </ul>
