@@ -18,7 +18,7 @@
           <p class="title">tab-suspender-pro</p>
           <p class="desc">The great suspender replacement. 2M stranded -- live in 14 days.</p>
           <ul class="stats">
-            <li><span class="k">installs/day</span> 200+</li>
+            <li><span class="k">cws.users</span> 1,100+</li>
             <li><span class="k">rating</span> 4.6 / 5</li>
             <li><span class="k">data.sent</span> 0 bytes</li>
             <li><span class="k">license</span> bsl-1.1</li>
@@ -30,7 +30,7 @@
           <p class="desc">70 rules · 18 L1-aware. Claude Desktop &amp; Cursor.</p>
           <ul class="stats">
             <li><span class="k">rules</span> 70 · 18 l1-aware</li>
-            <li><span class="k">ext.users</span> 10k+</li>
+            <li><span class="k">ext.users</span> 9,000+</li>
             <li><span class="k">rating</span> 4.6 / 5</li>
             <li><span class="k">license</span> mit</li>
           </ul>

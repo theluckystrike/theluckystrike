@@ -4,7 +4,7 @@
 -->
 
 <!-- 1. HERO BANNER -->
-<a href="mailto:lipmichal@gmail.com?subject=retainer%20inquiry"><img src="./assets/hero-final.svg" alt="michael lip — fractional ai engineer · 10,000+ users in production · 20 extensions shipped · 70+ prs merged upstream · 55+ vuln reports · 99.9% uptime · 4.6/5 avg rating · 1 slot open q3 · lipmichal@gmail.com" width="100%" /></a>
+<a href="mailto:lipmichal@gmail.com?subject=retainer%20inquiry"><img src="./assets/hero-final.svg" alt="michael lip — fractional ai engineer · 9,000+ users in production · Chrome ext portfolio · 70+ prs merged upstream · 55+ vuln reports · 4.6/5 avg rating · ships in 14-day cycles · taking on clients q3 · lipmichal@gmail.com" width="100%" /></a>
 
 <!-- 2. VIEW COUNTER -->
 <p align="center">
@@ -28,7 +28,7 @@
 <!-- 5. PROOF OF WORK -->
 ## § 01 · proof of work
 
-<img src="./assets/proof-cards.svg" alt="proof of work — tab-suspender-pro 200+ installs/day 4.6 rating BSL-1.1 · belikenative mcp grammar server 70 rules 10k+ users 4.6 rating MIT · chrome-extension-toolkit typescript-first mv3 scaffolding 12+ shipped extensions · content engine 4,200+ articles daily cadence 1,700+ views/mo" width="100%" />
+<img src="./assets/proof-cards.svg" alt="proof of work — tab-suspender-pro 1,100+ users 4.6 rating BSL-1.1 · belikenative mcp grammar server 70 rules 9,000+ users 4.6 rating MIT · chrome-extension-toolkit typescript-first mv3 scaffolding · content engine articles daily cadence" width="100%" />
 
 [tab-suspender source](https://github.com/theluckystrike/zovo-tab-suspender-public) · [belikenative action](https://github.com/theluckystrike/belikenative-grammar-check) · [extension-toolkit](https://github.com/theluckystrike/chrome-extension-toolkit) · [claudecodeguides.com](https://claudecodeguides.com)
 
@@ -46,7 +46,7 @@
 
 <a href="mailto:lipmichal@gmail.com?subject=retainer%20slot"><img src="./assets/offer-mvp-final.svg" alt="fractional ai lead embedded retainer · $10-12k/mo · 6-month minimum · 30-day pilot with full refund · 1 slot open Q3 2026" width="100%" /></a>
 
-<img src="./assets/retainer-details.svg" alt="why a retainer beats a project for ai work — ai roadmaps shift weekly, evals and prompts need maintenance, your team learns by pairing, renewing is cheaper than re-hiring — the deal: $10-12k/mo 6-month min 30-day refund, capacity 3 retainer clients max, currently 2 active 1 slot open Q3 2026, you own the repo the evals the runbooks" width="100%" />
+<img src="./assets/retainer-details.svg" alt="why a retainer beats a project for ai work — ai roadmaps shift weekly, evals and prompts need maintenance, your team learns by pairing, renewing is cheaper than re-hiring — the deal: $10-12k/mo 6-month min 30-day refund, capacity 3 retainer clients max, taking on new clients Q3 2026, you own the repo the evals the runbooks" width="100%" />
 
 ---
 
@@ -145,10 +145,10 @@ $ git log --oneline --author=theluckystrike --since="12 months ago" | head
   19b6f72   merge:  scriptscat/scriptcat#214 · cookie-store typings
   c7b1f0d   feat:  mv2->mv3 migration #12 · zero rank loss
   ...
-  total 12mo:  70+ prs merged upstream · 20 extensions shipped · 10k+ users
+  total 12mo:  70+ prs merged upstream · 9,000+ users across extensions
 ```
 
-> **why open-source receipts matter at this stage.** i'm transparent: most of my deployed work is mine — 20 extensions, 10k+ users, 4.6 avg. i'm building a paid client portfolio now, and the trade is honest: hire me before the testimonial wall fills up, get senior shipping speed at a junior-consultant price. month-1 pilot is refundable for a reason.
+> **why open-source receipts matter at this stage.** i'm transparent: most of my deployed work is mine — Chrome extensions, 9K+ users, 4.6 avg. i'm building a paid client portfolio now, and the trade is honest: hire me before the testimonial wall fills up, get senior shipping speed at a junior-consultant price. month-1 pilot is refundable for a reason.
 
 </details>
 
@@ -190,7 +190,7 @@ $ git log --oneline --author=theluckystrike --since="12 months ago" | head
 <!-- 15. WHERE TO FIND ME -->
 ## § 09 · where to find me
 
-<img src="./assets/findme-cards.svg" alt="where to find me — lipmichal@gmail.com reply within 1 business day · zovo.one 20 chrome extensions 10k+ users · belikenative.com grammar tools for devs MIT open source" width="100%" />
+<img src="./assets/findme-cards.svg" alt="where to find me — lipmichal@gmail.com reply within 1 business day · zovo.one Chrome extensions 9K+ users · belikenative.com grammar tools for devs MIT open source" width="100%" />
 
 <p align="center">
   <img src="./assets/connect-row.svg" alt="connect — zovo.one · @_alphashark_ on X · Upwork Top Rated Plus · LinkedIn" width="100%" />
@@ -218,8 +218,7 @@ $ git log --oneline --author=theluckystrike --since="12 months ago" | head
 cto-turned-solo-dev. 10+ years building software, leading infra, shipping product. founder of [zovo](https://zovo.one) and [belikenative](https://belikenative.com). three content sites, 4,200+ articles. da nang since 2022.
 
 ```
-  extensions.shipped        20
-  users.production          10,000+
+  users.production          9,000+
   prs.merged.upstream       70+
   current.streak            64 days
   organizations             trustwrx · belikenative
