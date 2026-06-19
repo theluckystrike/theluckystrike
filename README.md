@@ -28,9 +28,13 @@
 <!-- 5. PROOF OF WORK -->
 ## § 01 · proof of work
 
-<img src="./assets/proof-cards.svg" alt="proof of work — tab-suspender-pro 1,100+ users 4.6 rating BSL-1.1 · belikenative mcp grammar server 70 rules 9,000+ users 4.6 rating MIT · chrome-extension-toolkit typescript-first mv3 scaffolding · content engine articles daily cadence" width="100%" />
+<a href="https://github.com/theluckystrike?tab=repositories"><img src="./assets/proof-cards.svg" alt="proof of work — tab-suspender-pro 1,100+ users 4.6 rating BSL-1.1 · belikenative mcp grammar server 70 rules 9,000+ users 4.6 rating MIT · chrome-extension-toolkit typescript-first mv3 scaffolding · content engine articles daily cadence" width="100%" /></a>
 
-[tab-suspender source](https://github.com/theluckystrike/zovo-tab-suspender-public) · [belikenative action](https://github.com/theluckystrike/belikenative-grammar-check) · [extension-toolkit](https://github.com/theluckystrike/chrome-extension-toolkit) · [claudecodeguides.com](https://claudecodeguides.com)
+<sub>**open the work &#8595;**</sub>  &nbsp; [tab-suspender source](https://github.com/theluckystrike/zovo-tab-suspender-public) · [belikenative action](https://github.com/theluckystrike/belikenative-grammar-check) · [extension-toolkit](https://github.com/theluckystrike/chrome-extension-toolkit) · [claudecodeguides.com](https://claudecodeguides.com)
+
+> **like what you see? this is exactly what i ship for clients — same stack, same 14-day cycle, same maintainable handoff.**
+>
+> **[-&gt; reach out · lipmichal@gmail.com](mailto:lipmichal@gmail.com?subject=saw%20your%20proof%20of%20work&body=company%3A%0Astage%3A%20seed%20%2F%20series%20a%20%2F%20series%20b%0Awhat%20you%20need%20built%3A%0Atimeline%3A%0A)** &nbsp;·&nbsp; reply within 1 business day · gmt+7 · async-first
 
 ---
 
