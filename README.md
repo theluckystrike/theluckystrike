@@ -38,6 +38,42 @@
 
 ---
 
+<!-- 5a. LIVE PROPERTIES -->
+## § 01a · live properties · <sub>every square is a live site — click to open</sub>
+
+<a href="https://ml0x.com"><img src="./assets/sq-ml0x-wide.svg" alt="ml0x · ml0x.com — the engine behind every square below. my open-source agentic engineering pipeline: one developer, the output of a 100-person team. analyze, implement, test, review, ship. 85% cheaper model routing, 90% cache savings, production-grade quality gates. full pipeline shared with zovo lifetime members." width="100%" /></a>
+
+<sub>**ai &amp; developer tools**</sub>
+<table>
+  <tr>
+    <td width="33.3%"><a href="https://belikenative.com"><img src="./assets/sq-belikenative.svg" alt="belikenative · belikenative.com — ai writing assistant for non-native speakers, fix rewrite and translate in one shortcut. 26,000+ users, 4.66 stars." width="100%" /></a></td>
+    <td width="33.3%"><a href="https://claudecodeguides.com"><img src="./assets/sq-claudecodeguides.svg" alt="claude code guides · claudecodeguides.com — the reference devs reach for when claude code breaks. configs, tools, mcp servers. 3,021+ guides, daily." width="100%" /></a></td>
+    <td width="33.3%"><a href="http://heytensor.com"><img src="./assets/sq-heytensor.svg" alt="heytensor · heytensor.com — pytorch and tensorflow tensor-shape calculator. chain mode and instant error fixes. 14 layer types, free." width="100%" /></a></td>
+  </tr>
+</table>
+
+<sub>**security research &amp; extensions**</sub>
+<table>
+  <tr>
+    <td width="33.3%"><a href="https://zovo.one"><img src="./assets/sq-zovo.svg" alt="zovo · zovo.one — privacy and security x-ray for the chrome web store. scan and compare any extension. 244,000+ analyzed." width="100%" /></a></td>
+    <td width="33.3%"><a href="http://scanthechain.com"><img src="./assets/sq-scanthechain.svg" alt="scan the chain · scanthechain.com — automated defi smart-contract audits, the honest ledger of white-hat economics. 58 campaigns, $11B TVL." width="100%" /></a></td>
+    <td width="33.3%"><a href="https://bugbountyreality.com"><img src="./assets/sq-bugbountyreality.svg" alt="bug bounty reality · bugbountyreality.com — the security-research ops database nobody else publishes. 2k spent, 0 collected. 600+ vulns, 55 advisories." width="100%" /></a></td>
+  </tr>
+</table>
+
+<sub>**quant research &amp; tools**</sub>
+<table>
+  <tr>
+    <td width="33.3%"><a href="https://earlythunder.com"><img src="./assets/sq-earlythunder.svg" alt="early thunder · earlythunder.com — pre-mainstream opportunity intelligence across defi, equities and private markets. 247 opportunities, daily." width="100%" /></a></td>
+    <td width="33.3%"><a href="http://deepvalueradar.com"><img src="./assets/sq-deepvalueradar.svg" alt="deepvalue radar · deepvalueradar.com — deep-value equity screener, fair-value models and catalysts cross-validated. 18 picks from a 451 universe." width="100%" /></a></td>
+    <td width="33.3%"><a href="https://ingredientcalculator.com"><img src="./assets/sq-ingredientcalculator.svg" alt="ingredient calculator · ingredientcalculator.com — fast recipe scaler, unit converter, substitutions and macros. free, polished." width="100%" /></a></td>
+  </tr>
+</table>
+
+<sub>all ten shipped &amp; operated solo by the <a href="https://ml0x.com">ml0x</a> 100x pipeline · each one actively upgraded · click any square to open it live</sub>
+
+---
+
 <!-- 5b. SECURITY RESEARCH -->
 ## § 01b · security research
 

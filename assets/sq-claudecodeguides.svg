@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 170" width="100%" fill="none">
+  <foreignObject x="0" y="0" width="280" height="170">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="width:280px;height:170px;box-sizing:border-box">
+      <style>
+        .c{width:100%;height:100%;background:#13100c;border:1px solid #2a241d;border-radius:8px;padding:16px;box-sizing:border-box;display:flex;flex-direction:column;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+        .t{color:#e6edf3;font:600 15px/1.25 ui-monospace,monospace;margin:0}
+        .d{color:#7a6f62;font:400 11px/1.3 ui-monospace,monospace;margin:2px 0 0}
+        .x{color:#a89b8a;font:400 12px/1.45 ui-monospace,monospace;margin:11px 0 0;flex:1}
+        .s{color:#d97757;font:600 12px/1.3 ui-monospace,monospace;margin:0}
+        .o{color:#d97757;font:600 11px/1.3 ui-monospace,monospace;margin:9px 0 0;letter-spacing:.3px}
+      </style>
+      <div class="c">
+        <p class="t">claude code guides</p>
+        <p class="d">claudecodeguides.com</p>
+        <p class="x">the reference devs reach for when claude code breaks. configs, tools, mcp servers.</p>
+        <p class="s">3,021+ guides &#183; daily</p>
+        <p class="o">open live &#8594;</p>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
