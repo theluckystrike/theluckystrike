@@ -61,16 +61,30 @@
   </tr>
 </table>
 
-<sub>**quant research &amp; tools**</sub>
+<sub>**quant research &amp; markets**</sub>
 <table>
   <tr>
     <td width="33.3%"><a href="https://earlythunder.com"><img src="./assets/sq-earlythunder.svg" alt="early thunder · earlythunder.com — pre-mainstream opportunity intelligence across defi, equities and private markets. 247 opportunities, daily." width="100%" /></a></td>
     <td width="33.3%"><a href="http://deepvalueradar.com"><img src="./assets/sq-deepvalueradar.svg" alt="deepvalue radar · deepvalueradar.com — deep-value equity screener, fair-value models and catalysts cross-validated. 18 picks from a 451 universe." width="100%" /></a></td>
-    <td width="33.3%"><a href="https://ingredientcalculator.com"><img src="./assets/sq-ingredientcalculator.svg" alt="ingredient calculator · ingredientcalculator.com — fast recipe scaler, unit converter, substitutions and macros. free, polished." width="100%" /></a></td>
+    <td width="33.3%"><a href="https://dscrradar.com"><img src="./assets/sq-dscrradar.svg" alt="dscr radar · dscrradar.com — weekly rental-market analysis, ranks us metros by cash-flow strength via the investor yield index. 18 metros ranked weekly." width="100%" /></a></td>
   </tr>
 </table>
 
-<sub>all ten shipped &amp; operated solo by the <a href="https://ml0x.com">ml0x</a> 100x pipeline · each one actively upgraded · click any square to open it live</sub>
+<sub>**free tools &amp; calculators**</sub>
+<table>
+  <tr>
+    <td width="33.3%"><a href="https://ingredientcalculator.com"><img src="./assets/sq-ingredientcalculator.svg" alt="ingredient calculator · ingredientcalculator.com — fast recipe scaler, unit converter, substitutions and macros. free, polished." width="100%" /></a></td>
+    <td width="33.3%"><a href="https://examscorecalc.com"><img src="./assets/sq-examscorecalc.svg" alt="exam score calc · examscorecalc.com — free score calculators for ap, sat 400-1600 and act 1-36. enter raw points, get projections." width="100%" /></a></td>
+    <td width="33.3%"><a href="https://statewage.com"><img src="./assets/sq-statewage.svg" alt="statewage · statewage.com — free paycheck calculator, estimates take-home pay after federal, fica and state taxes across all 50 states." width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td width="33.3%"><a href="https://lakelevelnow.com"><img src="./assets/sq-lakelevelnow.svg" alt="lake level now · lakelevelnow.com — current level, percent full and 30-day trend for lakes nationwide, from usgs and cdec gages. 42 lakes tracked." width="100%" /></a></td>
+    <td width="33.3%"><a href="https://goldgramprice.com"><img src="./assets/sq-goldgramprice.svg" alt="gold gram price · goldgramprice.com — live gold spot price and jewelry melt value by karat purity and weight. free calculator." width="100%" /></a></td>
+    <td width="33.3%"></td>
+  </tr>
+</table>
+
+<sub>fifteen live properties · all shipped &amp; operated solo by the <a href="https://ml0x.com">ml0x</a> 100x pipeline · each one actively upgraded · click any square to open it live</sub>
 
 ---
 
