@@ -284,3 +284,23 @@ cto-turned-solo-dev. 10+ years building software, leading infra, shipping produc
 ---
 
 <p align="center"><sub><code>built solo · shipped tested · <a href="mailto:lipmichal@gmail.com?subject=hello">lipmichal@gmail.com</a></code></sub></p>
+
+---
+
+<!-- 19. PORTFOLIO — FREE CALCULATORS -->
+## Portfolio — free calculators
+
+- [goldgramprice.com](https://goldgramprice.com) — live gold spot price and jewelry melt-value calculator by karat purity and weight.
+- [dscrradar.com](https://dscrradar.com) — weekly US rental-market analysis ranking metros by cash-flow strength via the Investor Yield Index.
+- [statewage.com](https://statewage.com) — free paycheck calculator estimating take-home pay after federal, FICA, and state taxes across all 50 states.
+- [lakelevelnow.com](https://lakelevelnow.com) — current water level, percent full, and 30-day trend for US lakes and reservoirs from USGS and CDEC gages.
+- [noovertimetax.com](https://noovertimetax.com) — no-tax-on-overtime and no-tax-on-tips calculator for the 2025-2028 OBBBA tax window.
+- [taxbreakcalc.com](https://taxbreakcalc.com) — tax-break calculator suite covering overtime, tips, SALT, and Child Tax Credit scenarios.
+- [ukmoneycalc.com](https://ukmoneycalc.com) — UK personal-finance calculator hub, including take-home pay, marginal-rate, and dividend tax calculators.
+- [assetloancalculator.com](https://assetloancalculator.com) — evergreen asset-backed loan and amortization calculator with full payment schedules.
+- [ingredientcalculator.com](https://ingredientcalculator.com) — fast recipe scaler, unit converter, ingredient substitutions, and macros.
+- [deepvalueradar.com](https://deepvalueradar.com) — deep-value equity screener with fair-value models and catalyst tracking.
+- [earlythunder.com](https://earlythunder.com) — pre-mainstream opportunity intelligence across DeFi, equities, and private markets.
+- [examscorecalc.com](https://examscorecalc.com) — free score calculators for AP, SAT (400-1600), and ACT (1-36) exams.
+- [septiccalculator.com](https://septiccalculator.com) — septic system sizing and cost calculator for residential tank and drain-field planning.
+- [ustariffcalc.com](https://ustariffcalc.com) — US import tariff calculator estimating landed cost across HTS codes and trade scenarios.
