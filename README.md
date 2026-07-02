@@ -233,11 +233,13 @@ $ git log --oneline --author=theluckystrike --since="12 months ago" | head
 <!-- 14. LATEST POSTS -->
 ## Latest Posts
 
+<!-- BLOG-POST-LIST:START -->
 - [Building a Custom MCP Server for Claude Code](https://claudecodeguides.com/building-custom-mcp-server-claude-code/) — claudecodeguides.com
 - [Best MCP Servers for Claude Code (2026)](https://claudecodeguides.com/best-mcp-servers-claude-code-2026/) — claudecodeguides.com
 - [Advanced Claude Skills: Tool Use and Function Calling](https://claudecodeguides.com/advanced-claude-skills-with-tool-use-and-function-calling/) — claudecodeguides.com
 - [Building Production AI Agents with Claude (2026)](https://claudecodeguides.com/building-production-ai-agents-with-claude-skills-2026/) — claudecodeguides.com
 - [AI Code Assistant Chrome Extension](https://claudecodeguides.com/ai-code-assistant-chrome-extension/) — claudecodeguides.com
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
