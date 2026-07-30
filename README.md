@@ -298,5 +298,7 @@ cto-turned-solo-dev. 10+ years building software, leading infra, shipping produc
 - [deepvalueradar.com](https://deepvalueradar.com) — deep-value equity screener with fair-value models and catalyst tracking.
 - [earlythunder.com](https://earlythunder.com) — pre-mainstream opportunity intelligence across DeFi, equities, and private markets.
 - [examscorecalc.com](https://examscorecalc.com) — free score calculators for AP, SAT (400-1600), and ACT (1-36) exams.
+- [worthmyclaim.com](https://worthmyclaim.com) — injury settlement estimator applying comparative-negligence rules and damages multipliers.
+- [claudhq.com](https://claudhq.com) — Claude Code tooling notes, error fixes, and context-budget references.
 - [septiccalculator.com](https://septiccalculator.com) — septic system sizing and cost calculator for residential tank and drain-field planning.
 - [ustariffcalc.com](https://ustariffcalc.com) — US import tariff calculator estimating landed cost across HTS codes and trade scenarios.
