@@ -28,12 +28,9 @@
 <!-- 4b. SUPPORT -->
 ## § 00 · support the work
 
-Open source must win. If my contributions helped you, the best thank-you is keeping the work going. Support at **[zovo.one](https://zovo.one)** with a $4.99 subscription and I can devote my time to shipping real fixes, translations, and verified docs across open source.
+<a href="https://zovo.one"><img src="./assets/support-final.svg" alt="support the work — open source must win — $4.99 per month at zovo.one — one subscription funds full-time open-source work: real fixes, translations and verified docs, shipped not promised — if my contributions helped you, the best thank-you is keeping it going" width="100%" /></a>
 
-I run **FORGE**, a fully autonomous open-source contribution pipeline. It finds real issues, verifies every claim against the code, and ships small honest fixes through the GitHub API. Every claim is backed by tool output, never invented.
-
-- Pipeline and methodology: [forge-pipeline](https://github.com/theluckystrike/forge-pipeline)
-- Support open source full time: [zovo.one](https://zovo.one)
+<sub>**keep the work going &#8595;**</sub>  &nbsp; [zovo.one · $4.99/mo](https://zovo.one)
 
 ---
 
