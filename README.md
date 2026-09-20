@@ -227,21 +227,6 @@ $ git log --oneline --author=theluckystrike --since="12 months ago" | head
 
 ---
 
-<!-- 13. GITHUB STATS — NOT collapsed, visible -->
-## GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=theluckystrike&theme=github-dark-blue&hide_border=true&background=0d1117&ring=d97757&fire=d97757&currStreakLabel=d97757&sideNums=f5f1eb&sideLabels=7a6f62&currStreakNum=f5f1eb&dates=5c5349" alt="GitHub streak stats for theluckystrike — current streak, longest streak, and total contributions" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/26a641/theluckystrike" alt="theluckystrike contribution graph" width="100%" />
-</p>
-
-<img src="./assets/activity-summary.svg" alt="contributions in the last year — organizations: @microlinkhq @BeLikeNative @scriptscat and more — contributed to chrome-tips, claude-skills-guide, ai-tools-compared and more" width="100%" />
-
----
-
 <!-- 14. LATEST POSTS -->
 ## Latest Posts
 
@@ -295,8 +280,18 @@ cto-turned-solo-dev. 10+ years building software, leading infra, shipping produc
 
 ---
 
-<!-- 19. PORTFOLIO — FREE CALCULATORS -->
-## Portfolio — free calculators
+<!-- 19. PORTFOLIO -->
+## Portfolio
+
+### Products
+
+- [aiwebsitepipeline.com](http://aiwebsitepipeline.com) — one keyword in, one small static utility site out: 13 layer contracts, 395 machine-evaluable gates, a working CLI and domain engine. $199 one-time.
+- [toolsthatrank.com](https://toolsthatrank.com) — autonomous pipeline that builds data-backed calculators, converters, and live trackers, shipping only once every figure is fetched, recomputed, and re-verified against a primary source.
+- [handsofflinks.com](https://handsofflinks.com) — buy-once link pipeline: builds real assets, publishes them through platform APIs, and reads the link attribute off the served HTML before a row may say LIVE. No outreach email.
+- [seeninaianswers.com](https://seeninaianswers.com) — builds pages that ChatGPT, Claude, Perplexity, and Google AI Overviews cite, with 14 anti-fabrication layers and a 40-second dry test. $299 one-time.
+- [ml0x.com](https://ml0x.com) — wraps Claude Code with a 5-stage pipeline, budget caps that cannot be bypassed, and quality gates that run before output reaches you. Free and open source.
+
+### Free calculators
 
 - [goldgramprice.com](https://goldgramprice.com) — live gold spot price and jewelry melt-value calculator by karat purity and weight.
 - [dscrradar.com](https://dscrradar.com) — weekly US rental-market analysis ranking metros by cash-flow strength via the Investor Yield Index.
