@@ -230,3 +230,4 @@ cto-turned-solo-dev. 10+ years building software, leading infra, shipping produc
 ---
 
 <p align="center"><sub><code>built solo · shipped tested · <a href="mailto:lipmichal@gmail.com?subject=hello">lipmichal@gmail.com</a></code></sub></p>
+<p align="center"><sub>also building <a href="https://tg.zovo.one">tg.zovo.one</a> — free telegram bot guides & tools · <a href="https://tg.zovo.one/guides/telegram-group-member-limit/">telegram group limits</a> · <a href="https://tg.zovo.one/guides/how-to-see-telegram-group-statistics/">group statistics</a> · <a href="https://tg.zovo.one/guides/streak-insurance-habit-tracker/">habit streaks</a></sub></p>
