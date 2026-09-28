@@ -307,4 +307,3 @@ cto-turned-solo-dev. 10+ years building software, leading infra, shipping produc
 - [claudhq.com](https://claudhq.com) — Claude Code tooling notes, error fixes, and context-budget references.
 - [septiccalculator.com](https://septiccalculator.com) — septic system sizing and cost calculator for residential tank and drain-field planning.
 - [ustariffcalc.com](https://ustariffcalc.com) — US import tariff calculator estimating landed cost across HTS codes and trade scenarios.
->>>>>>> origin/main
