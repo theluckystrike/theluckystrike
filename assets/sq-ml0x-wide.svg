@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 130" width="100%" fill="none">
+  <foreignObject x="0" y="0" width="840" height="130">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="width:840px;height:130px;box-sizing:border-box">
+      <style>
+        .c{width:100%;height:100%;background:#13100c;border:1px solid #d97757;border-radius:8px;padding:18px 22px;box-sizing:border-box;display:flex;flex-direction:column;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+        .h{display:flex;align-items:baseline;gap:10px}
+        .t{color:#d97757;font:700 19px/1.2 ui-monospace,monospace;margin:0}
+        .d{color:#7a6f62;font:400 12px/1.2 ui-monospace,monospace;margin:0}
+        .x{color:#a89b8a;font:400 13px/1.5 ui-monospace,monospace;margin:8px 0 0}
+        .s{color:#e6edf3;font:600 12px/1.3 ui-monospace,monospace;margin:8px 0 0}
+        .o{color:#d97757;font:700 12px/1.3 ui-monospace,monospace;margin:6px 0 0}
+      </style>
+      <div class="c">
+        <div class="h"><p class="t">ml0x</p><p class="d">ml0x.com &#183; the engine behind every square below</p></div>
+        <p class="x">my open-source agentic engineering pipeline. one developer, the output of a 100-person team &#183; analyze &#8594; implement &#8594; test &#8594; review &#8594; ship.</p>
+        <p class="s">85% cheaper model routing &#183; 90% cache savings &#183; production-grade quality gates &#183; full pipeline shared with zovo lifetime members</p>
+        <p class="o">open ml0x.com &#8594;</p>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

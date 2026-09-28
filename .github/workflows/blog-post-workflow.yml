@@ -13,8 +13,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      # Pinned to an exact commit SHA (tag 1.9.6) for supply-chain determinism —
+      # a floating @v1 can silently change under us. Bump deliberately.
+      - uses: gautamkrishnar/blog-post-workflow@2786e54a01b71aec80a5118c2bd6b5044e842597 # 1.9.6
         with:
           feed_list: "https://theluckystrike.github.io/claude-skills-guide/feed.xml,https://theluckystrike.github.io/chrome-extension-guide/feed.xml,https://theluckystrike.github.io/privacy-tools-guide/feed.xml,https://theluckystrike.github.io/remote-work-tools/feed.xml,https://theluckystrike.github.io/ai-tools-compared/feed.xml,https://theluckystrike.github.io/chrome-tips/feed.xml"
           max_post_count: 5
           template: "- [$title]($url)"
+          # Bounded retry for transient feed-fetch failures (NASA rule 1.2/1.3:
+          # explicit ceiling + wait, no unbounded hang). Empty feeds are not
+          # errors — they simply contribute no posts.
+          retry_count: 3
+          retry_wait_time: 2
