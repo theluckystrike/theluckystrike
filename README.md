@@ -30,7 +30,7 @@
 
 <a href="https://zovo.one"><img src="./assets/support-final.svg" alt="support the work — open source must win — $4.99 per month at zovo.one — one subscription funds full-time open-source work: real fixes, translations and verified docs, shipped not promised — if my contributions helped you, the best thank-you is keeping it going" width="100%" /></a>
 
-<sub>**keep the work going &#8595;**</sub>  &nbsp; [zovo.one · $4.99/mo](https://zovo.one)
+<sub>**keep the work going &#8595;**</sub>  &nbsp; [zovo.one · $4.99/mo](https://zovo.one) &nbsp;·&nbsp; [GitHub Sponsors](https://github.com/sponsors/theluckystrike)
 
 ---
 
