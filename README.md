@@ -242,6 +242,13 @@ $ git log --oneline --author=theluckystrike --since="12 months ago" | head
 
 ---
 
+<!-- 15b. COMMUNITY -->
+## Community
+
+Questions or ideas about my tools? Talk to me and other users in [Zovo Chat](https://t.me/+k2MM-BIc7SQ5OWM0) on Telegram. I post news and release notes in the channel [t.me/zovoone](https://t.me/zovoone).
+
+---
+
 <!-- 16. APPLY CTA -->
 ## § 10 · apply
 
