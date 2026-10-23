@@ -9,10 +9,10 @@ Maintainers in more than 100 GitHub organizations have reviewed and merged over 
 | Project | Stars | What they merged |
 |---|---|---|
 | [Google Chrome extension samples](https://github.com/GoogleChrome/chrome-extensions-samples/pull/1629) | 17.8k | A new chrome.commands API sample |
-| [Strapi](https://github.com/strapi/strapi/pull/27908) | 73k | A fix for 68 admin strings that lost their ICU arguments |
+| [AgentField](https://github.com/Agent-Field/agentfield/pull/1099) | 2.6k | Writes the execution row so agent status callbacks stop failing |
 | [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm/pull/6644) | 67k | A collector fix for YouTube channel URLs (3 PRs merged) |
 | [Remotion](https://github.com/remotion-dev/remotion/pull/12020) | 66k | A renderer fix for uppercase file extensions |
-| [Medusa](https://github.com/medusajs/medusa/pulls?q=is%3Apr+is%3Amerged+author%3Atheluckystrike) | 37k | 8 merged PRs in the admin dashboard, most of them translation fixes |
+| [Dagu](https://github.com/search?q=repo%3Adagucloud%2Fdagu+author%3Atheluckystrike+is%3Apr+is%3Amerged&type=pullrequests) | 4.4k | Graceful shutdown drain and a shutdown time limit (5 merged PRs) |
 | [Prefect](https://github.com/PrefectHQ/prefect/pull/21916) | 24k | Input validation before a subprocess runs a bundle |
 | [Appium](https://github.com/search?q=org%3Aappium+author%3Atheluckystrike+is%3Apr+is%3Amerged&type=pullrequests) | 22k | 8 merged PRs across 8 Appium repos |
 | [Scalar](https://github.com/scalar/scalar/pull/10492) | 16k | Correct escaping in generated R API examples |
@@ -39,7 +39,7 @@ I use AI coding tools only where a client approves them, and I review and test e
 - You send a written brief. I reply with a written plan and acceptance criteria.
 - I deliver a PR or a branch with tests.
 - You get a written report at the end of each sprint.
-- Sprint 1 is free for qualified teams. One free sprint per company.
+- The first week (40 hours) is free once both sides sign. Details at [axdale.com/start](https://www.axdale.com/start/).
 
 
 
