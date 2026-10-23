@@ -4,7 +4,7 @@
 -->
 
 <!-- 1. HERO BANNER -->
-<a href="mailto:lipmichal@gmail.com?subject=retainer%20inquiry"><img src="./assets/hero-final.svg" alt="michael lip — fractional ai engineer · 9,000+ users in production · Chrome ext portfolio · 70+ prs merged upstream · 55+ vuln reports · 4.6/5 avg rating · ships in 14-day cycles · taking on clients q3 · lipmichal@gmail.com" width="100%" /></a>
+<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=hero"><img src="./assets/hero-final.svg" alt="michael lip, agent + llm engineer for agents in production. 9,000+ users in production, 308 PRs merged in 102 orgs, #1 obsidian plugin author, weekly written reports, taking new briefs at axdale.com" width="100%" /></a>
 
 <!-- 2. VIEW COUNTER -->
 <p align="center">
@@ -26,8 +26,8 @@
 
 <!-- 4. PITCH BLOCKQUOTE -->
 > **the pitch in one line.**
-> i embed with seed/series-a saas teams as their first ai engineer.
-> ship agents, mcp servers, eval pipelines in 14-day cycles,
+> i fix ai agents that work in the demo and fail in production.
+> agents, mcp servers, eval pipelines, in weekly sprints with one full written report,
 > then hand off a repo your team can actually maintain.
 > typed everywhere. tested everywhere.
 > claude code drives the keyboard. i drive claude.
@@ -51,9 +51,9 @@
 
 <sub>**open the work &#8595;**</sub>  &nbsp; [tab-suspender source](https://github.com/theluckystrike/zovo-tab-suspender-public) · [belikenative action](https://github.com/theluckystrike/belikenative-grammar-check) · [extension-toolkit](https://github.com/theluckystrike/chrome-extension-toolkit) · [claudecodeguides.com](https://claudecodeguides.com)
 
-> **like what you see? this is exactly what i ship for clients — same stack, same 14-day cycle, same maintainable handoff.**
+> **like what you see? this is exactly what i ship for clients — same stack, same weekly sprint, same maintainable handoff.**
 >
-> **[-&gt; reach out · lipmichal@gmail.com](mailto:lipmichal@gmail.com?subject=saw%20your%20proof%20of%20work&body=company%3A%0Astage%3A%20seed%20%2F%20series%20a%20%2F%20series%20b%0Awhat%20you%20need%20built%3A%0Atimeline%3A%0A)** &nbsp;·&nbsp; reply within 1 business day · gmt+7 · async-first
+> **[-&gt; send a written brief · axdale.com](https://www.axdale.com/start/?utm_source=github&utm_medium=profile&utm_campaign=proof)** &nbsp;·&nbsp; reply in 2 to 3 business days · warsaw, cet · async-first
 
 ---
 
@@ -114,29 +114,23 @@
 
 ---
 
-<!-- 6. THE RETAINER -->
-## § 02 · the retainer — what most clients want
+<!-- 6. WORK WITH ME -->
+## § 02 · work with me
 
-<a href="mailto:lipmichal@gmail.com?subject=retainer%20slot"><img src="./assets/offer-mvp-final.svg" alt="fractional ai lead embedded retainer · $10-12k/mo · 6-month minimum · 30-day pilot with full refund · 1 slot open Q3 2026" width="100%" /></a>
-
-<img src="./assets/retainer-details.svg" alt="why a retainer beats a project for ai work — ai roadmaps shift weekly, evals and prompts need maintenance, your team learns by pairing, renewing is cheaper than re-hiring — the deal: $10-12k/mo 6-month min 30-day refund, capacity 3 retainer clients max, taking on new clients Q3 2026, you own the repo the evals the runbooks" width="100%" />
-
----
-
-<!-- 7. ONE-SHOT OFFERS -->
-## § 03 · also available · one-shot
-
-<table>
-  <tr>
-    <td width="33%"><a href="mailto:lipmichal@gmail.com?subject=agentic%20mvp"><img src="./assets/offer-ext-final.svg" alt="agentic mvp one-shot — 21-28 days — from $12k — 28-day refund" width="100%" /></a></td>
-    <td width="33%"><a href="mailto:lipmichal@gmail.com?subject=chrome%20extension"><img src="./assets/offer-mv3-final.svg" alt="chrome extension build — 14-21 days — from $8k — store-approval guarantee" width="100%" /></a></td>
-    <td width="33%"><a href="mailto:lipmichal@gmail.com?subject=architecture%20review"><img src="./assets/offer-agent-final.svg" alt="ai architecture review — 1 week — $6k flat — credits toward retainer" width="100%" /></a></td>
-  </tr>
-</table>
+<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=offer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/axdale-cta-dark.svg">
+    <img src="./assets/axdale-cta-light.svg" alt="Axdale. Your agent works in the demo and fails in production. I fix that. Describe the failure at axdale.com." width="100%">
+  </picture>
+</a>
 
 ```
-the architecture review is the cheapest way to test fit.
-$6k. one week. written report + diagram. credits to retainer if you sign.
+offer        week 1 free. 40 hours on your code, once both sides sign.
+then         usd 175 to 275 per hour, set by scope, agreed in writing.
+rhythm       one full written report at the end of each week.
+replies      in writing, within 2 to 3 business days. full answers.
+production   nothing ships without your written approval.
+start        axdale.com/start · a written brief, no calls.
 ```
 
 ---
@@ -166,7 +160,7 @@ $6k. one week. written report + diagram. credits to retainer if you sign.
   step 03   typed.code        -> ts everywhere. zod at every boundary. no any, no maybe.
   step 04   ci.green          -> no merge, no ship, no exception.
   step 05   deploy.sh         -> cloudflare. <60s rollback path. you have the keys.
-  step 06   pair.day          -> weekly. one of your engineers pairs with me on review.
+  step 06   report.md         -> weekly. one full written report. no meetings.
   step 07   handoff.md        -> runbooks. ADRs. eval failure playbooks. you maintain.
 ```
 
@@ -183,16 +177,16 @@ communication:
   -> written-first. always. no exceptions.
   -> comprehensive reports after every sprint — you'll see exactly
      what was built, why, what changed, and what's next.
-  -> async by default. i'm gmt+7, you're probably not.
-  -> strongly prefer long-form written briefs over calls.
-     if a call is needed, i'll ask — but it rarely is.
+  -> async by default. i'm in warsaw, cet. your team reads my report at its own time.
+  -> long-form written briefs. no calls, no meetings, no video.
   -> every decision documented. every trade-off surfaced in writing.
 
 commitment:
   -> this is not a side hustle. zero other clients beyond capacity.
   -> your project gets deep focus, not scattered attention.
-  -> i ship daily. you see progress daily.
-  -> if something is blocked, you know within hours — not days.
+  -> pull requests land as items finish, with tests.
+  -> every question comes in writing, with a default answer.
+  -> i reply within 2 to 3 business days, with a full answer.
 
 what you get that's different:
   -> reports that read like engineering docs, not status updates.
@@ -218,7 +212,7 @@ $ git log --oneline --author=theluckystrike --since="12 months ago" | head
   19b6f72   merge:  scriptscat/scriptcat#214 · cookie-store typings
   c7b1f0d   feat:  mv2->mv3 migration #12 · zero rank loss
   ...
-  total 12mo:  70+ prs merged upstream · 9,000+ users across extensions
+  total:  308 prs merged in 102 orgs · 9,000+ users across extensions
 ```
 
 > **why open-source receipts matter at this stage.** i'm transparent: most of my deployed work is mine — Chrome extensions, 9K+ users, 4.6 avg. i'm building a paid client portfolio now, and the trade is honest: hire me before the testimonial wall fills up, get senior shipping speed at a junior-consultant price. month-1 pilot is refundable for a reason.
@@ -244,11 +238,13 @@ $ git log --oneline --author=theluckystrike --since="12 months ago" | head
 <!-- 15. WHERE TO FIND ME -->
 ## § 09 · where to find me
 
-<img src="./assets/findme-cards.svg" alt="where to find me — lipmichal@gmail.com reply within 1 business day · zovo.one Chrome extensions 9K+ users · belikenative.com grammar tools for devs MIT open source" width="100%" />
-
-<p align="center">
-  <img src="./assets/connect-row.svg" alt="connect — zovo.one · @_alphashark_ on X · Upwork Top Rated Plus · LinkedIn" width="100%" />
-</p>
+| | |
+|---|---|
+| **hire** | [axdale.com](https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=findme), written brief, week 1 free |
+| **email** | [michael@axdale.com](mailto:michael@axdale.com) |
+| **code** | [308 merged pull requests](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Atheluckystrike+-user%3Atheluckystrike&type=pullrequests) in 102 orgs |
+| **products** | [mcp.zovo.one](https://mcp.zovo.one) · [notemods.com](https://notemods.com) · [zovo.one](https://zovo.one) |
+| **x** | [@_alphashark_](https://x.com/_alphashark_) |
 
 ---
 
@@ -259,14 +255,17 @@ Questions or ideas about my tools? Talk to me and other users in [Zovo Chat](htt
 
 ---
 
-<!-- 16. APPLY CTA -->
-## § 10 · apply
+<!-- 16. HIRE CTA -->
+## § 10 · hire me
 
-<a href="mailto:lipmichal@gmail.com?subject=retainer%20application&body=company%3A%0Astage%3A%20seed%20%2F%20series%20a%20%2F%20series%20b%0Ateam.size%3A%0Aai.problem%3A%20%28one%20paragraph%29%0Abudget%3A%20retainer%20%2F%20one-shot%20%2F%20review%0Arepo.access%3A%20yes%20%2F%20no%0A"><img src="./assets/cta-final.svg" alt="apply for a Q3 retainer slot — lipmichal@gmail.com — reply within one business day" width="100%" /></a>
+<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=apply">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/axdale-cta-dark.svg">
+    <img src="./assets/axdale-cta-light.svg" alt="Axdale. Your agent works in the demo and fails in production. I fix that. Describe the failure at axdale.com." width="100%">
+  </picture>
+</a>
 
-<img src="./assets/cta-details.svg" alt="reply within 1 business day — yes, no, or scoped proposal — no discovery call until we both agree it's worth one — if the fit is wrong, i'll refer you to someone better — gmt+7 da nang vn zovo.one @_alphashark_" width="100%" />
-
-**[-> Apply for a Q3 retainer slot via email](mailto:lipmichal@gmail.com?subject=retainer%20application&body=company%3A%0Astage%3A%20seed%20%2F%20series%20a%20%2F%20series%20b%0Ateam.size%3A%0Aai.problem%3A%20%28one%20paragraph%29%0Abudget%3A%20retainer%20%2F%20one-shot%20%2F%20review%0Arepo.access%3A%20yes%20%2F%20no%0A)**
+**[-> Send a written brief at axdale.com](https://www.axdale.com/start/?utm_source=github&utm_medium=profile&utm_campaign=apply)** &nbsp;·&nbsp; I reply in writing within 2 to 3 business days.
 
 ---
 
@@ -276,13 +275,13 @@ Questions or ideas about my tools? Talk to me and other users in [Zovo Chat](htt
 
 <br />
 
-cto-turned-solo-dev. 10+ years building software, leading infra, shipping product. founder of [zovo](https://zovo.one) and [belikenative](https://belikenative.com). three content sites, 4,200+ articles. da nang since 2022.
+cto-turned-solo-dev. 10+ years building software, leading infra, shipping product. founder of [zovo](https://zovo.one) and [belikenative](https://belikenative.com). three content sites, 4,200+ articles. based in warsaw, poland.
 
 ```
   users.production          9,000+
-  prs.merged.upstream       70+
+  prs.merged.upstream       308
   current.streak            64 days
-  organizations             trustwrx · belikenative
+  organizations             axdale · zovo · belikenative
 ```
 
 </details>
@@ -290,7 +289,7 @@ cto-turned-solo-dev. 10+ years building software, leading infra, shipping produc
 <!-- 18. FOOTER -->
 ---
 
-<p align="center"><sub><code>built solo · shipped tested · <a href="mailto:lipmichal@gmail.com?subject=hello">lipmichal@gmail.com</a></code></sub></p>
+<p align="center"><sub><code>built solo · shipped tested · <a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=footer">axdale.com</a> · <a href="mailto:michael@axdale.com">michael@axdale.com</a></code></sub></p>
 <p align="center"><sub>also building <a href="https://tg.zovo.one">tg.zovo.one</a> — free telegram bot guides & tools · <a href="https://tg.zovo.one/guides/telegram-group-member-limit/">telegram group limits</a> · <a href="https://tg.zovo.one/guides/how-to-see-telegram-group-statistics/">group statistics</a> · <a href="https://tg.zovo.one/guides/streak-insurance-habit-tracker/">habit streaks</a></sub></p>
 
 ---

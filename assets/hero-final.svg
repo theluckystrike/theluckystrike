@@ -9,22 +9,22 @@
   <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
     <text x="24" y="46" font-size="28" fill="#f5f1eb" letter-spacing="-0.5">michael lip</text>
     <rect class="cursor" x="204" y="26" width="2" height="24" fill="#f5f1eb" rx="1"/>
-    <text x="24" y="78" font-size="14" fill="#d97757">fractional ai engineer</text>
-    <text x="242" y="78" font-size="14" fill="#3d362e">|</text>
-    <text x="258" y="78" font-size="14" fill="#d97757">embedded with seed/series-a saas</text>
+    <text x="24" y="78" font-size="14" fill="#d97757">agent + llm engineer</text>
+    <text x="210" y="78" font-size="14" fill="#3d362e">|</text>
+    <text x="226" y="78" font-size="14" fill="#d97757">for agents in production</text>
     <text x="24" y="114" font-size="11.5" fill="#7a6f62">9,000+ users in production</text>
     <text x="228" y="114" font-size="11.5" fill="#3d362e">/</text>
     <text x="240" y="114" font-size="11.5" fill="#7a6f62">Chrome ext portfolio</text>
     <text x="390" y="114" font-size="11.5" fill="#3d362e">/</text>
-    <text x="402" y="114" font-size="11.5" fill="#7a6f62">70+ PRs merged upstream</text>
-    <text x="570" y="114" font-size="11.5" fill="#3d362e">/</text>
-    <text x="582" y="114" font-size="11.5" fill="#7a6f62">55+ vuln reports</text>
-    <text x="24" y="134" font-size="11.5" fill="#7a6f62">4.6/5 avg rating</text>
+    <text x="402" y="114" font-size="11.5" fill="#7a6f62">308 PRs in 102 orgs</text>
+    <text x="548" y="114" font-size="11.5" fill="#3d362e">/</text>
+    <text x="560" y="114" font-size="11.5" fill="#7a6f62">55+ vuln reports</text>
+    <text x="24" y="134" font-size="11.5" fill="#7a6f62">#1 obsidian author</text>
     <text x="166" y="134" font-size="11.5" fill="#3d362e">/</text>
-    <text x="178" y="134" font-size="11.5" fill="#7a6f62">ships in 14-day cycles</text>
+    <text x="178" y="134" font-size="11.5" fill="#7a6f62">weekly written reports</text>
     <rect x="24" y="152" width="6" height="6" rx="3" fill="#7cb87c"/>
-    <text x="38" y="158" font-size="12" fill="#7cb87c">1 retainer slot open Q3 2026</text>
-    <text x="258" y="158" font-size="12" fill="#3d362e">--</text>
-    <text x="280" y="158" font-size="12" fill="#7cb87c">lipmichal@gmail.com</text>
+    <text x="38" y="158" font-size="12" fill="#7cb87c">taking new briefs</text>
+    <text x="176" y="158" font-size="12" fill="#3d362e">--</text>
+    <text x="198" y="158" font-size="12" fill="#7cb87c">axdale.com</text>
   </g>
 </svg>
