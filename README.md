@@ -11,6 +11,16 @@
   <img src="https://komarev.com/ghpvc/?username=theluckystrike&color=d97757&style=flat-square&label=profile+views" alt="profile view counter" />
 </p>
 
+<!-- 2b. HIRE ME, axdale.com -->
+<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=readme_cta">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/axdale-cta-dark.svg">
+    <img src="./assets/axdale-cta-light.svg" alt="Axdale. Your agent works in the demo and fails in production. I fix that. Describe the failure at axdale.com. Week 1 is 40 hours on your code, free once both sides sign." width="100%">
+  </picture>
+</a>
+
+<p align="center"><b>Hire me &rarr; <a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=readme_link">axdale.com</a></b> &nbsp;&middot;&nbsp; written brief, first week free, async from Warsaw</p>
+
 <!-- 3. CODE TYPEWRITER — the pitch as TypeScript -->
 <img src="./assets/code-typewriter.svg" alt="ship.ts — const cycle = await pipeline({ spec: writeSpec(client.brief), tests: generateEvals(spec, { framework: 'vitest' }), agent: deployAgent(spec, { model: 'claude', mcp: true }), review: pairSession(client.engineer), ship: deploy({ target: 'cloudflare', rollback: '<60s' }) }); assert(cycle.evals.pass); assert(cycle.uptime >= 0.999); // handoff.md written. your team maintains." width="100%" />
 

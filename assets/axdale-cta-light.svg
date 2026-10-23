@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+<title id="t">Axdale. Your agent works in the demo and fails in production. I fix that.</title>
+<desc id="d">Hire Michael Lip at axdale.com. Send a written brief. Week 1 is 40 hours on your code, free once both sides sign.</desc>
+<rect x="0.5" y="0.5" width="1199" height="299" rx="14" fill="#ffffff" stroke="#e5e5e5"/>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#666666">
+<circle cx="52" cy="50" r="5" fill="#ea580c"/>
+<text x="66" y="55">Taking new briefs  /  For teams with AI agents in production</text>
+<text x="1148" y="55" text-anchor="end" fill="#111111">axdale.com</text>
+</g>
+<line x1="44" y1="78" x2="1156" y2="78" stroke="#e5e5e5"/>
+<g font-family="Newsreader, Georgia, 'Times New Roman', serif" fill="#111111" letter-spacing="-0.6">
+<text x="44" y="136" font-size="44">Your agent works in the demo and fails in production.</text>
+<text x="44" y="188" font-size="44">I fix that.</text>
+</g>
+<rect x="44" y="222" width="270" height="50" rx="25" fill="#111111"/>
+<text x="179" y="253" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#ffffff">Describe the failure &#8599;</text>
+<text x="340" y="244" font-family="Newsreader, Georgia, 'Times New Roman', serif" font-size="19" fill="#666666">Week 1 is 40 hours on your code, free once both sides sign.</text>
+<text x="340" y="268" font-family="Newsreader, Georgia, 'Times New Roman', serif" font-size="19" fill="#666666">Written plan within 2 to 3 business days. Async, from Warsaw.</text>
+</svg>
