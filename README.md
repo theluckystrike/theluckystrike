@@ -2,7 +2,7 @@
 
 I build AI agent features and agentic dev workflows for software teams. I work async from Warsaw, Poland (CET). I send written updates and I do not take calls.
 
-Maintainers in 101 GitHub organizations merged 300 of my pull requests. 236 of them merged in the last 90 days.
+Maintainers in more than 100 GitHub organizations have reviewed and merged over 300 of my pull requests.
 
 ## Merged by teams you know
 
@@ -32,7 +32,7 @@ Maintainers in 101 GitHub organizations merged 300 of my pull requests. 236 of t
 - [tab-suspender-chrome-extension](https://github.com/theluckystrike/tab-suspender-chrome-extension). An open-source MV3 Chrome extension.
 - [chrome-extension-toolkit](https://github.com/theluckystrike/chrome-extension-toolkit). A TypeScript toolkit for MV3 extensions on npm.
 
-I run my own fleet of coding agents (Claude Code, Codex, OpenCode, DeepSeek).
+I use AI coding tools only where a client approves them, and I review and test every change before it reaches a pull request.
 
 ## How I work
 
@@ -42,14 +42,8 @@ I run my own fleet of coding agents (Claude Code, Codex, OpenCode, DeepSeek).
 - Sprint 1 is free for qualified teams. One free sprint per company.
 
 
-## Writing
 
-<!-- BLOG-POST-LIST:START -->- [Telegram Web in Chrome: Extensions vs. Bots for Reminders, Notes, and Group Chores](https://bestchromeextensions.com/2026/09/04/telegram-web-chrome-extensions-vs-bots-reminders-notes-chores/)- [Why CLAUDE.md Improves Code Quality &lpar;2026&rpar;](https://claudecodeguides.com/why-claudemd-improves-code-quality-2026/)- [Why Claude Code Keeps Crashing: 10 Root Causes &lpar;2026&rpar;](https://claudecodeguides.com/why-claude-code-keeps-crashing-root-causes/)- [Why Claude Code Keeps Crashing &lpar;2026&rpar;](https://claudecodeguides.com/why-claude-code-keeps-crashing-2026/)- [Which Claude Model Should I Use? &lpar;2026&rpar;](https://claudecodeguides.com/which-claude-model-should-i-use-2026/)<!-- BLOG-POST-LIST:END -->
-
-## Community
-
-Questions about my tools? Talk to me and other users in [Zovo Chat](https://t.me/+k2MM-BIc7SQ5OWM0) on Telegram. News and release notes go to [t.me/zovoone](https://t.me/zovoone).
 
 ## Contact
 
-Email [lipmichal@gmail.com](mailto:lipmichal@gmail.com) with a short written brief. I reply in writing within one working day.
+See how I work and send a written brief at [axdale.com](https://www.axdale.com). Email [lipmichal@gmail.com](mailto:lipmichal@gmail.com). I reply in writing within one working day.
