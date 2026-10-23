@@ -1,48 +1,316 @@
-# Michael Lip
+<!--
+  theluckystrike/README.md  v9
+  paste into:  github.com/theluckystrike/theluckystrike
+-->
 
-I build AI agent features and agentic dev workflows for software teams. I work async from Warsaw, Poland (CET). I send written updates and I do not take calls.
+<!-- 1. HERO BANNER -->
+<a href="mailto:lipmichal@gmail.com?subject=retainer%20inquiry"><img src="./assets/hero-final.svg" alt="michael lip — fractional ai engineer · 9,000+ users in production · Chrome ext portfolio · 70+ prs merged upstream · 55+ vuln reports · 4.6/5 avg rating · ships in 14-day cycles · taking on clients q3 · lipmichal@gmail.com" width="100%" /></a>
 
-Maintainers in more than 100 GitHub organizations have reviewed and merged over 300 of my pull requests.
+<!-- 2. VIEW COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=theluckystrike&color=d97757&style=flat-square&label=profile+views" alt="profile view counter" />
+</p>
 
-## Merged by teams you know
+<!-- 3. CODE TYPEWRITER — the pitch as TypeScript -->
+<img src="./assets/code-typewriter.svg" alt="ship.ts — const cycle = await pipeline({ spec: writeSpec(client.brief), tests: generateEvals(spec, { framework: 'vitest' }), agent: deployAgent(spec, { model: 'claude', mcp: true }), review: pairSession(client.engineer), ship: deploy({ target: 'cloudflare', rollback: '<60s' }) }); assert(cycle.evals.pass); assert(cycle.uptime >= 0.999); // handoff.md written. your team maintains." width="100%" />
 
-| Project | Stars | What they merged |
-|---|---|---|
-| [Google Chrome extension samples](https://github.com/GoogleChrome/chrome-extensions-samples/pull/1629) | 17.8k | A new chrome.commands API sample |
-| [AgentField](https://github.com/Agent-Field/agentfield/pull/1099) | 2.6k | Writes the execution row so agent status callbacks stop failing |
-| [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm/pull/6644) | 67k | A collector fix for YouTube channel URLs (3 PRs merged) |
-| [Remotion](https://github.com/remotion-dev/remotion/pull/12020) | 66k | A renderer fix for uppercase file extensions |
-| [Dagu](https://github.com/search?q=repo%3Adagucloud%2Fdagu+author%3Atheluckystrike+is%3Apr+is%3Amerged&type=pullrequests) | 4.4k | Graceful shutdown drain and a shutdown time limit (5 merged PRs) |
-| [Prefect](https://github.com/PrefectHQ/prefect/pull/21916) | 24k | Input validation before a subprocess runs a bundle |
-| [Appium](https://github.com/search?q=org%3Aappium+author%3Atheluckystrike+is%3Apr+is%3Amerged&type=pullrequests) | 22k | 8 merged PRs across 8 Appium repos |
-| [Scalar](https://github.com/scalar/scalar/pull/10492) | 16k | Correct escaping in generated R API examples |
-| [Omi](https://github.com/BasedHardware/omi/pull/20769) | 14k | A UTC fix in the backend telemetry |
-| [urllib3](https://github.com/urllib3/urllib3/pull/5330) | 4k | Redirects that honor Retry-After |
-| [Cloud Posse Atmos](https://github.com/cloudposse/atmos/pull/3289) | 1.4k | An 867-line fix to stack configuration |
-| [Hookdeck Outpost](https://github.com/hookdeck/outpost/pull/1134) | 1.1k | A queue fix so no delivery event is lost |
+<!-- 4. PITCH BLOCKQUOTE -->
+> **the pitch in one line.**
+> i embed with seed/series-a saas teams as their first ai engineer.
+> ship agents, mcp servers, eval pipelines in 14-day cycles,
+> then hand off a repo your team can actually maintain.
+> typed everywhere. tested everywhere.
+> claude code drives the keyboard. i drive claude.
+> security researcher. 55+ vulnerability reports filed across ai/ml infrastructure (mlflow, keras, sglang, feast).
 
-[See all my merged PRs in other repos](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Atheluckystrike+-user%3Atheluckystrike&type=pullrequests)
+---
 
-## What I build
+<!-- 4b. SUPPORT -->
+## § 00 · support the work
 
-- [mcp-servers](https://github.com/theluckystrike/mcp-servers). 50+ local-first MCP servers for invoices, VAT, PDFs and time tracking.
-- [headroom](https://github.com/theluckystrike/headroom). A macOS meter that shows how many more AI coding agents fit before the Mac swaps.
-- [hermes-flash-kit](https://github.com/theluckystrike/hermes-flash-kit). A test and cost kit for agents on low-cost models, with a measured before and after.
-- [Agents API benchmark](https://github.com/theluckystrike/agents-api-vs-custom-harness). A preregistered benchmark with CI tests.
-- [tab-suspender-chrome-extension](https://github.com/theluckystrike/tab-suspender-chrome-extension). An open-source MV3 Chrome extension.
+<a href="https://zovo.one"><img src="./assets/support-final.svg" alt="support the work — open source must win — $4.99 per month at zovo.one — one subscription funds full-time open-source work: real fixes, translations and verified docs, shipped not promised — if my contributions helped you, the best thank-you is keeping it going" width="100%" /></a>
 
-I use AI coding tools only where a client approves them, and I review and test every change before it reaches a pull request.
+<sub>**keep the work going &#8595;**</sub>  &nbsp; [zovo.one · $4.99/mo](https://zovo.one) &nbsp;·&nbsp; [GitHub Sponsors](https://github.com/sponsors/theluckystrike)
 
-## How I work
+---
 
-- You send a written brief. I reply with a written plan and acceptance criteria.
-- I deliver a PR or a branch with tests.
-- You get a written report at the end of each sprint.
-- The first week (40 hours) is free once both sides sign. Details at [axdale.com/start](https://www.axdale.com/start/).
+<!-- 5. PROOF OF WORK -->
+## § 01 · proof of work
 
+<a href="https://github.com/theluckystrike?tab=repositories"><img src="./assets/proof-cards.svg" alt="proof of work — tab-suspender-pro 1,100+ users 4.6 rating BSL-1.1 · belikenative mcp grammar server 70 rules 9,000+ users 4.6 rating MIT · chrome-extension-toolkit typescript-first mv3 scaffolding · content engine articles daily cadence" width="100%" /></a>
 
+<sub>**open the work &#8595;**</sub>  &nbsp; [tab-suspender source](https://github.com/theluckystrike/zovo-tab-suspender-public) · [belikenative action](https://github.com/theluckystrike/belikenative-grammar-check) · [extension-toolkit](https://github.com/theluckystrike/chrome-extension-toolkit) · [claudecodeguides.com](https://claudecodeguides.com)
 
+> **like what you see? this is exactly what i ship for clients — same stack, same 14-day cycle, same maintainable handoff.**
+>
+> **[-&gt; reach out · lipmichal@gmail.com](mailto:lipmichal@gmail.com?subject=saw%20your%20proof%20of%20work&body=company%3A%0Astage%3A%20seed%20%2F%20series%20a%20%2F%20series%20b%0Awhat%20you%20need%20built%3A%0Atimeline%3A%0A)** &nbsp;·&nbsp; reply within 1 business day · gmt+7 · async-first
 
-## Contact
+---
 
-See how I work and send a written brief at [axdale.com](https://www.axdale.com). Email [lipmichal@gmail.com](mailto:lipmichal@gmail.com). I reply in writing within one working day.
+<!-- 5a. LIVE PROPERTIES -->
+## § 01a · live properties · <sub>every square is a live site — click to open</sub>
+
+<a href="https://ml0x.com"><img src="./assets/sq-ml0x-wide.svg" alt="ml0x · ml0x.com — the engine behind every square below. my open-source agentic engineering pipeline: one developer, the output of a 100-person team. analyze, implement, test, review, ship. 85% cheaper model routing, 90% cache savings, production-grade quality gates. full pipeline shared with zovo lifetime members." width="100%" /></a>
+
+<sub>**ai &amp; developer tools**</sub>
+<table>
+  <tr>
+    <td width="33.3%"><a href="https://belikenative.com"><img src="./assets/sq-belikenative.svg" alt="belikenative · belikenative.com — ai writing assistant for non-native speakers, fix rewrite and translate in one shortcut. 26,000+ users, 4.66 stars." width="100%" /></a></td>
+    <td width="33.3%"><a href="https://claudecodeguides.com"><img src="./assets/sq-claudecodeguides.svg" alt="claude code guides · claudecodeguides.com — the reference devs reach for when claude code breaks. configs, tools, mcp servers. 3,021+ guides, daily." width="100%" /></a></td>
+    <td width="33.3%"><a href="http://heytensor.com"><img src="./assets/sq-heytensor.svg" alt="heytensor · heytensor.com — pytorch and tensorflow tensor-shape calculator. chain mode and instant error fixes. 14 layer types, free." width="100%" /></a></td>
+  </tr>
+</table>
+
+<sub>**security research &amp; extensions**</sub>
+<table>
+  <tr>
+    <td width="33.3%"><a href="https://zovo.one"><img src="./assets/sq-zovo.svg" alt="zovo · zovo.one — privacy and security x-ray for the chrome web store. scan and compare any extension. 244,000+ analyzed." width="100%" /></a></td>
+    <td width="33.3%"><a href="http://scanthechain.com"><img src="./assets/sq-scanthechain.svg" alt="scan the chain · scanthechain.com — automated defi smart-contract audits, the honest ledger of white-hat economics. 58 campaigns, $11B TVL." width="100%" /></a></td>
+    <td width="33.3%"><a href="https://bugbountyreality.com"><img src="./assets/sq-bugbountyreality.svg" alt="bug bounty reality · bugbountyreality.com — the security-research ops database nobody else publishes. 2k spent, 0 collected. 600+ vulns, 55 advisories." width="100%" /></a></td>
+  </tr>
+</table>
+
+<sub>**quant research &amp; markets**</sub>
+<table>
+  <tr>
+    <td width="33.3%"><a href="https://earlythunder.com"><img src="./assets/sq-earlythunder.svg" alt="early thunder · earlythunder.com — pre-mainstream opportunity intelligence across defi, equities and private markets. 247 opportunities, daily." width="100%" /></a></td>
+    <td width="33.3%"><a href="http://deepvalueradar.com"><img src="./assets/sq-deepvalueradar.svg" alt="deepvalue radar · deepvalueradar.com — deep-value equity screener, fair-value models and catalysts cross-validated. 18 picks from a 451 universe." width="100%" /></a></td>
+    <td width="33.3%"><a href="https://dscrradar.com"><img src="./assets/sq-dscrradar.svg" alt="dscr radar · dscrradar.com — weekly rental-market analysis, ranks us metros by cash-flow strength via the investor yield index. 18 metros ranked weekly." width="100%" /></a></td>
+  </tr>
+</table>
+
+<sub>**free tools &amp; calculators**</sub>
+<table>
+  <tr>
+    <td width="33.3%"><a href="https://ingredientcalculator.com"><img src="./assets/sq-ingredientcalculator.svg" alt="ingredient calculator · ingredientcalculator.com — fast recipe scaler, unit converter, substitutions and macros. free, polished." width="100%" /></a></td>
+    <td width="33.3%"><a href="https://examscorecalc.com"><img src="./assets/sq-examscorecalc.svg" alt="exam score calc · examscorecalc.com — free score calculators for ap, sat 400-1600 and act 1-36. enter raw points, get projections." width="100%" /></a></td>
+    <td width="33.3%"><a href="https://statewage.com"><img src="./assets/sq-statewage.svg" alt="statewage · statewage.com — free paycheck calculator, estimates take-home pay after federal, fica and state taxes across all 50 states." width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td width="33.3%"><a href="https://lakelevelnow.com"><img src="./assets/sq-lakelevelnow.svg" alt="lake level now · lakelevelnow.com — current level, percent full and 30-day trend for lakes nationwide, from usgs and cdec gages. 42 lakes tracked." width="100%" /></a></td>
+    <td width="33.3%"><a href="https://goldgramprice.com"><img src="./assets/sq-goldgramprice.svg" alt="gold gram price · goldgramprice.com — live gold spot price and jewelry melt value by karat purity and weight. free calculator." width="100%" /></a></td>
+    <td width="33.3%"></td>
+  </tr>
+</table>
+
+<sub>fifteen live properties · all shipped &amp; operated solo by the <a href="https://ml0x.com">ml0x</a> 100x pipeline · each one actively upgraded · click any square to open it live</sub>
+
+---
+
+<!-- 5b. SECURITY RESEARCH -->
+## § 01b · security research
+
+<img src="./assets/security-research.svg" alt="security research — 55+ vulnerability reports filed via github pvr across mlflow keras sglang nltk gradio feast · focus pickle deserialization sql injection model loading · methodology static analysis source code review solidity smart contract auditing defi protocol analysis · platforms github pvr huntr immunefi sherlock cantina" width="100%" />
+
+---
+
+<!-- 6. THE RETAINER -->
+## § 02 · the retainer — what most clients want
+
+<a href="mailto:lipmichal@gmail.com?subject=retainer%20slot"><img src="./assets/offer-mvp-final.svg" alt="fractional ai lead embedded retainer · $10-12k/mo · 6-month minimum · 30-day pilot with full refund · 1 slot open Q3 2026" width="100%" /></a>
+
+<img src="./assets/retainer-details.svg" alt="why a retainer beats a project for ai work — ai roadmaps shift weekly, evals and prompts need maintenance, your team learns by pairing, renewing is cheaper than re-hiring — the deal: $10-12k/mo 6-month min 30-day refund, capacity 3 retainer clients max, taking on new clients Q3 2026, you own the repo the evals the runbooks" width="100%" />
+
+---
+
+<!-- 7. ONE-SHOT OFFERS -->
+## § 03 · also available · one-shot
+
+<table>
+  <tr>
+    <td width="33%"><a href="mailto:lipmichal@gmail.com?subject=agentic%20mvp"><img src="./assets/offer-ext-final.svg" alt="agentic mvp one-shot — 21-28 days — from $12k — 28-day refund" width="100%" /></a></td>
+    <td width="33%"><a href="mailto:lipmichal@gmail.com?subject=chrome%20extension"><img src="./assets/offer-mv3-final.svg" alt="chrome extension build — 14-21 days — from $8k — store-approval guarantee" width="100%" /></a></td>
+    <td width="33%"><a href="mailto:lipmichal@gmail.com?subject=architecture%20review"><img src="./assets/offer-agent-final.svg" alt="ai architecture review — 1 week — $6k flat — credits toward retainer" width="100%" /></a></td>
+  </tr>
+</table>
+
+```
+the architecture review is the cheapest way to test fit.
+$6k. one week. written report + diagram. credits to retainer if you sign.
+```
+
+---
+
+<!-- 8. WHO THIS IS FOR — collapsed -->
+<details>
+<summary>§ 04 · who this is for</summary>
+
+```
+  [ok] seed -> series-b saas. 5-80 engineers. ai is on the roadmap or already shipped-and-stuck.
+  [ok] founders who'd rather rent senior judgment than gamble on a $250k full-time hire.
+  [ok] teams shipping to real users. production-grade evals matter more than demos.
+  [no] pre-product startups looking for a co-founder. i build, i don't bet equity.
+  [no] enterprises needing 6-month procurement cycles. i'm one person, paid in stripe.
+  [no] "build me a chatgpt clone" briefs. i need a real problem.
+```
+
+</details>
+
+<!-- 9. HOW THE WORK RUNS — collapsed -->
+<details>
+<summary>§ 05 · how the work runs · agentic engineering by default</summary>
+
+```
+  step 01   spec.md           -> written. signed. shared repo. success metrics named.
+  step 02   failing.test.ts   -> vitest + playwright + eval harness before code.
+  step 03   typed.code        -> ts everywhere. zod at every boundary. no any, no maybe.
+  step 04   ci.green          -> no merge, no ship, no exception.
+  step 05   deploy.sh         -> cloudflare. <60s rollback path. you have the keys.
+  step 06   pair.day          -> weekly. one of your engineers pairs with me on review.
+  step 07   handoff.md        -> runbooks. ADRs. eval failure playbooks. you maintain.
+```
+
+</details>
+
+<!-- 10. HOW I WORK — collapsed -->
+<details>
+<summary>§ 06 · how i work — communication and commitment</summary>
+
+```
+this is my full-time job. my only income. i treat it accordingly.
+
+communication:
+  -> written-first. always. no exceptions.
+  -> comprehensive reports after every sprint — you'll see exactly
+     what was built, why, what changed, and what's next.
+  -> async by default. i'm gmt+7, you're probably not.
+  -> strongly prefer long-form written briefs over calls.
+     if a call is needed, i'll ask — but it rarely is.
+  -> every decision documented. every trade-off surfaced in writing.
+
+commitment:
+  -> this is not a side hustle. zero other clients beyond capacity.
+  -> your project gets deep focus, not scattered attention.
+  -> i ship daily. you see progress daily.
+  -> if something is blocked, you know within hours — not days.
+
+what you get that's different:
+  -> reports that read like engineering docs, not status updates.
+  -> zero meetings that could have been a message.
+  -> a written paper trail you can search, reference, and hand off.
+```
+
+</details>
+
+<!-- 11. RECEIPTS — collapsed -->
+<details>
+<summary>§ 07 · receipts</summary>
+
+```
+$ git log --oneline --author=theluckystrike --since="12 months ago" | head
+
+  a3f8c12   feat(tab-suspender): mv3 service-worker rewrite · ship v2.1
+  b7e019a   merge:  google-chrome/chrome.dev#142 · ext-page typings
+  4f1c8b3   feat(belikenative): mcp server · 70 rules · 18 l1-aware
+  8dbf17f   feat(zovo-toolkit): wxt + plasmo dual scaffold
+  2a4e9c1   merge:  microlinkhq/preview#56 · cls regression patch
+  efd03b8   chore:  gh-actions · grammar-check · 60->70 rules
+  19b6f72   merge:  scriptscat/scriptcat#214 · cookie-store typings
+  c7b1f0d   feat:  mv2->mv3 migration #12 · zero rank loss
+  ...
+  total 12mo:  70+ prs merged upstream · 9,000+ users across extensions
+```
+
+> **why open-source receipts matter at this stage.** i'm transparent: most of my deployed work is mine — Chrome extensions, 9K+ users, 4.6 avg. i'm building a paid client portfolio now, and the trade is honest: hire me before the testimonial wall fills up, get senior shipping speed at a junior-consultant price. month-1 pilot is refundable for a reason.
+
+</details>
+
+---
+
+<!-- 12. STACK — NOT collapsed, visible -->
+## § 08 · stack
+
+<img src="./assets/stack-display.svg" alt="tech stack — agentic: claude code, mcp, gemini cli, minimax, langgraph, vercel ai sdk — frontend: typescript, react, next, vite, tailwind, shadcn — backend: node, python, django, supabase, postgres, trpc — extensions: mv3, service workers, dnr, wxt, plasmo — infra: cloudflare workers, aws, docker, github actions — testing: vitest, playwright, msw, zod, eval harnesses" width="100%" />
+
+---
+
+<!-- 14. LATEST POSTS -->
+## Latest Posts
+
+<!-- BLOG-POST-LIST:START -->- [Telegram Web in Chrome: Extensions vs. Bots for Reminders, Notes, and Group Chores](https://bestchromeextensions.com/2026/09/04/telegram-web-chrome-extensions-vs-bots-reminders-notes-chores/)- [Why CLAUDE.md Improves Code Quality &lpar;2026&rpar;](https://claudecodeguides.com/why-claudemd-improves-code-quality-2026/)- [Why Claude Code Keeps Crashing: 10 Root Causes &lpar;2026&rpar;](https://claudecodeguides.com/why-claude-code-keeps-crashing-root-causes/)- [Why Claude Code Keeps Crashing &lpar;2026&rpar;](https://claudecodeguides.com/why-claude-code-keeps-crashing-2026/)- [Which Claude Model Should I Use? &lpar;2026&rpar;](https://claudecodeguides.com/which-claude-model-should-i-use-2026/)<!-- BLOG-POST-LIST:END -->
+
+---
+
+<!-- 15. WHERE TO FIND ME -->
+## § 09 · where to find me
+
+<img src="./assets/findme-cards.svg" alt="where to find me — lipmichal@gmail.com reply within 1 business day · zovo.one Chrome extensions 9K+ users · belikenative.com grammar tools for devs MIT open source" width="100%" />
+
+<p align="center">
+  <img src="./assets/connect-row.svg" alt="connect — zovo.one · @_alphashark_ on X · Upwork Top Rated Plus · LinkedIn" width="100%" />
+</p>
+
+---
+
+<!-- 15b. COMMUNITY -->
+## Community
+
+Questions or ideas about my tools? Talk to me and other users in [Zovo Chat](https://t.me/+k2MM-BIc7SQ5OWM0) on Telegram. I post news and release notes in the channel [t.me/zovoone](https://t.me/zovoone).
+
+---
+
+<!-- 16. APPLY CTA -->
+## § 10 · apply
+
+<a href="mailto:lipmichal@gmail.com?subject=retainer%20application&body=company%3A%0Astage%3A%20seed%20%2F%20series%20a%20%2F%20series%20b%0Ateam.size%3A%0Aai.problem%3A%20%28one%20paragraph%29%0Abudget%3A%20retainer%20%2F%20one-shot%20%2F%20review%0Arepo.access%3A%20yes%20%2F%20no%0A"><img src="./assets/cta-final.svg" alt="apply for a Q3 retainer slot — lipmichal@gmail.com — reply within one business day" width="100%" /></a>
+
+<img src="./assets/cta-details.svg" alt="reply within 1 business day — yes, no, or scoped proposal — no discovery call until we both agree it's worth one — if the fit is wrong, i'll refer you to someone better — gmt+7 da nang vn zovo.one @_alphashark_" width="100%" />
+
+**[-> Apply for a Q3 retainer slot via email](mailto:lipmichal@gmail.com?subject=retainer%20application&body=company%3A%0Astage%3A%20seed%20%2F%20series%20a%20%2F%20series%20b%0Ateam.size%3A%0Aai.problem%3A%20%28one%20paragraph%29%0Abudget%3A%20retainer%20%2F%20one-shot%20%2F%20review%0Arepo.access%3A%20yes%20%2F%20no%0A)**
+
+---
+
+<!-- 17. BACKGROUND — collapsed -->
+<details>
+<summary><sub><code>$ ls ./background/</code></sub></summary>
+
+<br />
+
+cto-turned-solo-dev. 10+ years building software, leading infra, shipping product. founder of [zovo](https://zovo.one) and [belikenative](https://belikenative.com). three content sites, 4,200+ articles. da nang since 2022.
+
+```
+  users.production          9,000+
+  prs.merged.upstream       70+
+  current.streak            64 days
+  organizations             trustwrx · belikenative
+```
+
+</details>
+
+<!-- 18. FOOTER -->
+---
+
+<p align="center"><sub><code>built solo · shipped tested · <a href="mailto:lipmichal@gmail.com?subject=hello">lipmichal@gmail.com</a></code></sub></p>
+<p align="center"><sub>also building <a href="https://tg.zovo.one">tg.zovo.one</a> — free telegram bot guides & tools · <a href="https://tg.zovo.one/guides/telegram-group-member-limit/">telegram group limits</a> · <a href="https://tg.zovo.one/guides/how-to-see-telegram-group-statistics/">group statistics</a> · <a href="https://tg.zovo.one/guides/streak-insurance-habit-tracker/">habit streaks</a></sub></p>
+
+---
+
+<!-- 19. PORTFOLIO -->
+## Portfolio
+
+### Products
+
+- [aiwebsitepipeline.com](http://aiwebsitepipeline.com) — one keyword in, one small static utility site out: 13 layer contracts, 395 machine-evaluable gates, a working CLI and domain engine. $199 one-time.
+- [toolsthatrank.com](https://toolsthatrank.com) — autonomous pipeline that builds data-backed calculators, converters, and live trackers, shipping only once every figure is fetched, recomputed, and re-verified against a primary source.
+- [handsofflinks.com](https://handsofflinks.com) — buy-once link pipeline: builds real assets, publishes them through platform APIs, and reads the link attribute off the served HTML before a row may say LIVE. No outreach email.
+- [seeninaianswers.com](https://seeninaianswers.com) — builds pages that ChatGPT, Claude, Perplexity, and Google AI Overviews cite, with 14 anti-fabrication layers and a 40-second dry test. $299 one-time.
+- [ml0x.com](https://ml0x.com) — wraps Claude Code with a 5-stage pipeline, budget caps that cannot be bypassed, and quality gates that run before output reaches you. Free and open source.
+
+### Free calculators
+
+- [goldgramprice.com](https://goldgramprice.com) — live gold spot price and jewelry melt-value calculator by karat purity and weight.
+- [dscrradar.com](https://dscrradar.com) — weekly US rental-market analysis ranking metros by cash-flow strength via the Investor Yield Index.
+- [statewage.com](https://statewage.com) — free paycheck calculator estimating take-home pay after federal, FICA, and state taxes across all 50 states.
+- [lakelevelnow.com](https://lakelevelnow.com) — current water level, percent full, and 30-day trend for US lakes and reservoirs from USGS and CDEC gages.
+- [noovertimetax.com](https://noovertimetax.com) — no-tax-on-overtime and no-tax-on-tips calculator for the 2025-2028 OBBBA tax window.
+- [taxbreakcalc.com](https://taxbreakcalc.com) — tax-break calculator suite covering overtime, tips, SALT, and Child Tax Credit scenarios.
+- [ukmoneycalc.com](https://ukmoneycalc.com) — UK personal-finance calculator hub, including take-home pay, marginal-rate, and dividend tax calculators.
+- [assetloancalculator.com](https://assetloancalculator.com) — evergreen asset-backed loan and amortization calculator with full payment schedules.
+- [ingredientcalculator.com](https://ingredientcalculator.com) — fast recipe scaler, unit converter, ingredient substitutions, and macros.
+- [deepvalueradar.com](https://deepvalueradar.com) — deep-value equity screener with fair-value models and catalyst tracking.
+- [earlythunder.com](https://earlythunder.com) — pre-mainstream opportunity intelligence across DeFi, equities, and private markets.
+- [examscorecalc.com](https://examscorecalc.com) — free score calculators for AP, SAT (400-1600), and ACT (1-36) exams.
+- [worthmyclaim.com](https://worthmyclaim.com) — injury settlement estimator applying comparative-negligence rules and damages multipliers.
+- [claudhq.com](https://claudhq.com) — Claude Code tooling notes, error fixes, and context-budget references.
+- [septiccalculator.com](https://septiccalculator.com) — septic system sizing and cost calculator for residential tank and drain-field planning.
+- [ustariffcalc.com](https://ustariffcalc.com) — US import tariff calculator estimating landed cost across HTS codes and trade scenarios.

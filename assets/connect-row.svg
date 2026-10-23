@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 50" width="100%">
+  <foreignObject x="0" y="0" width="840" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .connect-row {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          gap: 8px;
+          height: 50px;
+          box-sizing: border-box;
+        }
+        .badge {
+          background: #0d1117;
+          border: 1px solid #2a241d;
+          border-radius: 6px;
+          padding: 6px 14px;
+          font: 500 13px monospace;
+          white-space: nowrap;
+          display: inline-flex;
+          align-items: center;
+          gap: 5px;
+        }
+        .green { color: #7cb87c; }
+        .blue-tw { color: #1da1f2; }
+        .green-up { color: #14a800; }
+        .blue-li { color: #0a66c2; }
+        .sym { font-size: 11px; }
+      </style>
+      <div class="connect-row">
+        <span class="badge green"><span class="sym">&#9654;</span> zovo.one</span>
+        <span class="badge blue-tw">@_alphashark_</span>
+        <span class="badge green-up"><span class="sym">&#10003;</span> Upwork Top Rated Plus</span>
+        <span class="badge blue-li">in LinkedIn</span>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
