@@ -25,12 +25,11 @@ Maintainers in more than 100 GitHub organizations have reviewed and merged over 
 
 ## What I build
 
-- [mcp-servers](https://github.com/theluckystrike/mcp-servers). 42 local-first MCP servers for invoices, VAT, PDFs and time tracking.
+- [mcp-servers](https://github.com/theluckystrike/mcp-servers). 50+ local-first MCP servers for invoices, VAT, PDFs and time tracking.
 - [headroom](https://github.com/theluckystrike/headroom). A macOS meter that shows how many more AI coding agents fit before the Mac swaps.
-- [hermes-flash-kit](https://github.com/theluckystrike/hermes-flash-kit). A harness and cost kit for an agent on cheap models, with a measured before and after.
-- [agents-api-vs-custom-harness](https://github.com/theluckystrike/agents-api-vs-custom-harness). A preregistered benchmark with CI tests.
+- [hermes-flash-kit](https://github.com/theluckystrike/hermes-flash-kit). A test and cost kit for agents on low-cost models, with a measured before and after.
+- [Agents API benchmark](https://github.com/theluckystrike/agents-api-vs-custom-harness). A preregistered benchmark with CI tests.
 - [tab-suspender-chrome-extension](https://github.com/theluckystrike/tab-suspender-chrome-extension). An open-source MV3 Chrome extension.
-- [chrome-extension-toolkit](https://github.com/theluckystrike/chrome-extension-toolkit). A TypeScript toolkit for MV3 extensions on npm.
 
 I use AI coding tools only where a client approves them, and I review and test every change before it reaches a pull request.
 
