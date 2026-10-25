@@ -11,6 +11,7 @@ jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       # Pinned to an exact commit SHA (tag 1.9.6) for supply-chain determinism —
