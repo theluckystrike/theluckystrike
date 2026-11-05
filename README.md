@@ -146,7 +146,7 @@ start        axdale.com/start · a written brief, no calls.
   [ok] founders who'd rather rent senior judgment than gamble on a $250k full-time hire.
   [ok] teams shipping to real users. production-grade evals matter more than demos.
   [no] pre-product startups looking for a co-founder. i build, i don't bet equity.
-  [no] enterprises needing 6-month procurement cycles. i'm one person, paid in stripe.
+  [no] enterprises needing 6-month procurement cycles. i'm one person, paid by wire, paypal, github sponsors, crypto or escrow.
   [no] "build me a chatgpt clone" briefs. i need a real problem.
 ```
 
