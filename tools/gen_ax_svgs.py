@@ -346,7 +346,7 @@ def support():
     f.frame()
     P = 32
     f.text(P, 44, "[00]  support the work", "M", 14, "muted")
-    f.text(W - P - 14, 44, "axdale.com", "M", 14, "ink", "end")
+    f.text(W - P - 14, 44, "zovo.one", "M", 14, "ink", "end")
     f.arrow(W - P - 10, 44, 14, "ne", "ink", 1.2)
     f.line(P, 64, W - P, 64, "rules")
     f.text(P - 2, 132, "Open source must win.", "D", 50, "ink")
@@ -476,8 +476,8 @@ def ml0x():
     f.frame()
     P = 32
     f.text(P, 44, "ml0x.com  ·  the engine behind every square below", "M", 14, "muted")
-    f.text(W - P - 14, 44, "axdale.com", "M", 14, "acct", "end")
-    f.arrow(W - P - 10, 44, 14, "ne", "acct", 1.2)
+    f.text(W - P - 16, 44, "open ml0x.com", "M", 14, "acct", "end")
+    f.arrow(W - P - 12, 44, 14, "right", "acct", 1.2)
     f.line(P, 64, W - P, 64, "rules")
     f.text(P - 3, 128, "ml0x", "D", 64, "ink")
     tx = 210
@@ -567,8 +567,8 @@ def squares():
         sw = f.text(P, 224, stat, "S", ss, "ink")
         if star:
             f.star(P + sw + 9, 217.5, 6.5, "ink")
-        f.text(P, 251, "axdale.com", "M", 12.5, "acct")
-        f.arrow(P + width("axdale.com", "M", 12.5) + 4, 251, 12.5, "ne", "acct", 1.2)
+        f.text(P, 251, "open live", "M", 12.5, "acct")
+        f.arrow(P + width("open live", "M", 12.5) + 4, 251, 12.5, "ne", "acct", 1.2)
         both(f)
 
 

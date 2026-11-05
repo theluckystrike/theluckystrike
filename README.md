@@ -4,7 +4,7 @@
 -->
 
 <!-- 1. HERO BANNER -->
-<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-hero"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/hero-dark.svg"><img src="./assets/ax/hero-light.svg" alt="michael lip, full-stack engineer, fully agentic, runs whole projects on his own. 9,000+ users in production, 308 PRs merged in 102 orgs, #1 obsidian plugin author, weekly written reports, taking new briefs at axdale.com" width="100%"></picture></a>
+<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-hero" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/hero-dark.svg"><img src="./assets/ax/hero-light.svg" alt="michael lip, full-stack engineer, fully agentic, runs whole projects on his own. 9,000+ users in production, 308 PRs merged in 102 orgs, #1 obsidian plugin author, weekly written reports, taking new briefs at axdale.com" width="100%"></picture></a>
 
 <!-- 2. VIEW COUNTER -->
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 <!-- 2b. HIRE ME, axdale.com -->
-<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-cta">
+<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-cta" target="_blank" rel="noopener">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/ax/cta-dark.svg">
     <img src="./assets/ax/cta-light.svg" alt="Axdale. Send me your project. I take it from brief to shipped. Free written plan within one working day, then USD 65 an hour." width="100%">
@@ -22,10 +22,10 @@
 <p align="center"><b>Hire me &rarr; <a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=readme_link">axdale.com</a></b> &nbsp;&middot;&nbsp; send your project, free written plan in one working day, async from Warsaw</p>
 
 <!-- 2c. HOW A WHOLE PROJECT RUNS -->
-<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-flow"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/flow-dark.svg"><img src="./assets/ax/flow-light.svg" alt="How a whole project runs. Six stages, brief, written plan free in one working day, agent lanes in parallel, one review where every change is reviewed, small pull requests with tests, shipped to main. One written report every week, 18:00 CET." width="100%"></picture></a>
+<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-flow" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/flow-dark.svg"><img src="./assets/ax/flow-light.svg" alt="How a whole project runs. Six stages, brief, written plan free in one working day, agent lanes in parallel, one review where every change is reviewed, small pull requests with tests, shipped to main. One written report every week, 18:00 CET." width="100%"></picture></a>
 
 <!-- 3. CODE TYPEWRITER — the pitch as TypeScript -->
-<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-code"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/code-dark.svg"><img src="./assets/ax/code-light.svg" alt="ship.ts — const cycle = await pipeline({ spec: writeSpec(client.brief), tests: generateEvals(spec, { framework: 'vitest' }), agent: deployAgent(spec, { model: 'claude', mcp: true }), review: writtenReview(client.approval), ship: deploy({ target: 'cloudflare', rollback: '<60s' }) }); assert(cycle.evals.pass); assert(cycle.uptime >= 0.999); // handoff.md written. your team maintains." width="100%"></picture></a>
+<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-code" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/code-dark.svg"><img src="./assets/ax/code-light.svg" alt="ship.ts — const cycle = await pipeline({ spec: writeSpec(client.brief), tests: generateEvals(spec, { framework: 'vitest' }), agent: deployAgent(spec, { model: 'claude', mcp: true }), review: writtenReview(client.approval), ship: deploy({ target: 'cloudflare', rollback: '<60s' }) }); assert(cycle.evals.pass); assert(cycle.uptime >= 0.999); // handoff.md written. your team maintains." width="100%"></picture></a>
 
 <!-- 4. PITCH BLOCKQUOTE -->
 > **the pitch in one line.**
@@ -42,7 +42,7 @@
 <!-- 4b. SUPPORT -->
 ## § 00 · support the work
 
-<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-support"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/support-dark.svg"><img src="./assets/ax/support-light.svg" alt="support the work — open source must win — $4.99 per month at zovo.one — one subscription funds full-time open-source work: real fixes, translations and verified docs, shipped not promised — if my contributions helped you, the best thank-you is keeping it going" width="100%"></picture></a>
+<a href="https://zovo.one/?utm_source=github&utm_medium=profile" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/support-dark.svg"><img src="./assets/ax/support-light.svg" alt="support the work — open source must win — $4.99 per month at zovo.one — one subscription funds full-time open-source work: real fixes, translations and verified docs, shipped not promised — if my contributions helped you, the best thank-you is keeping it going" width="100%"></picture></a>
 
 <sub>**keep the work going &#8595;**</sub>  &nbsp; [zovo.one · $4.99/mo](https://zovo.one) &nbsp;·&nbsp; [GitHub Sponsors](https://github.com/sponsors/theluckystrike)
 
@@ -51,11 +51,11 @@
 <!-- 5. PROOF OF WORK -->
 ## § 01 · proof of work
 
-<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-proof"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/proof-dark.svg"><img src="./assets/ax/proof-light.svg" alt="proof of work — tab-suspender-pro 1,100+ users 4.6 rating BSL-1.1 · belikenative mcp grammar server 70 rules 9,000+ users 4.6 rating MIT · chrome-extension-toolkit typescript-first mv3 scaffolding · content engine articles daily cadence" width="100%"></picture></a>
+<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-proof" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/proof-dark.svg"><img src="./assets/ax/proof-light.svg" alt="proof of work — tab-suspender-pro 1,100+ users 4.6 rating BSL-1.1 · belikenative mcp grammar server 70 rules 9,000+ users 4.6 rating MIT · chrome-extension-toolkit typescript-first mv3 scaffolding · content engine articles daily cadence" width="100%"></picture></a>
 
 <sub>**open the work &#8595;**</sub>  &nbsp; [tab-suspender source](https://github.com/theluckystrike/zovo-tab-suspender-public) · [belikenative action](https://github.com/theluckystrike/belikenative-grammar-check) · [extension-toolkit](https://github.com/theluckystrike/chrome-extension-toolkit) · [claudecodeguides.com](https://claudecodeguides.com)
 
-<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-record"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/record-dark.svg"><img src="./assets/ax/record-light.svg" alt="Merged pull requests in other people's repositories. 308 merged pull requests in 102 orgs, one dot per pull request by week, including Prefect, Remotion, Scalar and Appium." width="100%"></picture></a>
+<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-record" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/record-dark.svg"><img src="./assets/ax/record-light.svg" alt="Merged pull requests in other people's repositories. 308 merged pull requests in 102 orgs, one dot per pull request by week, including Prefect, Remotion, Scalar and Appium." width="100%"></picture></a>
 
 > **like what you see? this is exactly what i ship for clients — same stack, same weekly sprint, same maintainable handoff.**
 >
@@ -66,71 +66,71 @@
 <!-- 5a. LIVE PROPERTIES -->
 ## § 01a · live properties · <sub>every square is a live site — click to open</sub>
 
-<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-ml0x"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/ml0x-dark.svg"><img src="./assets/ax/ml0x-light.svg" alt="ml0x · ml0x.com — the engine behind every square below. my open-source agentic engineering pipeline: one developer, the output of a 100-person team. analyze, implement, test, review, ship. 85% cheaper model routing, 90% cache savings, production-grade quality gates. full pipeline shared with zovo lifetime members." width="100%"></picture></a>
+<a href="https://ml0x.com/?utm_source=github&utm_medium=profile" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/ml0x-dark.svg"><img src="./assets/ax/ml0x-light.svg" alt="ml0x · ml0x.com — the engine behind every square below. my open-source agentic engineering pipeline: one developer, the output of a 100-person team. analyze, implement, test, review, ship. 85% cheaper model routing, 90% cache savings, production-grade quality gates. full pipeline shared with zovo lifetime members." width="100%"></picture></a>
 
 <sub>**ai &amp; developer tools**</sub>
 <table>
   <tr>
-    <td width="33.3%"><a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-sq-belikenative"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-belikenative-dark.svg"><img src="./assets/ax/sq-belikenative-light.svg" alt="belikenative · belikenative.com — ai writing assistant for non-native speakers, fix rewrite and translate in one shortcut. 26,000+ users, 4.66 stars." width="100%"></picture></a></td>
-    <td width="33.3%"><a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-sq-claudecodeguides"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-claudecodeguides-dark.svg"><img src="./assets/ax/sq-claudecodeguides-light.svg" alt="claude code guides · claudecodeguides.com — the reference devs reach for when claude code breaks. configs, tools, mcp servers. 3,021+ guides, daily." width="100%"></picture></a></td>
-    <td width="33.3%"><a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-sq-heytensor"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-heytensor-dark.svg"><img src="./assets/ax/sq-heytensor-light.svg" alt="heytensor · heytensor.com — pytorch and tensorflow tensor-shape calculator. chain mode and instant error fixes. 14 layer types, free." width="100%"></picture></a></td>
+    <td width="33.3%"><a href="https://belikenative.com/?utm_source=github&utm_medium=profile" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-belikenative-dark.svg"><img src="./assets/ax/sq-belikenative-light.svg" alt="belikenative · belikenative.com — ai writing assistant for non-native speakers, fix rewrite and translate in one shortcut. 26,000+ users, 4.66 stars." width="100%"></picture></a></td>
+    <td width="33.3%"><a href="https://claudecodeguides.com/?utm_source=github&utm_medium=profile" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-claudecodeguides-dark.svg"><img src="./assets/ax/sq-claudecodeguides-light.svg" alt="claude code guides · claudecodeguides.com — the reference devs reach for when claude code breaks. configs, tools, mcp servers. 3,021+ guides, daily." width="100%"></picture></a></td>
+    <td width="33.3%"><a href="https://heytensor.com/?utm_source=github&utm_medium=profile" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-heytensor-dark.svg"><img src="./assets/ax/sq-heytensor-light.svg" alt="heytensor · heytensor.com — pytorch and tensorflow tensor-shape calculator. chain mode and instant error fixes. 14 layer types, free." width="100%"></picture></a></td>
   </tr>
 </table>
 
 <sub>**security research &amp; extensions**</sub>
 <table>
   <tr>
-    <td width="33.3%"><a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-sq-zovo"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-zovo-dark.svg"><img src="./assets/ax/sq-zovo-light.svg" alt="zovo · zovo.one — privacy and security x-ray for the chrome web store. scan and compare any extension. 244,000+ analyzed." width="100%"></picture></a></td>
-    <td width="33.3%"><a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-sq-scanthechain"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-scanthechain-dark.svg"><img src="./assets/ax/sq-scanthechain-light.svg" alt="scan the chain · scanthechain.com — automated defi smart-contract audits, the honest ledger of white-hat economics. 58 campaigns, $11B TVL." width="100%"></picture></a></td>
-    <td width="33.3%"><a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-sq-bugbountyreality"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-bugbountyreality-dark.svg"><img src="./assets/ax/sq-bugbountyreality-light.svg" alt="bug bounty reality · bugbountyreality.com — the security-research ops database nobody else publishes. 2k spent, 0 collected. 600+ vulns, 55 advisories." width="100%"></picture></a></td>
+    <td width="33.3%"><a href="https://zovo.one/?utm_source=github&utm_medium=profile" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-zovo-dark.svg"><img src="./assets/ax/sq-zovo-light.svg" alt="zovo · zovo.one — privacy and security x-ray for the chrome web store. scan and compare any extension. 244,000+ analyzed." width="100%"></picture></a></td>
+    <td width="33.3%"><a href="https://scanthechain.com/?utm_source=github&utm_medium=profile" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-scanthechain-dark.svg"><img src="./assets/ax/sq-scanthechain-light.svg" alt="scan the chain · scanthechain.com — automated defi smart-contract audits, the honest ledger of white-hat economics. 58 campaigns, $11B TVL." width="100%"></picture></a></td>
+    <td width="33.3%"><a href="https://bugbountyreality.com/?utm_source=github&utm_medium=profile" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-bugbountyreality-dark.svg"><img src="./assets/ax/sq-bugbountyreality-light.svg" alt="bug bounty reality · bugbountyreality.com — the security-research ops database nobody else publishes. 2k spent, 0 collected. 600+ vulns, 55 advisories." width="100%"></picture></a></td>
   </tr>
 </table>
 
 <sub>**quant research &amp; markets**</sub>
 <table>
   <tr>
-    <td width="33.3%"><a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-sq-earlythunder"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-earlythunder-dark.svg"><img src="./assets/ax/sq-earlythunder-light.svg" alt="early thunder · earlythunder.com — pre-mainstream opportunity intelligence across defi, equities and private markets. 247 opportunities, daily." width="100%"></picture></a></td>
-    <td width="33.3%"><a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-sq-deepvalueradar"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-deepvalueradar-dark.svg"><img src="./assets/ax/sq-deepvalueradar-light.svg" alt="deepvalue radar · deepvalueradar.com — deep-value equity screener, fair-value models and catalysts cross-validated. 18 picks from a 451 universe." width="100%"></picture></a></td>
-    <td width="33.3%"><a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-sq-dscrradar"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-dscrradar-dark.svg"><img src="./assets/ax/sq-dscrradar-light.svg" alt="dscr radar · dscrradar.com — weekly rental-market analysis, ranks us metros by cash-flow strength via the investor yield index. 18 metros ranked weekly." width="100%"></picture></a></td>
+    <td width="33.3%"><a href="https://earlythunder.com/?utm_source=github&utm_medium=profile" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-earlythunder-dark.svg"><img src="./assets/ax/sq-earlythunder-light.svg" alt="early thunder · earlythunder.com — pre-mainstream opportunity intelligence across defi, equities and private markets. 247 opportunities, daily." width="100%"></picture></a></td>
+    <td width="33.3%"><a href="https://deepvalueradar.com/?utm_source=github&utm_medium=profile" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-deepvalueradar-dark.svg"><img src="./assets/ax/sq-deepvalueradar-light.svg" alt="deepvalue radar · deepvalueradar.com — deep-value equity screener, fair-value models and catalysts cross-validated. 18 picks from a 451 universe." width="100%"></picture></a></td>
+    <td width="33.3%"><a href="https://dscrradar.com/?utm_source=github&utm_medium=profile" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-dscrradar-dark.svg"><img src="./assets/ax/sq-dscrradar-light.svg" alt="dscr radar · dscrradar.com — weekly rental-market analysis, ranks us metros by cash-flow strength via the investor yield index. 18 metros ranked weekly." width="100%"></picture></a></td>
   </tr>
 </table>
 
 <sub>**free tools &amp; calculators**</sub>
 <table>
   <tr>
-    <td width="33.3%"><a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-sq-ingredientcalculator"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-ingredientcalculator-dark.svg"><img src="./assets/ax/sq-ingredientcalculator-light.svg" alt="ingredient calculator · ingredientcalculator.com — fast recipe scaler, unit converter, substitutions and macros. free, polished." width="100%"></picture></a></td>
-    <td width="33.3%"><a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-sq-examscorecalc"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-examscorecalc-dark.svg"><img src="./assets/ax/sq-examscorecalc-light.svg" alt="exam score calc · examscorecalc.com — free score calculators for ap, sat 400-1600 and act 1-36. enter raw points, get projections." width="100%"></picture></a></td>
-    <td width="33.3%"><a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-sq-statewage"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-statewage-dark.svg"><img src="./assets/ax/sq-statewage-light.svg" alt="statewage · statewage.com — free paycheck calculator, estimates take-home pay after federal, fica and state taxes across all 50 states." width="100%"></picture></a></td>
+    <td width="33.3%"><a href="https://ingredientcalculator.com/?utm_source=github&utm_medium=profile" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-ingredientcalculator-dark.svg"><img src="./assets/ax/sq-ingredientcalculator-light.svg" alt="ingredient calculator · ingredientcalculator.com — fast recipe scaler, unit converter, substitutions and macros. free, polished." width="100%"></picture></a></td>
+    <td width="33.3%"><a href="https://examscorecalc.com/?utm_source=github&utm_medium=profile" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-examscorecalc-dark.svg"><img src="./assets/ax/sq-examscorecalc-light.svg" alt="exam score calc · examscorecalc.com — free score calculators for ap, sat 400-1600 and act 1-36. enter raw points, get projections." width="100%"></picture></a></td>
+    <td width="33.3%"><a href="https://statewage.com/?utm_source=github&utm_medium=profile" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-statewage-dark.svg"><img src="./assets/ax/sq-statewage-light.svg" alt="statewage · statewage.com — free paycheck calculator, estimates take-home pay after federal, fica and state taxes across all 50 states." width="100%"></picture></a></td>
   </tr>
   <tr>
-    <td width="33.3%"><a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-sq-lakelevelnow"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-lakelevelnow-dark.svg"><img src="./assets/ax/sq-lakelevelnow-light.svg" alt="lake level now · lakelevelnow.com — current level, percent full and 30-day trend for lakes nationwide, from usgs and cdec gages. 42 lakes tracked." width="100%"></picture></a></td>
-    <td width="33.3%"><a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-sq-goldgramprice"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-goldgramprice-dark.svg"><img src="./assets/ax/sq-goldgramprice-light.svg" alt="gold gram price · goldgramprice.com — live gold spot price and jewelry melt value by karat purity and weight. free calculator." width="100%"></picture></a></td>
-    <td width="33.3%"><a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-sq-notemods"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-notemods-dark.svg"><img src="./assets/ax/sq-notemods-light.svg" alt="notemods · notemods.com, open-source obsidian plugins for bases, tables and tasks. free to install, optional pro. 132 plugins, 13,269 downloads." width="100%"></picture></a></td>
+    <td width="33.3%"><a href="https://lakelevelnow.com/?utm_source=github&utm_medium=profile" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-lakelevelnow-dark.svg"><img src="./assets/ax/sq-lakelevelnow-light.svg" alt="lake level now · lakelevelnow.com — current level, percent full and 30-day trend for lakes nationwide, from usgs and cdec gages. 42 lakes tracked." width="100%"></picture></a></td>
+    <td width="33.3%"><a href="https://goldgramprice.com/?utm_source=github&utm_medium=profile" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-goldgramprice-dark.svg"><img src="./assets/ax/sq-goldgramprice-light.svg" alt="gold gram price · goldgramprice.com — live gold spot price and jewelry melt value by karat purity and weight. free calculator." width="100%"></picture></a></td>
+    <td width="33.3%"><a href="https://notemods.com/?utm_source=github&utm_medium=profile" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-notemods-dark.svg"><img src="./assets/ax/sq-notemods-light.svg" alt="notemods · notemods.com, open-source obsidian plugins for bases, tables and tasks. free to install, optional pro. 132 plugins, 13,269 downloads." width="100%"></picture></a></td>
   </tr>
   <tr>
-    <td width="33.3%"><a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-sq-toolroutine"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-toolroutine-dark.svg"><img src="./assets/ax/sq-toolroutine-light.svg" alt="toolroutine · toolroutine.com, plugins for chatgpt and claude, plus custom builds for business. 106 plugins, custom from $5k." width="100%"></picture></a></td>
-    <td width="33.3%"><a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-sq-addthisbot"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-addthisbot-dark.svg"><img src="./assets/ax/sq-addthisbot-light.svg" alt="addthisbot · addthisbot.com, telegram group bots where one admin pays once and every member gets pro. 35 live bots, 18 for groups." width="100%"></picture></a></td>
+    <td width="33.3%"><a href="https://toolroutine.com/?utm_source=github&utm_medium=profile" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-toolroutine-dark.svg"><img src="./assets/ax/sq-toolroutine-light.svg" alt="toolroutine · toolroutine.com, plugins for chatgpt and claude, plus custom builds for business. 106 plugins, custom from $5k." width="100%"></picture></a></td>
+    <td width="33.3%"><a href="https://addthisbot.com/?utm_source=github&utm_medium=profile" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-addthisbot-dark.svg"><img src="./assets/ax/sq-addthisbot-light.svg" alt="addthisbot · addthisbot.com, telegram group bots where one admin pays once and every member gets pro. 35 live bots, 18 for groups." width="100%"></picture></a></td>
     <td width="33.3%"></td>
   </tr>
 </table>
 
-<sub>eighteen live properties · all shipped &amp; operated solo by the <a href="https://ml0x.com">ml0x</a> 100x pipeline · each one actively upgraded · click any square for axdale.com</sub>
+<sub>eighteen live properties · all shipped &amp; operated solo by the <a href="https://ml0x.com">ml0x</a> 100x pipeline · each one actively upgraded · click any square to open it live</sub>
 
 ---
 
 <!-- 5b. SECURITY RESEARCH -->
 ## § 01b · security research
 
-<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-security"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/security-dark.svg"><img src="./assets/ax/security-light.svg" alt="security research — 55+ vulnerability reports filed via github pvr across mlflow keras sglang nltk gradio feast · focus pickle deserialization sql injection model loading · methodology static analysis source code review solidity smart contract auditing defi protocol analysis · platforms github pvr huntr immunefi sherlock cantina" width="100%"></picture></a>
+<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-security" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/security-dark.svg"><img src="./assets/ax/security-light.svg" alt="security research — 55+ vulnerability reports filed via github pvr across mlflow keras sglang nltk gradio feast · focus pickle deserialization sql injection model loading · methodology static analysis source code review solidity smart contract auditing defi protocol analysis · platforms github pvr huntr immunefi sherlock cantina" width="100%"></picture></a>
 
-<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-advisories"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/advisories-dark.svg"><img src="./assets/ax/advisories-light.svg" alt="4 published advisories credit me as reporter. NLTK CVE-2026-62388 high 8.7, NLTK CVE-2026-63311 medium 6.9, NLTK CVE-2026-12259 medium, Gitea CVE-2026-23603 low." width="100%"></picture></a>
+<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-advisories" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/advisories-dark.svg"><img src="./assets/ax/advisories-light.svg" alt="4 published advisories credit me as reporter. NLTK CVE-2026-62388 high 8.7, NLTK CVE-2026-63311 medium 6.9, NLTK CVE-2026-12259 medium, Gitea CVE-2026-23603 low." width="100%"></picture></a>
 
 ---
 
 <!-- 6. WORK WITH ME -->
 ## § 02 · work with me
 
-<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-cta">
+<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-cta" target="_blank" rel="noopener">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/ax/cta-dark.svg">
     <img src="./assets/ax/cta-light.svg" alt="Axdale. Send me your project. I take it from brief to shipped. Free written plan within one working day, then USD 65 an hour." width="100%">
@@ -238,7 +238,7 @@ $ git log --oneline --author=theluckystrike --since="12 months ago" | head
 <!-- 12. STACK — NOT collapsed, visible -->
 ## § 08 · stack
 
-<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-stack"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/stack-dark.svg"><img src="./assets/ax/stack-light.svg" alt="tech stack — agentic: claude code, mcp, gemini cli, minimax, langgraph, vercel ai sdk — frontend: typescript, react, next, vite, tailwind, shadcn — backend: node, python, django, supabase, postgres, trpc — extensions: mv3, service workers, dnr, wxt, plasmo — infra: cloudflare workers, aws, docker, github actions — testing: vitest, playwright, msw, zod, eval harnesses" width="100%"></picture></a>
+<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-stack" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/stack-dark.svg"><img src="./assets/ax/stack-light.svg" alt="tech stack — agentic: claude code, mcp, gemini cli, minimax, langgraph, vercel ai sdk — frontend: typescript, react, next, vite, tailwind, shadcn — backend: node, python, django, supabase, postgres, trpc — extensions: mv3, service workers, dnr, wxt, plasmo — infra: cloudflare workers, aws, docker, github actions — testing: vitest, playwright, msw, zod, eval harnesses" width="100%"></picture></a>
 
 ---
 
@@ -272,7 +272,7 @@ Questions or ideas about my tools? Talk to me and other users in [Zovo Chat](htt
 <!-- 16. HIRE CTA -->
 ## § 10 · hire me
 
-<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-cta">
+<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-cta" target="_blank" rel="noopener">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/ax/cta-dark.svg">
     <img src="./assets/ax/cta-light.svg" alt="Axdale. Send me your project. I take it from brief to shipped. Free written plan within one working day, then USD 65 an hour." width="100%">
