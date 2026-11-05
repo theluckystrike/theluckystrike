@@ -4,7 +4,7 @@
 -->
 
 <!-- 1. HERO BANNER -->
-<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=hero"><img src="./assets/hero-final.svg" alt="michael lip, agent + llm engineer for agents in production. 9,000+ users in production, 308 PRs merged in 102 orgs, #1 obsidian plugin author, weekly written reports, taking new briefs at axdale.com" width="100%" /></a>
+<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=hero"><img src="./assets/hero-final.svg" alt="michael lip, full-stack engineer, fully agentic, runs whole projects on his own. 9,000+ users in production, 308 PRs merged in 102 orgs, #1 obsidian plugin author, weekly written reports, taking new briefs at axdale.com" width="100%" /></a>
 
 <!-- 2. VIEW COUNTER -->
 <p align="center">
@@ -15,19 +15,20 @@
 <a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=readme_cta">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/axdale-cta-dark.svg">
-    <img src="./assets/axdale-cta-light.svg" alt="Axdale. Your agent works in the demo and fails in production. I fix that. Describe the failure at axdale.com. Week 1 is 40 hours on your code, free once both sides sign." width="100%">
+    <img src="./assets/axdale-cta-light.svg" alt="Axdale. Send me your project. I take it from brief to shipped. Free written plan within one working day, then USD 65 an hour." width="100%">
   </picture>
 </a>
 
-<p align="center"><b>Hire me &rarr; <a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=readme_link">axdale.com</a></b> &nbsp;&middot;&nbsp; written brief, first week free, async from Warsaw</p>
+<p align="center"><b>Hire me &rarr; <a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=readme_link">axdale.com</a></b> &nbsp;&middot;&nbsp; send your project, free written plan in one working day, async from Warsaw</p>
 
 <!-- 3. CODE TYPEWRITER — the pitch as TypeScript -->
-<img src="./assets/code-typewriter.svg" alt="ship.ts — const cycle = await pipeline({ spec: writeSpec(client.brief), tests: generateEvals(spec, { framework: 'vitest' }), agent: deployAgent(spec, { model: 'claude', mcp: true }), review: pairSession(client.engineer), ship: deploy({ target: 'cloudflare', rollback: '<60s' }) }); assert(cycle.evals.pass); assert(cycle.uptime >= 0.999); // handoff.md written. your team maintains." width="100%" />
+<img src="./assets/code-typewriter.svg" alt="ship.ts — const cycle = await pipeline({ spec: writeSpec(client.brief), tests: generateEvals(spec, { framework: 'vitest' }), agent: deployAgent(spec, { model: 'claude', mcp: true }), review: writtenReview(client.approval), ship: deploy({ target: 'cloudflare', rollback: '<60s' }) }); assert(cycle.evals.pass); assert(cycle.uptime >= 0.999); // handoff.md written. your team maintains." width="100%" />
 
 <!-- 4. PITCH BLOCKQUOTE -->
 > **the pitch in one line.**
-> i fix ai agents that work in the demo and fail in production.
-> agents, mcp servers, eval pipelines, in weekly sprints with one full written report,
+> full-stack engineer, fully agentic. send me your project and i take it from brief to shipped, on my own.
+> 50+ client projects delivered through freelance platforms since 2015, now running them independently.
+> go, typescript and python, database to screen, milestone by milestone with one full written report a week,
 > then hand off a repo your team can actually maintain.
 > typed everywhere. tested everywhere.
 > claude code drives the keyboard. i drive claude.
@@ -53,7 +54,7 @@
 
 > **like what you see? this is exactly what i ship for clients — same stack, same weekly sprint, same maintainable handoff.**
 >
-> **[-&gt; send a written brief · axdale.com](https://www.axdale.com/start/?utm_source=github&utm_medium=profile&utm_campaign=proof)** &nbsp;·&nbsp; reply in 2 to 3 business days · warsaw, cet · async-first
+> **[-&gt; send a written brief · axdale.com](https://www.axdale.com/start/?utm_source=github&utm_medium=profile&utm_campaign=proof)** &nbsp;·&nbsp; reply in 1 working day · warsaw, cet · async-first
 
 ---
 
@@ -120,15 +121,16 @@
 <a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=offer">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/axdale-cta-dark.svg">
-    <img src="./assets/axdale-cta-light.svg" alt="Axdale. Your agent works in the demo and fails in production. I fix that. Describe the failure at axdale.com." width="100%">
+    <img src="./assets/axdale-cta-light.svg" alt="Axdale. Send me your project. I take it from brief to shipped. Free written plan within one working day, then USD 65 an hour." width="100%">
   </picture>
 </a>
 
 ```
-offer        week 1 free. 40 hours on your code, once both sides sign.
-then         usd 175 to 275 per hour, set by scope, agreed in writing.
+offer        free written project plan. scope, milestones, risks, estimate.
+first        milestone up to 20 hours, paid only if you accept it.
+then         usd 65 per hour, one rate for all work, stop any time.
 rhythm       one full written report at the end of each week.
-replies      in writing, within 2 to 3 business days. full answers.
+replies      in writing, within one working day. full answers.
 production   nothing ships without your written approval.
 start        axdale.com/start · a written brief, no calls.
 ```
@@ -186,7 +188,7 @@ commitment:
   -> your project gets deep focus, not scattered attention.
   -> pull requests land as items finish, with tests.
   -> every question comes in writing, with a default answer.
-  -> i reply within 2 to 3 business days, with a full answer.
+  -> i reply within one working day, with a full answer.
 
 what you get that's different:
   -> reports that read like engineering docs, not status updates.
@@ -240,7 +242,7 @@ $ git log --oneline --author=theluckystrike --since="12 months ago" | head
 
 | | |
 |---|---|
-| **hire** | [axdale.com](https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=findme), written brief, week 1 free |
+| **hire** | [axdale.com](https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=findme), send your project, free written plan |
 | **email** | [michael@axdale.com](mailto:michael@axdale.com) |
 | **code** | [308 merged pull requests](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Atheluckystrike+-user%3Atheluckystrike&type=pullrequests) in 102 orgs |
 | **products** | [mcp.zovo.one](https://mcp.zovo.one) · [notemods.com](https://notemods.com) · [zovo.one](https://zovo.one) |
@@ -261,11 +263,11 @@ Questions or ideas about my tools? Talk to me and other users in [Zovo Chat](htt
 <a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=apply">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/axdale-cta-dark.svg">
-    <img src="./assets/axdale-cta-light.svg" alt="Axdale. Your agent works in the demo and fails in production. I fix that. Describe the failure at axdale.com." width="100%">
+    <img src="./assets/axdale-cta-light.svg" alt="Axdale. Send me your project. I take it from brief to shipped. Free written plan within one working day, then USD 65 an hour." width="100%">
   </picture>
 </a>
 
-**[-> Send a written brief at axdale.com](https://www.axdale.com/start/?utm_source=github&utm_medium=profile&utm_campaign=apply)** &nbsp;·&nbsp; I reply in writing within 2 to 3 business days.
+**[-> Send a written brief at axdale.com](https://www.axdale.com/start/?utm_source=github&utm_medium=profile&utm_campaign=apply)** &nbsp;·&nbsp; I reply in writing within one working day.
 
 ---
 

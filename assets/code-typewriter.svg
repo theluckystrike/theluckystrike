@@ -122,7 +122,7 @@
           <div class="ln l3">  spec<span class="p">:</span>    <span class="fc">writeSpec</span><span class="p">(</span>client<span class="p">.</span>brief<span class="p">),</span></div>
           <div class="ln l4">  tests<span class="p">:</span>   <span class="fc">generateEvals</span><span class="p">(</span>spec<span class="p">,</span> <span class="p">{</span> framework<span class="p">:</span> <span class="s">'vitest'</span> <span class="p">}),</span></div>
           <div class="ln l5">  agent<span class="p">:</span>   <span class="fc">deployAgent</span><span class="p">(</span>spec<span class="p">,</span> <span class="p">{</span> model<span class="p">:</span> <span class="s">'claude'</span><span class="p">,</span> mcp<span class="p">:</span> <span class="kw">true</span> <span class="p">}),</span></div>
-          <div class="ln l6">  review<span class="p">:</span>  <span class="fc">pairSession</span><span class="p">(</span>client<span class="p">.</span>engineer<span class="p">),</span></div>
+          <div class="ln l6">  review<span class="p">:</span>  <span class="fc">writtenReview</span><span class="p">(</span>client<span class="p">.</span>engineer<span class="p">),</span></div>
           <div class="ln l7">  ship<span class="p">:</span>    <span class="fc">deploy</span><span class="p">({</span> target<span class="p">:</span> <span class="s">'cloudflare'</span><span class="p">,</span> rollback<span class="p">:</span> <span class="s">'&lt;60s'</span> <span class="p">}),</span></div>
           <div class="ln l8"><span class="p">});</span></div>
           <div class="ln l9">&#160;</div>
