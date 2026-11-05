@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 520" width="840" height="520" role="img" aria-labelledby="t d">
+<title id="t">How a whole project runs</title><desc id="d">Six stages from left to right. One, your brief with the scope and the files. Two, a written plan, free in one working day. Three, many thin agent lanes fan out in parallel. Four, every lane meets one review node, every change reviewed. Five, small pull requests with tests. Six, shipped to main. Below, a week axis with one written report every week, 18:00 CET.</desc>
+<style>@font-face{font-family:AxSerifD;src:url(data:font/woff2;base64,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) format('woff2');font-weight:400;font-style:normal}@font-face{font-family:AxMono;src:url(data:font/woff2;base64,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) format('woff2');font-weight:400;font-style:normal}.fD{font-family:AxSerifD,Georgia, 'Times New Roman', serif;font-weight:400}.fS{font-family:AxSerif,Georgia, 'Times New Roman', serif;font-weight:400}.fM{font-family:AxMono,ui-monospace, SFMono-Regular, Menlo, monospace;font-weight:400}.c-paper{fill:#0f0f0e}.s-paper{stroke:#0f0f0e}.k-paper{fill:#0f0f0e}.c-sunk{fill:#171716}.s-sunk{stroke:#171716}.k-sunk{fill:#171716}.c-ink{fill:#ecebe6}.s-ink{stroke:#ecebe6}.k-ink{fill:#ecebe6}.c-ink2{fill:#c9c8c2}.s-ink2{stroke:#c9c8c2}.k-ink2{fill:#c9c8c2}.c-muted{fill:#9a9a94}.s-muted{stroke:#9a9a94}.k-muted{fill:#9a9a94}.c-faint{fill:#8a8a83}.s-faint{stroke:#8a8a83}.k-faint{fill:#8a8a83}.c-rule{fill:#262624}.s-rule{stroke:#262624}.k-rule{fill:#262624}.c-rules{fill:#3a3a37}.s-rules{stroke:#3a3a37}.k-rules{fill:#3a3a37}.c-acc{fill:#ff7a45}.s-acc{stroke:#ff7a45}.k-acc{fill:#ff7a45}.c-acct{fill:#ff8a5c}.s-acct{stroke:#ff8a5c}.k-acct{fill:#ff8a5c}.c-btnfg{fill:#0f0f0e}.s-btnfg{stroke:#0f0f0e}.k-btnfg{fill:#0f0f0e}.k-none{fill:none}text{font-kerning:normal;font-variant-numeric:lining-nums}</style>
+<rect width="840" height="520" class="k-paper"/>
+<rect x=".5" y=".5" width="839" height="519" class="k-paper s-rules" stroke-width="1"/>
+<text x="31" y="50" class="fD c-ink" font-size="30" letter-spacing="-0.66" text-anchor="start" xml:space="preserve">How a whole project runs</text>
+<text x="808" y="50" class="fM c-muted" font-size="13" letter-spacing="0.26" text-anchor="end" xml:space="preserve">brief to shipped</text>
+<path d="M32 70L808 70" class="s-rules" stroke-width="1" fill="none"/>
+<text x="96.7" y="100" class="fM c-muted" font-size="12.5" letter-spacing="0.25" text-anchor="middle" xml:space="preserve">[1]</text>
+<text x="96.7" y="121" class="fM c-ink" font-size="14" letter-spacing="0.28" text-anchor="middle" xml:space="preserve">Brief</text>
+<text x="96.7" y="140" class="fM c-muted" font-size="12" letter-spacing="0.24" text-anchor="middle" xml:space="preserve">scope and files</text>
+<path d="M96.7 170L96.7 372" class="s-rules" stroke-width="1" fill="none" stroke-dasharray="3 3"/>
+<text x="226" y="100" class="fM c-muted" font-size="12.5" letter-spacing="0.25" text-anchor="middle" xml:space="preserve">[2]</text>
+<text x="226" y="121" class="fM c-ink" font-size="14" letter-spacing="0.28" text-anchor="middle" xml:space="preserve">Written plan</text>
+<text x="226" y="140" class="fM c-muted" font-size="12" letter-spacing="0.24" text-anchor="middle" xml:space="preserve">free, in one</text>
+<text x="226" y="156" class="fM c-muted" font-size="12" letter-spacing="0.24" text-anchor="middle" xml:space="preserve">working day</text>
+<path d="M226 170L226 372" class="s-rules" stroke-width="1" fill="none" stroke-dasharray="3 3"/>
+<text x="355.3" y="100" class="fM c-muted" font-size="12.5" letter-spacing="0.25" text-anchor="middle" xml:space="preserve">[3]</text>
+<text x="355.3" y="121" class="fM c-ink" font-size="14" letter-spacing="0.28" text-anchor="middle" xml:space="preserve">Agent lanes</text>
+<text x="355.3" y="140" class="fM c-muted" font-size="12" letter-spacing="0.24" text-anchor="middle" xml:space="preserve">many, in parallel</text>
+<path d="M355.3 170L355.3 372" class="s-rules" stroke-width="1" fill="none" stroke-dasharray="3 3"/>
+<text x="484.7" y="100" class="fM c-muted" font-size="12.5" letter-spacing="0.25" text-anchor="middle" xml:space="preserve">[4]</text>
+<text x="484.7" y="121" class="fM c-ink" font-size="14" letter-spacing="0.28" text-anchor="middle" xml:space="preserve">Review</text>
+<text x="484.7" y="140" class="fM c-muted" font-size="12" letter-spacing="0.24" text-anchor="middle" xml:space="preserve">one engineer</text>
+<path d="M484.7 170L484.7 360" class="s-rules" stroke-width="1" fill="none" stroke-dasharray="3 3"/>
+<text x="614" y="100" class="fM c-muted" font-size="12.5" letter-spacing="0.25" text-anchor="middle" xml:space="preserve">[5]</text>
+<text x="614" y="121" class="fM c-ink" font-size="14" letter-spacing="0.28" text-anchor="middle" xml:space="preserve">Pull requests</text>
+<text x="614" y="140" class="fM c-muted" font-size="12" letter-spacing="0.24" text-anchor="middle" xml:space="preserve">small, with tests</text>
+<path d="M614 170L614 372" class="s-rules" stroke-width="1" fill="none" stroke-dasharray="3 3"/>
+<text x="743.3" y="100" class="fM c-muted" font-size="12.5" letter-spacing="0.25" text-anchor="middle" xml:space="preserve">[6]</text>
+<text x="743.3" y="121" class="fM c-ink" font-size="14" letter-spacing="0.28" text-anchor="middle" xml:space="preserve">Shipped</text>
+<text x="743.3" y="140" class="fM c-muted" font-size="12" letter-spacing="0.24" text-anchor="middle" xml:space="preserve">to main</text>
+<path d="M743.3 170L743.3 372" class="s-rules" stroke-width="1" fill="none" stroke-dasharray="3 3"/>
+<rect x="68.7" y="222" width="56" height="100" rx="0" class="k-paper s-ink" stroke-width="1"/>
+<path d="M112.7 222l12 0 0 12" class="s-rules" stroke-width="1" fill="none"/>
+<path d="M77.7 242L115.7 242" class="s-rules" stroke-width="1" fill="none"/>
+<path d="M77.7 255L115.7 255" class="s-rules" stroke-width="1" fill="none"/>
+<path d="M77.7 268L103.7 268" class="s-rules" stroke-width="1" fill="none"/>
+<path d="M77.7 281L115.7 281" class="s-rules" stroke-width="1" fill="none"/>
+<path d="M77.7 294L115.7 294" class="s-rules" stroke-width="1" fill="none"/>
+<path d="M77.7 307L103.7 307" class="s-rules" stroke-width="1" fill="none"/>
+<path d="M124.7 272L170 272" class="s-ink" stroke-width="1" fill="none"/>
+<rect x="170" y="203" width="112" height="138" rx="0" class="k-paper s-ink" stroke-width="1"/>
+<rect x="181" y="220" width="10" height="10" rx="0" class="k-none s-ink2" stroke-width="1"/>
+<path d="M183 225.0l3 3 6 -7" class="s-acc" stroke-width="1.6" fill="none"/>
+<text x="198" y="229" class="fM c-ink2" font-size="12" letter-spacing="0.24" text-anchor="start" xml:space="preserve">scope</text>
+<rect x="181" y="244" width="10" height="10" rx="0" class="k-none s-ink2" stroke-width="1"/>
+<path d="M183 249.0l3 3 6 -7" class="s-acc" stroke-width="1.6" fill="none"/>
+<text x="198" y="253" class="fM c-ink2" font-size="12" letter-spacing="0.24" text-anchor="start" xml:space="preserve">milestones</text>
+<rect x="181" y="268" width="10" height="10" rx="0" class="k-none s-ink2" stroke-width="1"/>
+<path d="M183 273.0l3 3 6 -7" class="s-acc" stroke-width="1.6" fill="none"/>
+<text x="198" y="277" class="fM c-ink2" font-size="12" letter-spacing="0.24" text-anchor="start" xml:space="preserve">risks</text>
+<rect x="181" y="292" width="10" height="10" rx="0" class="k-none s-ink2" stroke-width="1"/>
+<path d="M183 297.0l3 3 6 -7" class="s-acc" stroke-width="1.6" fill="none"/>
+<text x="198" y="301" class="fM c-ink2" font-size="12" letter-spacing="0.24" text-anchor="start" xml:space="preserve">estimate</text>
+<rect x="181" y="316" width="10" height="10" rx="0" class="k-none s-ink2" stroke-width="1"/>
+<path d="M183 321.0l3 3 6 -7" class="s-acc" stroke-width="1.6" fill="none"/>
+<text x="198" y="325" class="fM c-ink2" font-size="12" letter-spacing="0.24" text-anchor="start" xml:space="preserve">access</text>
+<path d="M282 272C314.2 272 345.5 177 390.2 177C434.9 177 428.5 272 460.7 272" class="s-ink" stroke-width="1" fill="none" stroke-opacity="0.34"/>
+<path d="M282 272C314.2 272 297.2 186.5 341.9 186.5C386.5 186.5 428.5 272 460.7 272" class="s-ink" stroke-width="1" fill="none" stroke-opacity="0.22"/>
+<path d="M282 272C314.2 272 328.7 196 373.4 196C418.1 196 428.5 272 460.7 272" class="s-ink" stroke-width="1" fill="none" stroke-opacity="0.14"/>
+<path d="M282 272C314.2 272 299.5 205.5 344.2 205.5C388.9 205.5 428.5 272 460.7 272" class="s-ink" stroke-width="1" fill="none" stroke-opacity="0.34"/>
+<path d="M282 272C314.2 272 301.9 215 346.6 215C391.2 215 428.5 272 460.7 272" class="s-ink" stroke-width="1" fill="none" stroke-opacity="0.22"/>
+<path d="M282 272C314.2 272 306.7 224.5 351.4 224.5C396 224.5 428.5 272 460.7 272" class="s-ink" stroke-width="1" fill="none" stroke-opacity="0.14"/>
+<path d="M282 272C314.2 272 339.7 234 384.4 234C429 234 428.5 272 460.7 272" class="s-ink" stroke-width="1" fill="none" stroke-opacity="0.34"/>
+<path d="M282 272C314.2 272 318.6 243.5 363.3 243.5C408 243.5 428.5 272 460.7 272" class="s-ink" stroke-width="1" fill="none" stroke-opacity="0.22"/>
+<path d="M282 272C314.2 272 337.3 253 382 253C426.6 253 428.5 272 460.7 272" class="s-ink" stroke-width="1" fill="none" stroke-opacity="0.14"/>
+<path d="M282 272C314.2 272 344.6 262.5 389.2 262.5C433.9 262.5 428.5 272 460.7 272" class="s-ink" stroke-width="1" fill="none" stroke-opacity="0.34"/>
+<path d="M282 272C314.2 272 319.3 272 363.9 272C408.6 272 428.5 272 460.7 272" class="s-ink" stroke-width="1" fill="none" stroke-opacity="0.22"/>
+<path d="M282 272C314.2 272 350.2 281.5 394.8 281.5C439.5 281.5 428.5 272 460.7 272" class="s-ink" stroke-width="1" fill="none" stroke-opacity="0.14"/>
+<path d="M282 272C314.2 272 301.4 291 346.1 291C390.8 291 428.5 272 460.7 272" class="s-ink" stroke-width="1" fill="none" stroke-opacity="0.34"/>
+<path d="M282 272C314.2 272 313.1 300.5 357.8 300.5C402.5 300.5 428.5 272 460.7 272" class="s-ink" stroke-width="1" fill="none" stroke-opacity="0.22"/>
+<path d="M282 272C314.2 272 306.6 310 351.2 310C395.9 310 428.5 272 460.7 272" class="s-ink" stroke-width="1" fill="none" stroke-opacity="0.14"/>
+<path d="M282 272C314.2 272 336.3 319.5 381 319.5C425.7 319.5 428.5 272 460.7 272" class="s-ink" stroke-width="1" fill="none" stroke-opacity="0.34"/>
+<path d="M282 272C314.2 272 304.1 329 348.7 329C393.4 329 428.5 272 460.7 272" class="s-ink" stroke-width="1" fill="none" stroke-opacity="0.22"/>
+<path d="M282 272C314.2 272 345.8 338.5 390.5 338.5C435.2 338.5 428.5 272 460.7 272" class="s-ink" stroke-width="1" fill="none" stroke-opacity="0.14"/>
+<path d="M282 272C314.2 272 294 348 338.7 348C383.3 348 428.5 272 460.7 272" class="s-ink" stroke-width="1" fill="none" stroke-opacity="0.34"/>
+<path d="M282 272C314.2 272 326 357.5 370.7 357.5C415.4 357.5 428.5 272 460.7 272" class="s-ink" stroke-width="1" fill="none" stroke-opacity="0.22"/>
+<path d="M282 272C314.2 272 312.7 367 357.4 367C402 367 428.5 272 460.7 272" class="s-ink" stroke-width="1" fill="none" stroke-opacity="0.14"/>
+<circle cx="484.7" cy="272" r="22" class="k-paper s-acc" stroke-width="2"/>
+<circle cx="484.7" cy="272" r="13" class="k-paper s-ink2" stroke-width="1"/>
+<circle cx="484.7" cy="272" r="4.5" class="k-ink" stroke-width="1"/>
+<path d="M484.7 296L484.7 370" class="s-ink2" stroke-width="0.75" fill="none"/>
+<text x="484.7" y="388" class="fM c-ink" font-size="12.5" letter-spacing="0.25" text-anchor="middle" xml:space="preserve">every change reviewed</text>
+<path d="M508.6666666666667 272C548.6666666666667 272 531.0 191 571.0 191" class="s-ink" stroke-width="1" fill="none"/>
+<rect x="571" y="176" width="86" height="30" rx="0" class="k-paper s-ink" stroke-width="1"/>
+<path d="M581 192l4 4 8 -9" class="s-ink2" stroke-width="1.3" fill="none"/>
+<path d="M601 187L647 187" class="s-rules" stroke-width="1" fill="none"/>
+<path d="M601 196L635 196" class="s-rules" stroke-width="1" fill="none"/>
+<path d="M657.0 191C683.0 191 669.3333333333334 272 691.3333333333334 272" class="s-ink" stroke-width="1" fill="none"/>
+<path d="M508.6666666666667 272C548.6666666666667 272 531.0 245 571.0 245" class="s-ink" stroke-width="1" fill="none"/>
+<rect x="571" y="230" width="86" height="30" rx="0" class="k-paper s-ink" stroke-width="1"/>
+<path d="M581 246l4 4 8 -9" class="s-ink2" stroke-width="1.3" fill="none"/>
+<path d="M601 241L633 241" class="s-rules" stroke-width="1" fill="none"/>
+<path d="M601 250L635 250" class="s-rules" stroke-width="1" fill="none"/>
+<path d="M657.0 245C683.0 245 669.3333333333334 272 691.3333333333334 272" class="s-ink" stroke-width="1" fill="none"/>
+<path d="M508.6666666666667 272C548.6666666666667 272 531.0 299 571.0 299" class="s-ink" stroke-width="1" fill="none"/>
+<rect x="571" y="284" width="86" height="30" rx="0" class="k-paper s-ink" stroke-width="1"/>
+<path d="M581 300l4 4 8 -9" class="s-ink2" stroke-width="1.3" fill="none"/>
+<path d="M601 295L647 295" class="s-rules" stroke-width="1" fill="none"/>
+<path d="M601 304L635 304" class="s-rules" stroke-width="1" fill="none"/>
+<path d="M657.0 299C683.0 299 669.3333333333334 272 691.3333333333334 272" class="s-ink" stroke-width="1" fill="none"/>
+<path d="M508.6666666666667 272C548.6666666666667 272 531.0 353 571.0 353" class="s-ink" stroke-width="1" fill="none"/>
+<rect x="571" y="338" width="86" height="30" rx="0" class="k-paper s-ink" stroke-width="1"/>
+<path d="M581 354l4 4 8 -9" class="s-ink2" stroke-width="1.3" fill="none"/>
+<path d="M601 349L633 349" class="s-rules" stroke-width="1" fill="none"/>
+<path d="M601 358L635 358" class="s-rules" stroke-width="1" fill="none"/>
+<path d="M657.0 353C683.0 353 669.3333333333334 272 691.3333333333334 272" class="s-ink" stroke-width="1" fill="none"/>
+<path d="M691.3 272L808 272" class="s-ink" stroke-width="1" fill="none"/>
+<circle cx="705.3" cy="272" r="4.5" class="k-acc" stroke-width="1"/>
+<circle cx="727.3" cy="272" r="4.5" class="k-acc" stroke-width="1"/>
+<circle cx="749.3" cy="272" r="4.5" class="k-acc" stroke-width="1"/>
+<circle cx="771.3" cy="272" r="4.5" class="k-acc" stroke-width="1"/>
+<text x="808" y="258" class="fM c-muted" font-size="12" letter-spacing="0.24" text-anchor="end" xml:space="preserve">main</text>
+<text x="226" y="432" class="fM c-ink2" font-size="12.5" letter-spacing="0.25" text-anchor="start" xml:space="preserve">one written report every week, 18:00 CET</text>
+<path d="M226 466L782 466" class="s-ink" stroke-width="1" fill="none"/>
+<path d="M226 461L226 471" class="s-ink" stroke-width="1" fill="none"/>
+<path d="M318.7 461L318.7 471" class="s-ink" stroke-width="1" fill="none"/>
+<rect x="317.2" y="446" width="3" height="15" rx="0" class="k-acc" stroke-width="1"/>
+<text x="318.7" y="490" class="fM c-muted" font-size="12" letter-spacing="0.24" text-anchor="middle" xml:space="preserve">week 1</text>
+<path d="M411.3 461L411.3 471" class="s-ink" stroke-width="1" fill="none"/>
+<rect x="409.8" y="446" width="3" height="15" rx="0" class="k-acc" stroke-width="1"/>
+<text x="411.3" y="490" class="fM c-muted" font-size="12" letter-spacing="0.24" text-anchor="middle" xml:space="preserve">week 2</text>
+<path d="M504 461L504 471" class="s-ink" stroke-width="1" fill="none"/>
+<rect x="502.5" y="446" width="3" height="15" rx="0" class="k-acc" stroke-width="1"/>
+<text x="504" y="490" class="fM c-muted" font-size="12" letter-spacing="0.24" text-anchor="middle" xml:space="preserve">week 3</text>
+<path d="M596.7 461L596.7 471" class="s-ink" stroke-width="1" fill="none"/>
+<rect x="595.2" y="446" width="3" height="15" rx="0" class="k-acc" stroke-width="1"/>
+<text x="596.7" y="490" class="fM c-muted" font-size="12" letter-spacing="0.24" text-anchor="middle" xml:space="preserve">week 4</text>
+<path d="M689.3 461L689.3 471" class="s-ink" stroke-width="1" fill="none"/>
+<rect x="687.8" y="446" width="3" height="15" rx="0" class="k-acc" stroke-width="1"/>
+<text x="689.3" y="490" class="fM c-muted" font-size="12" letter-spacing="0.24" text-anchor="middle" xml:space="preserve">week 5</text>
+<path d="M782 461L782 471" class="s-ink" stroke-width="1" fill="none"/>
+<rect x="780.5" y="446" width="3" height="15" rx="0" class="k-acc" stroke-width="1"/>
+<text x="782" y="490" class="fM c-muted" font-size="12" letter-spacing="0.24" text-anchor="middle" xml:space="preserve">week 6</text>
+</svg>

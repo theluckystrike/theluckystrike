@@ -596,7 +596,230 @@ def stack():
     both(f)
 
 
+# ---------------------------------------------------------------- flow
+def flow():
+    W, H = 840, 520
+    f = Fig("flow", W, H, "How a whole project runs",
+            "Six stages from left to right. One, your brief with the scope and the files. Two, a written plan, free in one working day. "
+            "Three, many thin agent lanes fan out in parallel. Four, every lane meets one review node, every change reviewed. "
+            "Five, small pull requests with tests. Six, shipped to main. Below, a week axis with one written report every week, 18:00 CET.")
+    f.frame()
+    P = 32
+    f.text(P - 1, 50, "How a whole project runs", "D", 30, "ink")
+    f.text(W - P, 50, "brief to shipped", "M", 13, "muted", "end")
+    f.line(P, 70, W - P, 70, "rules")
+    step = (W - 2 * P) / 6
+    xs = [P + step * (i + 0.5) for i in range(6)]
+    heads = [("Brief", ["scope and files"]), ("Written plan", ["free, in one", "working day"]),
+             ("Agent lanes", ["many, in parallel"]), ("Review", ["one engineer"]),
+             ("Pull requests", ["small, with tests"]), ("Shipped", ["to main"])]
+    for i, (x, (h, subs)) in enumerate(zip(xs, heads)):
+        f.text(x, 100, "[%d]" % (i + 1), "M", 12.5, "muted", "middle")
+        f.text(x, 121, h, "M", 14, "ink", "middle")
+        for k, sb in enumerate(subs):
+            f.text(x, 140 + k * 16, sb, "M", 12, "muted", "middle")
+        f.line(x, 170, x, 372 if i != 3 else 360, "rules", extra=' stroke-dasharray="3 3"')
+    yC = 272
+    # [1] brief
+    bx = xs[0] - 28
+    f.rect(bx, yC - 50, 56, 100, "ink", "paper")
+    f.path("M%s %sl12 0 0 12" % (r(bx + 44), yC - 50), "rules")
+    for i in range(6):
+        f.line(bx + 9, yC - 30 + i * 13, bx + 47 - (12 if i % 3 == 2 else 0), yC - 30 + i * 13, "rules")
+    # [2] plan
+    pw, ph = 112, 138
+    px = xs[1] - pw / 2
+    f.line(bx + 56, yC, px, yC, "ink")
+    f.rect(px, yC - ph / 2, pw, ph, "ink", "paper")
+    for i, lab in enumerate(["scope", "milestones", "risks", "estimate", "access"]):
+        cy = yC - ph / 2 + 26 + i * 24
+        f.rect(px + 11, cy - 9, 10, 10, "ink2", "none")
+        f.path("M%s %sl3 3 6 -7" % (r(px + 13), cy - 4), "acc", 1.6)
+        f.text(px + 28, cy, lab, "M", 12, "ink2")
+    # [3] lanes, [4] node
+    nx = xs[3]
+    lanes(f, px + pw, yC, nx - 24, yC, 21, 190, seed=1105)
+    review_node(f, nx, yC)
+    f.line(nx, yC + 24, nx, yC + 98, "ink2", 0.75)
+    f.text(nx, yC + 116, "every change reviewed", "M", 12.5, "ink", "middle")
+    # [5] pull requests
+    cw, ch = 86, 30
+    cx = xs[4] - cw / 2
+    ys = [yC - 81, yC - 27, yC + 27, yC + 81]
+    mx = xs[5] - 52
+    for i, cy in enumerate(ys):
+        f.path("M%s %sC%s %s %s %s %s %s" % (nx + 24, yC, nx + 64, yC, cx - 40, cy, cx, cy), "ink")
+        f.rect(cx, cy - ch / 2, cw, ch, "ink", "paper")
+        f.path("M%s %sl4 4 8 -9" % (r(cx + 10), cy + 1), "ink2", 1.3)
+        f.line(cx + 30, cy - 4, cx + cw - 10 - (i % 2) * 14, cy - 4, "rules")
+        f.line(cx + 30, cy + 5, cx + cw - 22, cy + 5, "rules")
+        f.path("M%s %sC%s %s %s %s %s %s" % (cx + cw, cy, cx + cw + 26, cy, mx - 22, yC, mx, yC), "ink")
+    # [6] main
+    f.line(mx, yC, W - P, yC, "ink")
+    for k in range(4):
+        f.circle(mx + 14 + k * 22, yC, 4.5, fill="acc")
+    f.text(W - P, yC - 14, "main", "M", 12, "muted", "end")
+    # week axis, from the plan onwards
+    ay = 466
+    a0, a1 = xs[1], W - P - 26
+    f.text(a0, ay - 34, "one written report every week, 18:00 CET", "M", 12.5, "ink2")
+    f.line(a0, ay, a1 + 0, ay, "ink")
+    n = 6
+    for i in range(n + 1):
+        wx = a0 + i * (a1 - a0) / n
+        f.line(wx, ay - 5, wx, ay + 5, "ink")
+        if i:
+            f.rect(wx - 1.5, ay - 20, 3, 15, None, "acc")
+            f.text(wx, ay + 24, "week %d" % i, "M", 12, "muted", "middle")
+    both(f)
+
+
+# ---------------------------------------------------------------- record
+def record():
+    import datetime as dt
+    rows = []
+    for l in open(os.path.join(HERE, "../data/prs.tsv")):
+        u, t, n = l.rstrip("\n").split("\t")
+        rows.append((t, u.split("/repos/")[1]))
+    assert len(rows) == 308, len(rows)
+    rows.sort()
+    W, H = 840, 470
+    f = Fig("record", W, H, "Merged pull requests in other people's repositories",
+            "308 merged pull requests in 102 orgs, one dot per pull request, stacked by week. Labelled, Prefect, Remotion, Scalar and Appium.")
+    f.frame()
+    P = 32
+    f.text(P - 1, 50, "Merged pull requests in other people’s repositories", "D", 26, "ink")
+    f.line(P, 70, W - P, 70, "rules")
+    f.text(P - 4, 162, "308", "D", 96, "ink")
+    nw = width("308", "D", 96)
+    f.text(P, 204, "merged pull requests", "M", 13, "muted")
+    f.text(P - 1, 262, "102 orgs", "D", 40, "ink")
+    f.text(P, 288, "maintainers merged them", "M", 13, "muted")
+    # plot
+    def monday(d):
+        return d - dt.timedelta(days=d.weekday())
+    first = dt.date(2026, 3, 2)
+    last = dt.date(2026, 10, 19)
+    nweeks = (last - first).days // 7 + 1
+    x0, x1 = 300, W - P
+    base = 392
+    old = [r_ for r_ in rows if r_[0] < "2026"]
+    colw = (x1 - (x0 + 44)) / nweeks
+    pitch = 4.6
+    per = 3
+    cols = {}
+    for t, repo in rows:
+        d = dt.date.fromisoformat(t[:10])
+        key = -1 if d.year < 2026 else (monday(d) - first).days // 7
+        cols.setdefault(key, []).append((t, repo))
+    mark = {}
+    notable = {"PrefectHQ/prefect", "remotion-dev/remotion", "scalar/scalar", "appium/appium"}
+    for key, items in cols.items():
+        cx = x0 + 6 if key == -1 else x0 + 44 + key * colw + colw / 2
+        reg = [it for it in items if it[1] not in notable]
+        top = base - 6
+        for j, (t, repo) in enumerate(reg):
+            row, c = divmod(j, per)
+            px = cx + (c - 1) * pitch
+            py = base - 6 - row * pitch
+            top = py
+            f.circle(px, py, 1.6, fill="ink")
+        lifted = len(reg) > 0
+        for k, (t, repo) in enumerate(sorted(it for it in items if it[1] in notable)):
+            py = (top - 16 - k * 17) if lifted else base - 6
+            f.circle(cx, py, 2.6, fill="acc")
+            mark[repo] = (cx, py)
+    # axis
+    f.line(x0, base, x0 + 14, base, "ink")
+    f.path("M%s %sl5 -8M%s %sl5 -8" % (x0 + 17, base + 4, x0 + 23, base + 4), "ink")
+    f.line(x0 + 30, base, x1, base, "ink")
+    f.text(x0 + 6, base + 22, "2024", "M", 11.5, "muted", "middle")
+    months = ["Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct"]
+    for m, name in zip(range(3, 11), months):
+        d = dt.date(2026, m, 1)
+        k = (d - first).days / 7
+        mx_ = x0 + 44 + k * colw
+        f.line(mx_, base, mx_, base + 5, "ink")
+        f.text(mx_ + 2, base + 22, name, "M", 11.5, "muted")
+    f.text(x1, base + 42, "2026, one dot per merged pull request", "M", 11.5, "muted", "end")
+    # notable labels
+    px, py = mark["PrefectHQ/prefect"]
+    f.text(px, 300, "Prefect", "M", 12.5, "ink", "middle")
+    f.line(px, 308, px, py - 5, "ink2", 0.75)
+    for repo, lab in [("scalar/scalar", "Scalar"), ("remotion-dev/remotion", "Remotion"), ("appium/appium", "Appium")]:
+        px, py = mark[repo]
+        f.text(px - 38, py + 4.5, lab, "M", 12.5, "ink", "end")
+        f.line(px - 32, py, px - 6, py, "ink2", 0.75)
+    both(f)
+    return old
+
+
+# ---------------------------------------------------------------- advisories
+def advisories():
+    adv = [("NLTK", "GHSA-p3m8-78j2-g5p3", "CVE-2026-62388", "High", 8.7, "2026-09-02"),
+           ("NLTK", "GHSA-3gqm-fcw5-w839", "CVE-2026-63311", "Medium", 6.9, "2026-09-02"),
+           ("NLTK", "GHSA-5wp5-5229-5g6q", "CVE-2026-12259", "Medium", None, "2026-09-08"),
+           ("Gitea", "GHSA-x77v-q46j-393g", "CVE-2026-23603", "Low", None, "2026-07-21")]
+    bands = {"Low": (0.1, 3.9), "Medium": (4.0, 6.9), "High": (7.0, 8.9), "Critical": (9.0, 10.0)}
+    W = 840
+    rh = 72
+    top = 150
+    H = top + rh * len(adv) + 64
+    f = Fig("advisories", W, H, "4 published advisories credit me as reporter",
+            "; ".join("%s %s %s %s%s, published %s" % (a[0], a[2], a[1], a[3], (" %.1f" % a[4]) if a[4] else ", no score", a[5]) for a in adv))
+    f.frame()
+    P = 32
+    f.text(P - 1, 50, "4 published advisories credit me as reporter", "D", 30, "ink")
+    f.line(P, 70, W - P, 70, "rules")
+    s0, s1 = 420, W - P
+    sx = lambda v: s0 + (s1 - s0) * v / 10.0
+    f.text(P, 112, "package", "M", 12, "muted")
+    f.text(214, 112, "identifiers", "M", 12, "muted")
+    for name, (a, b) in bands.items():
+        lo = 0 if name == "Low" else a
+        if name == "Critical":
+            f.text(s1, 112, "critical", "M", 12, "muted", "end")
+        elif name == "High":
+            f.text(sx(7) + 5, 112, "high", "M", 12, "muted")
+        else:
+            f.text((sx(lo) + sx(b)) / 2, 112, name.lower(), "M", 12, "muted", "middle")
+    for v in [0, 4, 7, 9, 10]:
+        f.line(sx(v), 124, sx(v), top + rh * len(adv), "rule")
+        f.text(sx(v), 138, "%g" % v, "M", 11, "faint", "middle")
+    f.line(P, top - 6, W - P, top - 6, "ink")
+    for i, (pkg, ghsa, cve, sev, score, date) in enumerate(adv):
+        y = top + i * rh
+        if i:
+            f.line(P, y - 6, W - P, y - 6, "rule")
+        f.text(P, y + 26, pkg, "S", 22, "ink")
+        f.text(P, y + 48, date, "M", 12, "muted")
+        f.text(214, y + 26, cve, "M", 13.5, "ink")
+        f.text(214, y + 48, ghsa, "M", 12, "muted")
+        ty = y + 30
+        lo, hi = bands[sev]
+        if score is not None:
+            f.line(sx(0), ty, sx(score), ty, "acc" if sev == "High" else "ink", 3)
+            f.circle(sx(score), ty, 5, fill="acc" if sev == "High" else "ink")
+            lab = "%s  %.1f" % (sev, score)
+            f.text(sx(score) - 12 if score > 8 else sx(score) + 14, ty - 12 if score > 8 else ty + 4.5, lab, "M", 13, "ink",
+                   "end" if score > 8 else "start")
+        else:
+            f.rect(sx(lo if sev != "Low" else 0), ty - 7, sx(hi) - sx(lo if sev != "Low" else 0), 14, "ink2", "none",
+                   extra=' stroke-dasharray="3 3"')
+            f.text((sx(lo if sev != "Low" else 0) + sx(hi)) / 2, ty + 28, "%s, no score" % sev, "M", 12, "ink2", "middle")
+    fy = H - 26
+    f.text(P, fy, "github.com/advisories, credit theluckystrike", "M", 12.5, "acct")
+    f.arrow(P + width("github.com/advisories, credit theluckystrike", "M", 12.5) + 5, fy, 12.5, "ne", "acct", 1.2)
+    f.text(W - P, fy, "base score where published", "M", 12, "muted", "end")
+    both(f)
+
+
 if __name__ == "__main__":
+    if len(sys.argv) > 2 and sys.argv[2] == "new":
+        flow()
+        record()
+        advisories()
+        sys.exit(0)
     hero()
     cta()
     code()

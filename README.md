@@ -21,6 +21,9 @@
 
 <p align="center"><b>Hire me &rarr; <a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=readme_link">axdale.com</a></b> &nbsp;&middot;&nbsp; send your project, free written plan in one working day, async from Warsaw</p>
 
+<!-- 2c. HOW A WHOLE PROJECT RUNS -->
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/flow-dark.svg"><img src="./assets/ax/flow-light.svg" alt="How a whole project runs. Six stages, brief, written plan free in one working day, agent lanes in parallel, one review where every change is reviewed, small pull requests with tests, shipped to main. One written report every week, 18:00 CET." width="100%"></picture>
+
 <!-- 3. CODE TYPEWRITER — the pitch as TypeScript -->
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/code-dark.svg"><img src="./assets/ax/code-light.svg" alt="ship.ts — const cycle = await pipeline({ spec: writeSpec(client.brief), tests: generateEvals(spec, { framework: 'vitest' }), agent: deployAgent(spec, { model: 'claude', mcp: true }), review: writtenReview(client.approval), ship: deploy({ target: 'cloudflare', rollback: '<60s' }) }); assert(cycle.evals.pass); assert(cycle.uptime >= 0.999); // handoff.md written. your team maintains." width="100%"></picture>
 
@@ -51,6 +54,8 @@
 <a href="https://github.com/theluckystrike?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/proof-dark.svg"><img src="./assets/ax/proof-light.svg" alt="proof of work — tab-suspender-pro 1,100+ users 4.6 rating BSL-1.1 · belikenative mcp grammar server 70 rules 9,000+ users 4.6 rating MIT · chrome-extension-toolkit typescript-first mv3 scaffolding · content engine articles daily cadence" width="100%"></picture></a>
 
 <sub>**open the work &#8595;**</sub>  &nbsp; [tab-suspender source](https://github.com/theluckystrike/zovo-tab-suspender-public) · [belikenative action](https://github.com/theluckystrike/belikenative-grammar-check) · [extension-toolkit](https://github.com/theluckystrike/chrome-extension-toolkit) · [claudecodeguides.com](https://claudecodeguides.com)
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/record-dark.svg"><img src="./assets/ax/record-light.svg" alt="Merged pull requests in other people's repositories. 308 merged pull requests in 102 orgs, one dot per pull request by week, including Prefect, Remotion, Scalar and Appium." width="100%"></picture>
 
 > **like what you see? this is exactly what i ship for clients — same stack, same weekly sprint, same maintainable handoff.**
 >
@@ -112,6 +117,8 @@
 ## § 01b · security research
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/security-dark.svg"><img src="./assets/ax/security-light.svg" alt="security research — 55+ vulnerability reports filed via github pvr across mlflow keras sglang nltk gradio feast · focus pickle deserialization sql injection model loading · methodology static analysis source code review solidity smart contract auditing defi protocol analysis · platforms github pvr huntr immunefi sherlock cantina" width="100%"></picture>
+
+<a href="https://github.com/advisories?query=credit%3Atheluckystrike"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/advisories-dark.svg"><img src="./assets/ax/advisories-light.svg" alt="4 published advisories credit me as reporter. NLTK CVE-2026-62388 high 8.7, NLTK CVE-2026-63311 medium 6.9, NLTK CVE-2026-12259 medium, Gitea CVE-2026-23603 low." width="100%"></picture></a>
 
 ---
 
