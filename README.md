@@ -105,11 +105,16 @@
   <tr>
     <td width="33.3%"><a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-sq-lakelevelnow"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-lakelevelnow-dark.svg"><img src="./assets/ax/sq-lakelevelnow-light.svg" alt="lake level now · lakelevelnow.com — current level, percent full and 30-day trend for lakes nationwide, from usgs and cdec gages. 42 lakes tracked." width="100%"></picture></a></td>
     <td width="33.3%"><a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-sq-goldgramprice"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-goldgramprice-dark.svg"><img src="./assets/ax/sq-goldgramprice-light.svg" alt="gold gram price · goldgramprice.com — live gold spot price and jewelry melt value by karat purity and weight. free calculator." width="100%"></picture></a></td>
+    <td width="33.3%"><a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-sq-notemods"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-notemods-dark.svg"><img src="./assets/ax/sq-notemods-light.svg" alt="notemods · notemods.com, open-source obsidian plugins for bases, tables and tasks. free to install, optional pro. 132 plugins, 13,269 downloads." width="100%"></picture></a></td>
+  </tr>
+  <tr>
+    <td width="33.3%"><a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-sq-toolroutine"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-toolroutine-dark.svg"><img src="./assets/ax/sq-toolroutine-light.svg" alt="toolroutine · toolroutine.com, plugins for chatgpt and claude, plus custom builds for business. 106 plugins, custom from $5k." width="100%"></picture></a></td>
+    <td width="33.3%"><a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-sq-addthisbot"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/sq-addthisbot-dark.svg"><img src="./assets/ax/sq-addthisbot-light.svg" alt="addthisbot · addthisbot.com, telegram group bots where one admin pays once and every member gets pro. 35 live bots, 18 for groups." width="100%"></picture></a></td>
     <td width="33.3%"></td>
   </tr>
 </table>
 
-<sub>fifteen live properties · all shipped &amp; operated solo by the <a href="https://ml0x.com">ml0x</a> 100x pipeline · each one actively upgraded · click any square for axdale.com</sub>
+<sub>eighteen live properties · all shipped &amp; operated solo by the <a href="https://ml0x.com">ml0x</a> 100x pipeline · each one actively upgraded · click any square for axdale.com</sub>
 
 ---
 

@@ -537,6 +537,9 @@ SQ = [
     ("statewage", "statewage", "statewage.com", "free paycheck calculator. estimates take-home pay after federal, fica and state taxes.", "all 50 states · free", False),
     ("lakelevelnow", "lake level now", "lakelevelnow.com", "current level, percent full and 30-day trend for lakes nationwide, from usgs + cdec gages.", "42 lakes tracked", False),
     ("goldgramprice", "gold gram price", "goldgramprice.com", "live gold spot price + jewelry melt value by karat purity and weight. free calculator.", "live spot · by karat", False),
+    ("notemods", "notemods", "notemods.com", "open-source obsidian plugins for bases, tables and tasks. free to install, optional pro.", "132 plugins · 13,269 downloads", False),
+    ("toolroutine", "toolroutine", "toolroutine.com", "plugins for chatgpt and claude, plus custom builds for business.", "106 plugins · custom from $5k", False),
+    ("addthisbot", "addthisbot", "addthisbot.com", "telegram group bots where one admin pays once and every member gets pro.", "35 live bots · 18 for groups", False),
 ]
 
 
