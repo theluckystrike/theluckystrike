@@ -716,19 +716,18 @@ def record():
     notable = {"PrefectHQ/prefect", "remotion-dev/remotion", "scalar/scalar", "appium/appium"}
     for key, items in cols.items():
         cx = x0 + 6 if key == -1 else x0 + 44 + key * colw + colw / 2
-        reg = [it for it in items if it[1] not in notable]
-        top = base - 6
-        for j, (t, repo) in enumerate(reg):
+        items.sort(key=lambda it: (it[1] in notable, it[0]))
+        for j, (t, repo) in enumerate(items):
             row, c = divmod(j, per)
             px = cx + (c - 1) * pitch
             py = base - 6 - row * pitch
-            top = py
-            f.circle(px, py, 1.6, fill="ink")
-        lifted = len(reg) > 0
-        for k, (t, repo) in enumerate(sorted(it for it in items if it[1] in notable)):
-            py = (top - 16 - k * 17) if lifted else base - 6
-            f.circle(cx, py, 2.6, fill="acc")
-            mark[repo] = (cx, py)
+            if repo == "PrefectHQ/prefect":
+                px = cx
+            if repo in notable:
+                f.circle(px, py, 2.6 if repo == "PrefectHQ/prefect" else 1.9, fill="acc")
+                mark[repo] = (px, py)
+            else:
+                f.circle(px, py, 1.6, fill="ink")
     # axis
     f.line(x0, base, x0 + 14, base, "ink")
     f.path("M%s %sl5 -8M%s %sl5 -8" % (x0 + 17, base + 4, x0 + 23, base + 4), "ink")
@@ -746,10 +745,15 @@ def record():
     px, py = mark["PrefectHQ/prefect"]
     f.text(px, 300, "Prefect", "M", 12.5, "ink", "middle")
     f.line(px, 308, px, py - 5, "ink2", 0.75)
-    for repo, lab in [("scalar/scalar", "Scalar"), ("remotion-dev/remotion", "Remotion"), ("appium/appium", "Appium")]:
+    oct_ = [("scalar/scalar", "Scalar"), ("remotion-dev/remotion", "Remotion"), ("appium/appium", "Appium")]
+    topy = min(mark[r_][1] for r_, _ in oct_)
+    lx = min(mark[r_][0] for r_, _ in oct_) - 30
+    # rightmost dot gets the highest label, so no leader crosses another
+    for k, (repo, lab) in enumerate(sorted(oct_, key=lambda it: -mark[it[0]][0])):
         px, py = mark[repo]
-        f.text(px - 38, py + 4.5, lab, "M", 12.5, "ink", "end")
-        f.line(px - 32, py, px - 6, py, "ink2", 0.75)
+        ly = topy - 36 + k * 16
+        f.text(lx - 6, ly + 4.5, lab, "M", 12.5, "ink", "end")
+        f.path("M%s %sH%sV%s" % (r(lx), r(ly), r(px), r(py - 3)), "ink2", 0.75)
     both(f)
     return old
 
