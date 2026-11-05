@@ -346,7 +346,7 @@ def support():
     f.frame()
     P = 32
     f.text(P, 44, "[00]  support the work", "M", 14, "muted")
-    f.text(W - P - 14, 44, "zovo.one", "M", 14, "ink", "end")
+    f.text(W - P - 14, 44, "axdale.com", "M", 14, "ink", "end")
     f.arrow(W - P - 10, 44, 14, "ne", "ink", 1.2)
     f.line(P, 64, W - P, 64, "rules")
     f.text(P - 2, 132, "Open source must win.", "D", 50, "ink")
@@ -430,14 +430,14 @@ def proof():
     cards = [
         dict(title="tab-suspender-pro", desc="The great suspender replacement. 2M stranded, live in 14 days.",
              rows=[("cws.users", "1,100+"), ("rating", "4.6 / 5"), ("data.sent", "0 bytes"), ("license", "bsl-1.1")],
-             links=["source", "chrome web store"]),
+             links=["axdale.com"]),
         dict(title="belikenative · mcp grammar server", desc="70 rules · 18 L1-aware. Claude Desktop & Cursor.",
              rows=[("rules", "70 · 18 l1-aware"), ("ext.users", "9,000+"), ("rating", "4.6 / 5"), ("license", "mit")],
-             links=["action", "extension"]),
+             links=["axdale.com"]),
         dict(title="chrome-extension-toolkit", desc="TS-first MV3 scaffolding. The starter for every client build.",
-             rows=[("language", "typescript"), ("manifest", "v3"), ("used.in", "12+ extensions")], links=["repo"]),
+             rows=[("language", "typescript"), ("manifest", "v3"), ("used.in", "12+ extensions")], links=["axdale.com"]),
         dict(title="content engine · the funnel", desc="chrome-tips · claude-skills-guide · ai-tools-compared.",
-             rows=[("articles", "4,200+"), ("cadence", "daily"), ("views", "1,700+ / mo")]),
+             rows=[("articles", "4,200+"), ("cadence", "daily"), ("views", "1,700+ / mo")], links=["axdale.com"]),
     ]
     panel_grid("proof", "Proof of work",
                "tab-suspender-pro 1,100+ users, 4.6 rating, BSL-1.1. belikenative mcp grammar server, 70 rules, 9,000+ users, 4.6 rating, MIT. "
@@ -476,9 +476,8 @@ def ml0x():
     f.frame()
     P = 32
     f.text(P, 44, "ml0x.com  ·  the engine behind every square below", "M", 14, "muted")
-    w = width("open ml0x.com", "M", 14)
-    f.text(W - P - 16, 44, "open ml0x.com", "M", 14, "acct", "end")
-    f.arrow(W - P - 12, 44, 14, "right", "acct", 1.2)
+    f.text(W - P - 14, 44, "axdale.com", "M", 14, "acct", "end")
+    f.arrow(W - P - 10, 44, 14, "ne", "acct", 1.2)
     f.line(P, 64, W - P, 64, "rules")
     f.text(P - 3, 128, "ml0x", "D", 64, "ink")
     tx = 210
@@ -565,8 +564,8 @@ def squares():
         sw = f.text(P, 224, stat, "S", ss, "ink")
         if star:
             f.star(P + sw + 9, 217.5, 6.5, "ink")
-        f.text(P, 251, "open live", "M", 12.5, "acct")
-        f.arrow(P + width("open live", "M", 12.5) + 4, 251, 12.5, "ne", "acct", 1.2)
+        f.text(P, 251, "axdale.com", "M", 12.5, "acct")
+        f.arrow(P + width("axdale.com", "M", 12.5) + 4, 251, 12.5, "ne", "acct", 1.2)
         both(f)
 
 
@@ -812,8 +811,8 @@ def advisories():
                    extra=' stroke-dasharray="3 3"')
             f.text((sx(lo if sev != "Low" else 0) + sx(hi)) / 2, ty + 28, "%s, no score" % sev, "M", 12, "ink2", "middle")
     fy = H - 26
-    f.text(P, fy, "github.com/advisories, credit theluckystrike", "M", 12.5, "acct")
-    f.arrow(P + width("github.com/advisories, credit theluckystrike", "M", 12.5) + 5, fy, 12.5, "ne", "acct", 1.2)
+    f.text(P, fy, "axdale.com", "M", 12.5, "acct")
+    f.arrow(P + width("axdale.com", "M", 12.5) + 5, fy, 12.5, "ne", "acct", 1.2)
     f.text(W - P, fy, "base score where published", "M", 12, "muted", "end")
     both(f)
 
