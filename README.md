@@ -205,19 +205,19 @@ what you get that's different:
 ```
 $ git log --oneline --author=theluckystrike --since="12 months ago" | head
 
-  a3f8c12   feat(tab-suspender): mv3 service-worker rewrite · ship v2.1
-  b7e019a   merge:  google-chrome/chrome.dev#142 · ext-page typings
+  a3f8c12   feat(tab-suspender): mv3 service-worker rewrite · ship 1.0.41
+  912d91c   merge:  dagucloud/dagu#3035 · worker stops gracefully on sigint/sigterm
   4f1c8b3   feat(belikenative): mcp server · 70 rules · 18 l1-aware
   8dbf17f   feat(zovo-toolkit): wxt + plasmo dual scaffold
-  2a4e9c1   merge:  microlinkhq/preview#56 · cls regression patch
+  2c974e4   merge:  vendurehq/vendure#5483 · icu plurals for counted messages
   efd03b8   chore:  gh-actions · grammar-check · 60->70 rules
-  19b6f72   merge:  scriptscat/scriptcat#214 · cookie-store typings
+  cd946b7   merge:  appium/python-client#1320 · android execute method names
   c7b1f0d   feat:  mv2->mv3 migration #12 · zero rank loss
   ...
   total:  308 prs merged in 102 orgs · 9,000+ users across extensions
 ```
 
-> **why open-source receipts matter at this stage.** i'm transparent: most of my deployed work is mine — Chrome extensions, 9K+ users, 4.6 avg. i'm building a paid client portfolio now, and the trade is honest: hire me before the testimonial wall fills up, get senior shipping speed at a junior-consultant price. month-1 pilot is refundable for a reason.
+> **why open-source receipts matter.** most of what you see on this profile is my own product work, Chrome extensions and sites i design, build and run. client work is private, more than 50 projects delivered through freelance platforms since 2015, now run independently. the merges above are public, so you can check them. the project plan is free and the first milestone is paid only if you accept it.
 
 </details>
 
