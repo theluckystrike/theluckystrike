@@ -39,15 +39,6 @@
 
 ---
 
-<!-- 4b. SUPPORT -->
-## § 00 · support the work
-
-<a href="https://zovo.one/?utm_source=github&utm_medium=profile" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/support-dark.svg"><img src="./assets/ax/support-light.svg" alt="support the work — open source must win — $4.99 per month at zovo.one — one subscription funds full-time open-source work: real fixes, translations and verified docs, shipped not promised — if my contributions helped you, the best thank-you is keeping it going" width="100%"></picture></a>
-
-<sub>**keep the work going &#8595;**</sub>  &nbsp; [zovo.one · $4.99/mo](https://zovo.one) &nbsp;·&nbsp; [GitHub Sponsors](https://github.com/sponsors/theluckystrike)
-
----
-
 <!-- 5. PROOF OF WORK -->
 ## § 01 · proof of work
 
