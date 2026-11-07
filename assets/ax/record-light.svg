@@ -1,349 +1,52 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 470" width="840" height="470" role="img" aria-labelledby="t d">
-<title id="t">Merged pull requests in other people's repositories</title><desc id="d">308 merged pull requests in 102 orgs, one dot per pull request, stacked by week. Labelled, Prefect, Remotion, Scalar and Appium.</desc>
+<title id="t">Merged pull requests in other people's repositories</title><desc id="d">432 merged pull requests in 217 orgs, one dot per pull request, stacked by week. Labelled, Prefect, Remotion, Scalar and Appium.</desc>
 <style>@font-face{font-family:AxSerifD;src:url(data:font/woff2;base64,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) format('woff2');font-weight:400;font-style:normal}@font-face{font-family:AxMono;src:url(data:font/woff2;base64,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) format('woff2');font-weight:400;font-style:normal}.fD{font-family:AxSerifD,Georgia, 'Times New Roman', serif;font-weight:400}.fS{font-family:AxSerif,Georgia, 'Times New Roman', serif;font-weight:400}.fM{font-family:AxMono,ui-monospace, SFMono-Regular, Menlo, monospace;font-weight:400}.c-paper{fill:#ffffff}.s-paper{stroke:#ffffff}.k-paper{fill:#ffffff}.c-sunk{fill:#f6f6f6}.s-sunk{stroke:#f6f6f6}.k-sunk{fill:#f6f6f6}.c-ink{fill:#111111}.s-ink{stroke:#111111}.k-ink{fill:#111111}.c-ink2{fill:#333333}.s-ink2{stroke:#333333}.k-ink2{fill:#333333}.c-muted{fill:#666666}.s-muted{stroke:#666666}.k-muted{fill:#666666}.c-faint{fill:#999999}.s-faint{stroke:#999999}.k-faint{fill:#999999}.c-rule{fill:#eeeeee}.s-rule{stroke:#eeeeee}.k-rule{fill:#eeeeee}.c-rules{fill:#dddddd}.s-rules{stroke:#dddddd}.k-rules{fill:#dddddd}.c-acc{fill:#ff5b1f}.s-acc{stroke:#ff5b1f}.k-acc{fill:#ff5b1f}.c-acct{fill:#b33a0e}.s-acct{stroke:#b33a0e}.k-acct{fill:#b33a0e}.c-btnfg{fill:#ffffff}.s-btnfg{stroke:#ffffff}.k-btnfg{fill:#ffffff}.k-none{fill:none}text{font-kerning:normal;font-variant-numeric:lining-nums}</style>
 <rect width="840" height="470" class="k-paper"/>
 <rect x=".5" y=".5" width="839" height="469" class="k-paper s-rules" stroke-width="1"/>
 <text x="31" y="50" class="fD c-ink" font-size="26" letter-spacing="-0.57" text-anchor="start" xml:space="preserve">Merged pull requests in other people’s repositories</text>
 <path d="M32 70L808 70" class="s-rules" stroke-width="1" fill="none"/>
-<text x="28" y="162" class="fD c-ink" font-size="96" letter-spacing="-2.11" text-anchor="start" xml:space="preserve">308</text>
+<text x="28" y="162" class="fD c-ink" font-size="96" letter-spacing="-2.11" text-anchor="start" xml:space="preserve">432</text>
 <text x="32" y="204" class="fM c-muted" font-size="13" letter-spacing="0.26" text-anchor="start" xml:space="preserve">merged pull requests</text>
-<text x="31" y="262" class="fD c-ink" font-size="40" letter-spacing="-0.88" text-anchor="start" xml:space="preserve">102 orgs</text>
+<text x="31" y="262" class="fD c-ink" font-size="40" letter-spacing="-0.88" text-anchor="start" xml:space="preserve">217 orgs</text>
 <text x="32" y="288" class="fM c-muted" font-size="13" letter-spacing="0.26" text-anchor="start" xml:space="preserve">maintainers merged them</text>
-<circle cx="301.4" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="346.2" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="350.8" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="355.4" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="346.2" cy="381.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="350.8" cy="381.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="355.4" cy="381.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="346.2" cy="376.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="350.8" cy="376.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="355.4" cy="376.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="346.2" cy="372.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="350.8" cy="372.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="355.4" cy="372.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="346.2" cy="367.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="350.8" cy="367.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="355.4" cy="367.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="346.2" cy="363" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="350.8" cy="363" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="355.4" cy="363" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="346.2" cy="358.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="350.8" cy="358.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="355.4" cy="358.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="346.2" cy="353.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="350.8" cy="353.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="355.4" cy="353.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="346.2" cy="349.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="350.8" cy="349.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="355.4" cy="349.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="346.2" cy="344.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="350.8" cy="344.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="355.4" cy="344.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="346.2" cy="340" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="350.8" cy="340" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="355.4" cy="340" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="346.2" cy="335.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="350.8" cy="335.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="355.4" cy="335.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="346.2" cy="330.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="350.8" cy="330.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="355.4" cy="330.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="346.2" cy="326.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="350.8" cy="326.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="355.4" cy="326.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="346.2" cy="321.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="350.8" cy="321.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="355.4" cy="321.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="346.2" cy="317" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="350.8" cy="317" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="355.4" cy="317" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="346.2" cy="312.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="350.8" cy="312.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="359.9" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="414.5" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="419.1" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="423.7" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="414.5" cy="381.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="419.1" cy="381.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="428.1" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="441.8" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="469" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="473.6" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="500.9" cy="386" r="2.6" class="k-acc" stroke-width="1"/>
-<circle cx="523.6" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="619.2" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="646.5" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="651.1" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="687.4" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="701" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="705.6" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="710.2" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="701" cy="381.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="714.7" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="719.3" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="728.3" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="732.9" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="737.5" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="728.3" cy="381.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="732.9" cy="381.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="737.5" cy="381.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="728.3" cy="376.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="732.9" cy="376.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="737.5" cy="376.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="728.3" cy="372.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="732.9" cy="372.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="737.5" cy="372.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="728.3" cy="367.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="732.9" cy="367.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="737.5" cy="367.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="728.3" cy="363" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="732.9" cy="363" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="737.5" cy="363" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="728.3" cy="358.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="742" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="746.6" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="751.2" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="742" cy="381.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="746.6" cy="381.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="751.2" cy="381.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="742" cy="376.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="746.6" cy="376.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="751.2" cy="376.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="742" cy="372.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="746.6" cy="372.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="751.2" cy="372.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="742" cy="367.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="746.6" cy="367.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="751.2" cy="367.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="742" cy="363" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="746.6" cy="363" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="751.2" cy="363" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="742" cy="358.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="746.6" cy="358.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="751.2" cy="358.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="742" cy="353.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="755.6" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="760.2" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="764.8" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="755.6" cy="381.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="760.2" cy="381.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="764.8" cy="381.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="755.6" cy="376.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="760.2" cy="376.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="764.8" cy="376.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="755.6" cy="372.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="760.2" cy="372.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="764.8" cy="372.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="755.6" cy="367.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="760.2" cy="367.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="764.8" cy="367.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="755.6" cy="363" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="760.2" cy="363" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="764.8" cy="363" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="755.6" cy="358.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="760.2" cy="358.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="381.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="381.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="381.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="376.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="376.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="376.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="372.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="372.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="372.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="367.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="367.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="367.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="363" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="363" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="363" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="358.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="358.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="358.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="353.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="353.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="353.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="349.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="349.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="349.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="344.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="344.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="344.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="340" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="340" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="340" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="335.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="335.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="335.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="330.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="330.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="330.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="326.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="326.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="326.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="321.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="321.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="321.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="317" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="317" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="317" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="312.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="312.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="312.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="307.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="307.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="307.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="303.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="303.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="303.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="298.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="298.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="298.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="294" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="294" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="294" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="289.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="289.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="289.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="284.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="284.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="284.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="280.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="280.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="280.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="275.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="275.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="275.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="271" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="271" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="271" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="266.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="266.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="266.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="261.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="261.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="261.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="257.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="257.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="257.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="252.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="252.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="252.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="769.3" cy="248" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="773.9" cy="248" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="778.5" cy="248" r="1.9" class="k-acc" stroke-width="1"/>
-<circle cx="769.3" cy="243.4" r="1.9" class="k-acc" stroke-width="1"/>
-<circle cx="773.9" cy="243.4" r="1.9" class="k-acc" stroke-width="1"/>
-<circle cx="782.9" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="787.5" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="792.1" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="782.9" cy="381.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="787.5" cy="381.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="792.1" cy="381.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="782.9" cy="376.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="787.5" cy="376.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="792.1" cy="376.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="782.9" cy="372.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="787.5" cy="372.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="792.1" cy="372.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="782.9" cy="367.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="787.5" cy="367.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="792.1" cy="367.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="782.9" cy="363" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="787.5" cy="363" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="792.1" cy="363" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="782.9" cy="358.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="787.5" cy="358.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="792.1" cy="358.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="782.9" cy="353.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="787.5" cy="353.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="792.1" cy="353.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="782.9" cy="349.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="787.5" cy="349.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="792.1" cy="349.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="782.9" cy="344.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="787.5" cy="344.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="792.1" cy="344.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="782.9" cy="340" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="787.5" cy="340" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="792.1" cy="340" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="782.9" cy="335.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="787.5" cy="335.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="792.1" cy="335.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="782.9" cy="330.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="787.5" cy="330.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="792.1" cy="330.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="782.9" cy="326.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="787.5" cy="326.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="792.1" cy="326.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="782.9" cy="321.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="787.5" cy="321.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="792.1" cy="321.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="782.9" cy="317" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="787.5" cy="317" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="792.1" cy="317" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="782.9" cy="312.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="787.5" cy="312.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="792.1" cy="312.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="782.9" cy="307.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="787.5" cy="307.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="792.1" cy="307.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="782.9" cy="303.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="787.5" cy="303.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="792.1" cy="303.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="782.9" cy="298.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="787.5" cy="298.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="792.1" cy="298.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="782.9" cy="294" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="787.5" cy="294" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="796.6" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="801.2" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="805.8" cy="386" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="796.6" cy="381.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="801.2" cy="381.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="805.8" cy="381.4" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="796.6" cy="376.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="801.2" cy="376.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="805.8" cy="376.8" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="796.6" cy="372.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="801.2" cy="372.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="805.8" cy="372.2" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="796.6" cy="367.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="801.2" cy="367.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="805.8" cy="367.6" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="796.6" cy="363" r="1.6" class="k-ink" stroke-width="1"/>
-<circle cx="801.2" cy="363" r="1.6" class="k-ink" stroke-width="1"/>
-<path d="M300 392L314 392" class="s-ink" stroke-width="1" fill="none"/>
-<path d="M317 396l5 -8M323 396l5 -8" class="s-ink" stroke-width="1" fill="none"/>
+<rect x="414.0" y="389.8" width="2.0" height="2.2" fill="#111111"/>
+<rect x="535.9" y="389.8" width="2.0" height="2.2" fill="#111111"/>
+<rect x="619.3" y="389.8" width="2.0" height="2.2" fill="#111111"/>
+<rect x="632.2" y="389.8" width="2.0" height="2.2" fill="#111111"/>
+<rect x="635.4" y="389.8" width="2.0" height="2.2" fill="#111111"/>
+<rect x="638.6" y="389.8" width="2.0" height="2.2" fill="#111111"/>
+<rect x="654.6" y="389.8" width="2.0" height="2.2" fill="#111111"/>
+<rect x="693.1" y="281.6" width="2.0" height="110.4" fill="#111111"/>
+<rect x="696.3" y="389.8" width="2.0" height="2.2" fill="#111111"/>
+<rect x="709.2" y="381.0" width="2.0" height="11.0" fill="#111111"/>
+<rect x="712.4" y="389.8" width="2.0" height="2.2" fill="#111111"/>
+<rect x="715.6" y="389.8" width="2.0" height="2.2" fill="#111111"/>
+<rect x="718.8" y="389.8" width="2.0" height="2.2" fill="#111111"/>
+<rect x="722.0" y="387.6" width="2.0" height="4.4" fill="#111111"/>
+<rect x="728.4" y="389.8" width="2.0" height="2.2" fill="#111111"/>
+<rect x="734.8" y="389.8" width="2.0" height="2.2" fill="#111111"/>
+<rect x="738.0" y="389.8" width="2.0" height="2.2" fill="#111111"/>
+<rect x="757.3" y="389.8" width="2.0" height="2.2" fill="#111111"/>
+<rect x="763.7" y="387.6" width="2.0" height="4.4" fill="#111111"/>
+<rect x="773.3" y="389.8" width="2.0" height="2.2" fill="#111111"/>
+<rect x="776.5" y="372.1" width="2.0" height="19.9" fill="#111111"/>
+<rect x="779.7" y="383.2" width="2.0" height="8.8" fill="#111111"/>
+<rect x="782.9" y="350.0" width="2.0" height="42.0" fill="#111111"/>
+<rect x="786.2" y="336.8" width="2.0" height="55.2" fill="#111111"/>
+<rect x="789.4" y="345.6" width="2.0" height="46.4" fill="#111111"/>
+<rect x="792.6" y="180.0" width="2.0" height="212.0" fill="#111111"/>
+<rect x="795.8" y="241.8" width="2.0" height="150.2" fill="#111111"/>
+<rect x="799.0" y="314.7" width="2.0" height="77.3" fill="#111111"/>
+<rect x="802.2" y="292.6" width="2.0" height="99.4" fill="#111111"/>
+<rect x="805.4" y="314.7" width="2.0" height="77.3" fill="#111111"/>
+<rect x="792.6" y="180.0" width="2.0" height="212.0" fill="#ff5b1f"/>
+<text x="806" y="168.0" class="fM c-ink" font-size="12.5" letter-spacing="0.25" text-anchor="end">week of Oct 05</text>
 <path d="M330 392L808 392" class="s-ink" stroke-width="1" fill="none"/>
-<text x="306" y="414" class="fM c-muted" font-size="11.5" letter-spacing="0.23" text-anchor="middle" xml:space="preserve">2024</text>
-<path d="M342.1 392L342.1 397" class="s-ink" stroke-width="1" fill="none"/>
-<text x="344.1" y="414" class="fM c-muted" font-size="11.5" letter-spacing="0.23" text-anchor="start" xml:space="preserve">Mar</text>
-<path d="M402.5 392L402.5 397" class="s-ink" stroke-width="1" fill="none"/>
-<text x="404.5" y="414" class="fM c-muted" font-size="11.5" letter-spacing="0.23" text-anchor="start" xml:space="preserve">Apr</text>
-<path d="M461 392L461 397" class="s-ink" stroke-width="1" fill="none"/>
-<text x="463" y="414" class="fM c-muted" font-size="11.5" letter-spacing="0.23" text-anchor="start" xml:space="preserve">May</text>
-<path d="M521.4 392L521.4 397" class="s-ink" stroke-width="1" fill="none"/>
-<text x="523.4" y="414" class="fM c-muted" font-size="11.5" letter-spacing="0.23" text-anchor="start" xml:space="preserve">Jun</text>
-<path d="M579.9 392L579.9 397" class="s-ink" stroke-width="1" fill="none"/>
-<text x="581.9" y="414" class="fM c-muted" font-size="11.5" letter-spacing="0.23" text-anchor="start" xml:space="preserve">Jul</text>
-<path d="M640.3 392L640.3 397" class="s-ink" stroke-width="1" fill="none"/>
-<text x="642.3" y="414" class="fM c-muted" font-size="11.5" letter-spacing="0.23" text-anchor="start" xml:space="preserve">Aug</text>
-<path d="M700.8 392L700.8 397" class="s-ink" stroke-width="1" fill="none"/>
-<text x="702.8" y="414" class="fM c-muted" font-size="11.5" letter-spacing="0.23" text-anchor="start" xml:space="preserve">Sep</text>
-<path d="M759.3 392L759.3 397" class="s-ink" stroke-width="1" fill="none"/>
-<text x="761.3" y="414" class="fM c-muted" font-size="11.5" letter-spacing="0.23" text-anchor="start" xml:space="preserve">Oct</text>
-<text x="808" y="434" class="fM c-muted" font-size="11.5" letter-spacing="0.23" text-anchor="end" xml:space="preserve">2026, one dot per merged pull request</text>
-<text x="500.9" y="300" class="fM c-ink" font-size="12.5" letter-spacing="0.25" text-anchor="middle" xml:space="preserve">Prefect</text>
-<path d="M500.9 308L500.9 381" class="s-ink2" stroke-width="0.75" fill="none"/>
-<text x="733.3" y="211.9" class="fM c-ink" font-size="12.5" letter-spacing="0.25" text-anchor="end" xml:space="preserve">Scalar</text>
-<path d="M739.3 207.4H778.5V245" class="s-ink2" stroke-width="0.75" fill="none"/>
-<text x="733.3" y="227.9" class="fM c-ink" font-size="12.5" letter-spacing="0.25" text-anchor="end" xml:space="preserve">Appium</text>
-<path d="M739.3 223.4H773.9V240.4" class="s-ink2" stroke-width="0.75" fill="none"/>
-<text x="733.3" y="243.9" class="fM c-ink" font-size="12.5" letter-spacing="0.25" text-anchor="end" xml:space="preserve">Remotion</text>
-<path d="M739.3 239.4H769.3V240.4" class="s-ink2" stroke-width="0.75" fill="none"/>
+<path d="M330.0 392L330.0 397" class="s-ink" stroke-width="1" fill="none"/>
+<text x="332.5" y="414" class="fM c-muted" font-size="11.5" letter-spacing="0.23" text-anchor="start">2024</text>
+<path d="M497.7 392L497.7 397" class="s-ink" stroke-width="1" fill="none"/>
+<text x="500.2" y="414" class="fM c-muted" font-size="11.5" letter-spacing="0.23" text-anchor="start">2025</text>
+<path d="M665.0 392L665.0 397" class="s-ink" stroke-width="1" fill="none"/>
+<text x="667.5" y="414" class="fM c-muted" font-size="11.5" letter-spacing="0.23" text-anchor="start">2026</text>
+<text x="808" y="436" class="fM c-muted" font-size="11.5" letter-spacing="0.23" text-anchor="end">2024 to 2026, one bar per week, 432 upstream pull requests</text>
 </svg>

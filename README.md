@@ -4,7 +4,7 @@
 -->
 
 <!-- 1. HERO BANNER -->
-<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-hero" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/hero-dark.svg"><img src="./assets/ax/hero-light.svg" alt="michael lip, full-stack engineer, fully agentic, runs whole projects on his own. 9,000+ users in production, 308 PRs merged in 102 orgs, #1 obsidian plugin author, weekly written reports, taking new briefs at axdale.com" width="100%"></picture></a>
+<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-hero" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/hero-dark.svg"><img src="./assets/ax/hero-light.svg" alt="michael lip, full-stack engineer, fully agentic, runs whole projects on his own. 9,000+ users in production, 432 PRs merged in 217 orgs, #1 obsidian plugin author, weekly written reports, taking new briefs at axdale.com" width="100%"></picture></a>
 
 <!-- 2. VIEW COUNTER -->
 <p align="center">
@@ -46,7 +46,7 @@
 
 <sub>**open the work &#8595;**</sub>  &nbsp; [tab-suspender source](https://github.com/theluckystrike/zovo-tab-suspender-public) · [belikenative action](https://github.com/theluckystrike/belikenative-grammar-check) · [extension-toolkit](https://github.com/theluckystrike/chrome-extension-toolkit) · [claudecodeguides.com](https://claudecodeguides.com)
 
-<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-record" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/record-dark.svg"><img src="./assets/ax/record-light.svg" alt="Merged pull requests in other people's repositories. 308 merged pull requests in 102 orgs, one dot per pull request by week, including Prefect, Remotion, Scalar and Appium." width="100%"></picture></a>
+<a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=img-record" target="_blank" rel="noopener"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/ax/record-dark.svg"><img src="./assets/ax/record-light.svg" alt="Merged pull requests in other people's repositories. 432 merged pull requests in 217 orgs, one dot per pull request by week, including Prefect, Remotion, Scalar and Appium." width="100%"></picture></a>
 
 > **like what you see? this is exactly what i ship for clients — same stack, same weekly sprint, same maintainable handoff.**
 >
@@ -217,7 +217,7 @@ $ git log --oneline --author=theluckystrike --since="12 months ago" | head
   cd946b7   merge:  appium/python-client#1320 · android execute method names
   c7b1f0d   feat:  mv2->mv3 migration #12 · zero rank loss
   ...
-  total:  308 prs merged in 102 orgs · 9,000+ users across extensions
+  total:  432 prs merged in 217 orgs · 9,000+ users across extensions
 ```
 
 > **why open-source receipts matter.** most of what you see on this profile is my own product work, Chrome extensions and sites i design, build and run. client work is private, more than 50 projects delivered through freelance platforms since 2015, now run independently. the merges above are public, so you can check them. the project plan is free and the first milestone is paid only if you accept it.
@@ -247,7 +247,7 @@ $ git log --oneline --author=theluckystrike --since="12 months ago" | head
 |---|---|
 | **hire** | [axdale.com](https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=findme), send your project, free written plan |
 | **email** | [michael@axdale.com](mailto:michael@axdale.com) |
-| **code** | [308 merged pull requests](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Atheluckystrike+-user%3Atheluckystrike&type=pullrequests) in 102 orgs |
+| **code** | [432 merged pull requests](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Atheluckystrike+-user%3Atheluckystrike&type=pullrequests) in 217 orgs |
 | **products** | [mcp.zovo.one](https://mcp.zovo.one) · [notemods.com](https://notemods.com) · [zovo.one](https://zovo.one) |
 | **x** | [@_alphashark_](https://x.com/_alphashark_) |
 
@@ -284,7 +284,7 @@ cto-turned-solo-dev. 10+ years building software, leading infra, shipping produc
 
 ```
   users.production          9,000+
-  prs.merged.upstream       308
+  prs.merged.upstream       432
   current.streak            64 days
   organizations             axdale · zovo · belikenative
 ```
