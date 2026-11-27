@@ -296,7 +296,7 @@ cto-turned-solo-dev. 10+ years building software, leading infra, shipping produc
 
 <p align="center"><sub><code>built solo · shipped tested · <a href="https://www.axdale.com/?utm_source=github&utm_medium=profile&utm_campaign=footer">axdale.com</a> · <a href="mailto:michael@axdale.com">michael@axdale.com</a></code></sub></p>
 <p align="center"><sub>also building <a href="https://tg.zovo.one">tg.zovo.one</a> — free telegram bot guides & tools · <a href="https://tg.zovo.one/guides/telegram-group-member-limit/">telegram group limits</a> · <a href="https://tg.zovo.one/guides/how-to-see-telegram-group-statistics/">group statistics</a> · <a href="https://tg.zovo.one/guides/streak-insurance-habit-tracker/">habit streaks</a></sub></p>
-<p align="center"><sub>also building <a href="https://vscode.zovo.one/">vscode.zovo.one</a> — 146 offline viewers for Cursor, Windsurf &amp; VS Code (173k+ downloads) · <a href="https://vscode.zovo.one/guides/">offline viewer guides</a> · <a href="https://vscode.zovo.one/pro/">pro tools</a></sub></p>
+<p align="center"><sub>also building <a href="https://vscode.zovo.one/">vscode.zovo.one</a> — 190+ offline viewers for Cursor, Windsurf &amp; VS Code (182k+ downloads) · <a href="https://vscode.zovo.one/tools/">zero-cloud browser tools</a> · <a href="https://vscode.zovo.one/guides/">offline viewer guides</a> · <a href="https://github.com/theluckystrike/awesome-offline-vscode-cursor-tools">awesome offline tools list</a> · <a href="https://vscode.zovo.one/pro/">pro tools</a></sub></p>
 
 ---
 
